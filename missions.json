@@ -11,6 +11,921 @@
  "language": "en",
  "items": [
   {
+   "id": "ic-uei-ef279ab17b#read:exclusion",
+   "title": "Dubai Enterprises Co",
+   "content_text": "Confirm on SAM.gov that Dubai Enterprises Co (UEI JECQDHMDCNM8) carries a Reciprocal exclusion from 25 January 2025 to 11 December 2027.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-07T02:13:23Z",
+   "date_modified": "2026-10-07T02:13:23Z",
+   "tags": [
+    "accountability",
+    "accountability.exclusion"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-uei-ef279ab17b",
+    "objective": "ic-uei-ef279ab17b#read:exclusion",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-uei-ef279ab17b#read:awards",
+   "title": "Dubai Enterprises Co",
+   "content_text": "Confirm 1 award(s) to Dubai Enterprises Co on USASpending, and whether each started inside the exclusion window.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-07T02:13:23Z",
+   "date_modified": "2026-10-07T02:13:23Z",
+   "tags": [
+    "accountability",
+    "accountability.exclusion"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-uei-ef279ab17b",
+    "objective": "ic-uei-ef279ab17b#read:awards",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-uei-ef279ab17b#read:parent",
+   "title": "Dubai Enterprises Co",
+   "content_text": "Find Dubai Enterprises Co's parent entity, if any, and whether it is excluded too.\nAbout 40 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-07T02:13:23Z",
+   "date_modified": "2026-10-07T02:13:23Z",
+   "tags": [
+    "accountability",
+    "accountability.exclusion"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-uei-ef279ab17b",
+    "objective": "ic-uei-ef279ab17b#read:parent",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-c206f2001c#status:angels-of-outreach-inc",
+   "title": "Sumter, SC",
+   "content_text": "Find whether Angels Of Outreach Inc (ZIP 29153) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-07T02:13:22Z",
+   "date_modified": "2026-10-07T02:13:22Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-c206f2001c",
+    "objective": "ic-jurisdiction-c206f2001c#status:angels-of-outreach-inc",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-sc"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-c206f2001c#status:american-youth-football-inc",
+   "title": "Sumter, SC",
+   "content_text": "Find whether American Youth Football Inc (ZIP 29150) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-07T02:13:22Z",
+   "date_modified": "2026-10-07T02:13:22Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-c206f2001c",
+    "objective": "ic-jurisdiction-c206f2001c#status:american-youth-football-inc",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-sc"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-c206f2001c#status:sons-of-confederate-veterans-inc",
+   "title": "Sumter, SC",
+   "content_text": "Find whether Sons Of Confederate Veterans Inc (ZIP 29153) still operates: its IRS status today, a current website or phone line, a filing since 15 December 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-07T02:13:22Z",
+   "date_modified": "2026-10-07T02:13:22Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-c206f2001c",
+    "objective": "ic-jurisdiction-c206f2001c#status:sons-of-confederate-veterans-inc",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-sc"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-c206f2001c#status:carolina-heat-youth-sports-organization",
+   "title": "Sumter, SC",
+   "content_text": "Find whether Carolina Heat Youth Sports Organization (ZIP 29150) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-07T02:13:22Z",
+   "date_modified": "2026-10-07T02:13:22Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-c206f2001c",
+    "objective": "ic-jurisdiction-c206f2001c#status:carolina-heat-youth-sports-organization",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-sc"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-c206f2001c#status:carolina-bullies-youth-sports-league",
+   "title": "Sumter, SC",
+   "content_text": "Find whether Carolina Bullies Youth Sports League (ZIP 29150) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-07T02:13:22Z",
+   "date_modified": "2026-10-07T02:13:22Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-c206f2001c",
+    "objective": "ic-jurisdiction-c206f2001c#status:carolina-bullies-youth-sports-league",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-sc"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-99983afffb#status:siolas-house-for-recovery",
+   "title": "Jacksonville, NC",
+   "content_text": "Find whether Siolas House For Recovery (ZIP 28546) still operates: its IRS status today, a current website or phone line, a filing since 15 April 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-07T02:13:22Z",
+   "date_modified": "2026-10-07T02:13:22Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-99983afffb",
+    "objective": "ic-jurisdiction-99983afffb#status:siolas-house-for-recovery",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-nc"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-99983afffb#status:white-oak-youth-league-booster-club",
+   "title": "Jacksonville, NC",
+   "content_text": "Find whether White Oak Youth League Booster Club (ZIP 28546) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-07T02:13:22Z",
+   "date_modified": "2026-10-07T02:13:22Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-99983afffb",
+    "objective": "ic-jurisdiction-99983afffb#status:white-oak-youth-league-booster-club",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-nc"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-99983afffb#status:nectar-environmental-outreach-inc",
+   "title": "Jacksonville, NC",
+   "content_text": "Find whether Nectar Environmental Outreach Inc (ZIP 28546) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-07T02:13:22Z",
+   "date_modified": "2026-10-07T02:13:22Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-99983afffb",
+    "objective": "ic-jurisdiction-99983afffb#status:nectar-environmental-outreach-inc",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-nc"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-99983afffb#status:jacksonville-youth-group",
+   "title": "Jacksonville, NC",
+   "content_text": "Find whether Jacksonville Youth Group (ZIP 28546) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-07T02:13:22Z",
+   "date_modified": "2026-10-07T02:13:22Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-99983afffb",
+    "objective": "ic-jurisdiction-99983afffb#status:jacksonville-youth-group",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-nc"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-99983afffb#status:southwest-youth-football-association",
+   "title": "Jacksonville, NC",
+   "content_text": "Find whether Southwest Youth Football Association (ZIP 28540) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-07T02:13:22Z",
+   "date_modified": "2026-10-07T02:13:22Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-99983afffb",
+    "objective": "ic-jurisdiction-99983afffb#status:southwest-youth-football-association",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-nc"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-60d274cf41#status:no-hunger-food-bank-and-systems-corporat",
+   "title": "Stafford, VA",
+   "content_text": "Find whether No Hunger Food Bank And Systems Corporation (ZIP 22554) still operates: its IRS status today, a current website or phone line, a filing since 15 November 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-07T02:13:21Z",
+   "date_modified": "2026-10-07T02:13:21Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-60d274cf41",
+    "objective": "ic-jurisdiction-60d274cf41#status:no-hunger-food-bank-and-systems-corporat",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-va"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-60d274cf41#status:building-capacity-outreach",
+   "title": "Stafford, VA",
+   "content_text": "Find whether Building Capacity Outreach (ZIP 22554) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-07T02:13:21Z",
+   "date_modified": "2026-10-07T02:13:21Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-60d274cf41",
+    "objective": "ic-jurisdiction-60d274cf41#status:building-capacity-outreach",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-va"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-60d274cf41#status:stafford-youth-football-inc",
+   "title": "Stafford, VA",
+   "content_text": "Find whether Stafford Youth Football Inc (ZIP 22556) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-07T02:13:21Z",
+   "date_modified": "2026-10-07T02:13:21Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-60d274cf41",
+    "objective": "ic-jurisdiction-60d274cf41#status:stafford-youth-football-inc",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-va"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-60d274cf41#status:josiah-generation-youth-ministries-inc",
+   "title": "Stafford, VA",
+   "content_text": "Find whether Josiah Generation Youth Ministries Inc (ZIP 22554) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-07T02:13:21Z",
+   "date_modified": "2026-10-07T02:13:21Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-60d274cf41",
+    "objective": "ic-jurisdiction-60d274cf41#status:josiah-generation-youth-ministries-inc",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-va"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-24f403902d#status:homes-for-veterans-inc",
+   "title": "Franklin, TN",
+   "content_text": "Find whether Homes For Veterans Inc (ZIP 37067) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-07T02:13:21Z",
+   "date_modified": "2026-10-07T02:13:21Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-24f403902d",
+    "objective": "ic-jurisdiction-24f403902d#status:homes-for-veterans-inc",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-tn"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-24f403902d#status:ignite-student-outreach-inc",
+   "title": "Franklin, TN",
+   "content_text": "Find whether Ignite Student Outreach Inc (ZIP 37064) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-07T02:13:21Z",
+   "date_modified": "2026-10-07T02:13:21Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-24f403902d",
+    "objective": "ic-jurisdiction-24f403902d#status:ignite-student-outreach-inc",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-tn"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-24f403902d#status:youth-leadershio-fund-inc",
+   "title": "Franklin, TN",
+   "content_text": "Find whether Youth Leadershio Fund Inc (ZIP 37064) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-07T02:13:21Z",
+   "date_modified": "2026-10-07T02:13:21Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-24f403902d",
+    "objective": "ic-jurisdiction-24f403902d#status:youth-leadershio-fund-inc",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-tn"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-24f403902d#status:dawson-springs-long-term-economic-recove",
+   "title": "Franklin, TN",
+   "content_text": "Find whether Dawson Springs Long Term Economic Recovery Inc (ZIP 37067) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-07T02:13:21Z",
+   "date_modified": "2026-10-07T02:13:21Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-24f403902d",
+    "objective": "ic-jurisdiction-24f403902d#status:dawson-springs-long-term-economic-recove",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-tn"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-24f403902d#status:beachwood-youth-sports-nonprofit-charity",
+   "title": "Franklin, TN",
+   "content_text": "Find whether Beachwood Youth Sports Nonprofit Charity (ZIP 37064) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-07T02:13:21Z",
+   "date_modified": "2026-10-07T02:13:21Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-24f403902d",
+    "objective": "ic-jurisdiction-24f403902d#status:beachwood-youth-sports-nonprofit-charity",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-tn"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-ein-c3a5802df2#read:filing",
+   "title": "Stand For The Silent Inc",
+   "content_text": "Read Stand For The Silent Inc's 2023 Form 990 -- Part IX line 11e and Schedule G Part I -- and confirm the fee figure of $11,972,336 and who was paid it. The e-filed return names 7 fundraiser(s); check the largest, Elite Generations Inc: $3,147,851 raised, $1,860,101 kept.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-07T02:13:20Z",
+   "date_modified": "2026-10-07T02:13:20Z",
+   "tags": [
+    "charity",
+    "charity.fundraising"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-c3a5802df2",
+    "objective": "ic-ein-c3a5802df2#read:filing",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-ok"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-ein-c3a5802df2#read:registration",
+   "title": "Stand For The Silent Inc",
+   "content_text": "Check whether Stand For The Silent Inc and the fundraisers named are registered with the OK charity regulator, and whether the fundraising contracts are on public file.\nAbout 40 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-07T02:13:20Z",
+   "date_modified": "2026-10-07T02:13:20Z",
+   "tags": [
+    "charity",
+    "charity.fundraising"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-c3a5802df2",
+    "objective": "ic-ein-c3a5802df2#read:registration",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-ok"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-ein-c3a5802df2#check:solicitor",
+   "title": "Stand For The Silent Inc",
+   "content_text": "Check whether Elite Generations Inc is registered as a professional fundraiser or solicitor in OK, and whether its contract with Stand For The Silent Inc is on file.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-07T02:13:20Z",
+   "date_modified": "2026-10-07T02:13:20Z",
+   "tags": [
+    "charity",
+    "charity.fundraising"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-c3a5802df2",
+    "objective": "ic-ein-c3a5802df2#check:solicitor",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-ok"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-ein-a1ac28ce91#read:filing",
+   "title": "Firefighters Charitable Foundation Inc",
+   "content_text": "Read Firefighters Charitable Foundation Inc's 2023 Form 990 -- Part IX line 11e and Schedule G Part I -- and confirm the fee figure of $2,772,428 and who was paid it.\nAbout 45 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-07T02:13:20Z",
+   "date_modified": "2026-10-07T02:13:20Z",
+   "tags": [
+    "charity",
+    "charity.fundraising"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-a1ac28ce91",
+    "objective": "ic-ein-a1ac28ce91#read:filing",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-ny"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-ein-a1ac28ce91#read:registration",
+   "title": "Firefighters Charitable Foundation Inc",
+   "content_text": "Check whether Firefighters Charitable Foundation Inc and the fundraisers named are registered with the NY charity regulator, and whether the fundraising contracts are on public file.\nAbout 40 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-07T02:13:20Z",
+   "date_modified": "2026-10-07T02:13:20Z",
+   "tags": [
+    "charity",
+    "charity.fundraising"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-a1ac28ce91",
+    "objective": "ic-ein-a1ac28ce91#read:registration",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-ny"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-icsa-81e2903879#check:fix",
+   "title": "Viidure Dashcam Android Application",
+   "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2026-96587 in Viidure Dashcam Android Application, published since 2026-09-29.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-07T02:13:20Z",
+   "date_modified": "2026-10-07T02:13:20Z",
+   "tags": [
+    "cyber",
+    "cyber.ics"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-81e2903879",
+    "objective": "ic-icsa-81e2903879#check:fix",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-7086bc82ae#status:st-michaels-outreach",
+   "title": "Highland, CA",
+   "content_text": "Find whether St Michaels Outreach (ZIP 92346) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-07T02:13:19Z",
+   "date_modified": "2026-10-07T02:13:19Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-7086bc82ae",
+    "objective": "ic-jurisdiction-7086bc82ae#status:st-michaels-outreach",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-ca"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-7086bc82ae#status:revolution-youth-advocates",
+   "title": "Highland, CA",
+   "content_text": "Find whether Revolution Youth Advocates (ZIP 92346) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-07T02:13:19Z",
+   "date_modified": "2026-10-07T02:13:19Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-7086bc82ae",
+    "objective": "ic-jurisdiction-7086bc82ae#status:revolution-youth-advocates",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-ca"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-7086bc82ae#status:make-a-joyful-noise-community-outreach-c",
+   "title": "Highland, CA",
+   "content_text": "Find whether Make A Joyful Noise Community Outreach Center (ZIP 92346) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-07T02:13:19Z",
+   "date_modified": "2026-10-07T02:13:19Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-7086bc82ae",
+    "objective": "ic-jurisdiction-7086bc82ae#status:make-a-joyful-noise-community-outreach-c",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-ca"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-7086bc82ae#status:elite-youth-and-community-development-pr",
+   "title": "Highland, CA",
+   "content_text": "Find whether Elite Youth And Community Development Program (ZIP 92346) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-07T02:13:19Z",
+   "date_modified": "2026-10-07T02:13:19Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-7086bc82ae",
+    "objective": "ic-jurisdiction-7086bc82ae#status:elite-youth-and-community-development-pr",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-ca"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-icsa-ceaa6398a1#check:fix",
+   "title": "Siemens SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP",
+   "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2023-28531 in Siemens SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP, published since 2026-07-14.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-07T02:13:19Z",
+   "date_modified": "2026-10-07T02:13:19Z",
+   "tags": [
+    "cyber",
+    "cyber.ics"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-ceaa6398a1",
+    "objective": "ic-icsa-ceaa6398a1#check:fix",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
    "id": "field:refunds_owed:ag-7b298eba5740b5de#read:claim",
    "title": "Help people claim what they're owed: WA consumers get financial relief through auto lender settlement",
    "content_text": "Read the release and the claim site: who qualifies, what they need, and the deadline.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
