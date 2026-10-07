@@ -11,6 +11,36 @@
  "language": "en",
  "items": [
   {
+   "id": "field:heat_relief:CA:2026-10-02#find:centres",
+   "title": "Heat relief: California (124 forecast areas)",
+   "content_text": "Find the open cooling centres and their hours for Bakersfield, Buena Vista, Butte County Below 1000 ft, Buttonwillow - Lost Hills - I5 and 120 more on the county or city site, and write them on a card you can hand out.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://www.weather.gov/alerts?area=CA",
+   "date_published": "2026-10-07T21:10:02Z",
+   "date_modified": "2026-10-07T21:10:02Z",
+   "tags": [
+    "outreach",
+    "outreach.heat"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-heat_relief-CA-2026-10-02",
+    "objective": "field:heat_relief:CA:2026-10-02#find:centres",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1791608400,
+    "jurisdiction": [
+     "us-ca"
+    ],
+    "presence": "desk",
+    "limits": [
+     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. Heat hurts helpers too: carry your own water, rest in shade, stop if you feel dizzy."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
    "id": "ic-uei-ef279ab17b#read:exclusion",
    "title": "Dubai Enterprises Co",
    "content_text": "Confirm on SAM.gov that Dubai Enterprises Co (UEI JECQDHMDCNM8) carries a Reciprocal exclusion from 25 January 2025 to 11 December 2027.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
@@ -1011,36 +1041,6 @@
     "presence": "desk",
     "limits": [
      "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. Never handle anyone's personal, bank or card details: they file it themselves."
-    ],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "field:heat_relief:CA:2026-10-02#find:centres",
-   "title": "Heat relief: California (124 forecast areas)",
-   "content_text": "Find the open cooling centres and their hours for Bakersfield, Buena Vista, Butte County Below 1000 ft, Buttonwillow - Lost Hills - I5 and 120 more on the county or city site, and write them on a card you can hand out.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://www.weather.gov/alerts?area=CA",
-   "date_published": "2026-10-06T21:35:04Z",
-   "date_modified": "2026-10-06T21:35:04Z",
-   "tags": [
-    "outreach",
-    "outreach.heat"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-heat_relief-CA-2026-10-02",
-    "objective": "field:heat_relief:CA:2026-10-02#find:centres",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": 1791608400,
-    "jurisdiction": [
-     "us-ca"
-    ],
-    "presence": "desk",
-    "limits": [
-     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. Heat hurts helpers too: carry your own water, rest in shade, stop if you feel dizzy."
     ],
     "record": "wss://record.cosmiccodex.app"
    }
