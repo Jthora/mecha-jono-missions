@@ -11,6 +11,522 @@
  "language": "en",
  "items": [
   {
+   "id": "field:recall_check:2026-10-08#read:notice",
+   "title": "Check the shelves near you: 3 Class I recalls this fortnight",
+   "content_text": "Read the recall notices and note each product, its lot codes and what buyers should do.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "date_published": "2026-10-08T03:14:14Z",
+   "date_modified": "2026-10-08T03:14:14Z",
+   "tags": [
+    "awareness",
+    "awareness.recall"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-recall_check-2026-10-08",
+    "objective": "field:recall_check:2026-10-08#read:notice",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1791547200,
+    "jurisdiction": [
+     "us"
+    ],
+    "presence": "desk",
+    "limits": [
+     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. Never remove products yourself: tell the store or the pantry."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-grant-891ffd0634#read:eligibility",
+   "title": "Exploring and Enhancing Outdoor and Heritage Tourism in the Chesapeake Bay Watershed",
+   "content_text": "Confirm on Grants.gov that P27AS00032 is open until 4 November 2026 and read who may apply.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T02:37:41Z",
+   "date_modified": "2026-10-08T02:37:41Z",
+   "tags": [
+    "funding",
+    "funding.grant"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-891ffd0634",
+    "objective": "ic-grant-891ffd0634#read:eligibility",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-grant-891ffd0634#find:applicant",
+   "title": "Exploring and Enhancing Outdoor and Heritage Tourism in the Chesapeake Bay Watershed",
+   "content_text": "Find a local nonprofit that works in community development, registered and eligible for P27AS00032, that would use it and may not have seen it.\nAbout 45 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T02:37:41Z",
+   "date_modified": "2026-10-08T02:37:41Z",
+   "tags": [
+    "funding",
+    "funding.grant"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-891ffd0634",
+    "objective": "ic-grant-891ffd0634#find:applicant",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-grant-8aeec35d33#read:eligibility",
+   "title": "OJJDP FY 2026 Second Chance Act Youth Reentry Program",
+   "content_text": "Confirm on Grants.gov that O-OJJDP-2026-172751 is open until 2 November 2026 and read who may apply.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T02:37:41Z",
+   "date_modified": "2026-10-08T02:37:41Z",
+   "tags": [
+    "funding",
+    "funding.grant"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-8aeec35d33",
+    "objective": "ic-grant-8aeec35d33#read:eligibility",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-grant-8aeec35d33#find:applicant",
+   "title": "OJJDP FY 2026 Second Chance Act Youth Reentry Program",
+   "content_text": "Find a local group doing the work this programme funds, registered and eligible for O-OJJDP-2026-172751, that would use it and may not have seen it.\nAbout 45 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T02:37:41Z",
+   "date_modified": "2026-10-08T02:37:41Z",
+   "tags": [
+    "funding",
+    "funding.grant"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-8aeec35d33",
+    "objective": "ic-grant-8aeec35d33#find:applicant",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-grant-764b549692#read:eligibility",
+   "title": "Long-term health outcomes of people living with spina bifida",
+   "content_text": "Confirm on Grants.gov that CDC-RFA-DD-26-0222 is open until 26 October 2026 and read who may apply.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T02:37:40Z",
+   "date_modified": "2026-10-08T02:37:40Z",
+   "tags": [
+    "funding",
+    "funding.grant"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-764b549692",
+    "objective": "ic-grant-764b549692#read:eligibility",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-grant-764b549692#find:applicant",
+   "title": "Long-term health outcomes of people living with spina bifida",
+   "content_text": "Find a local group doing the work this programme funds, registered and eligible for CDC-RFA-DD-26-0222, that would use it and may not have seen it.\nAbout 45 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T02:37:40Z",
+   "date_modified": "2026-10-08T02:37:40Z",
+   "tags": [
+    "funding",
+    "funding.grant"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-764b549692",
+    "objective": "ic-grant-764b549692#find:applicant",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-ein-5f94d5f22c#read:filing",
+   "title": "Greenpeace Inc",
+   "content_text": "Read Greenpeace Inc's 2023 Form 990 -- Part IX line 11e and Schedule G Part I -- and confirm the fee figure of $6,498,232 and who was paid it. The e-filed return names 9 fundraiser(s); check the largest, Public Outreach Fundraising LLC: $671,959 raised, $1,569,393 kept.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T02:37:40Z",
+   "date_modified": "2026-10-08T02:37:40Z",
+   "tags": [
+    "charity",
+    "charity.fundraising"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-5f94d5f22c",
+    "objective": "ic-ein-5f94d5f22c#read:filing",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-dc"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-ein-5f94d5f22c#read:registration",
+   "title": "Greenpeace Inc",
+   "content_text": "Check whether Greenpeace Inc and the fundraisers named are registered with the DC charity regulator, and whether the fundraising contracts are on public file.\nAbout 40 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T02:37:40Z",
+   "date_modified": "2026-10-08T02:37:40Z",
+   "tags": [
+    "charity",
+    "charity.fundraising"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-5f94d5f22c",
+    "objective": "ic-ein-5f94d5f22c#read:registration",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-dc"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-ein-5f94d5f22c#check:solicitor",
+   "title": "Greenpeace Inc",
+   "content_text": "Check whether Public Outreach Fundraising LLC is registered as a professional fundraiser or solicitor in DC, and whether its contract with Greenpeace Inc is on file.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T02:37:40Z",
+   "date_modified": "2026-10-08T02:37:40Z",
+   "tags": [
+    "charity",
+    "charity.fundraising"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-5f94d5f22c",
+    "objective": "ic-ein-5f94d5f22c#check:solicitor",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-dc"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-ein-5f94d5f22c#compare:clients:givebridge-inc",
+   "title": "Greenpeace Inc",
+   "content_text": "Givebridge Inc kept 70% of the $2,126,922 it raised for Greenpeace Inc. Other charities' returns name it too -- it kept 80% of the $2,128,278 it raised for Little Saint Nick Foundation Inc (2023 return). Read each Schedule G and say whether these look like the same terms, and whether any contract on public file explains a difference.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T02:37:40Z",
+   "date_modified": "2026-10-08T02:37:40Z",
+   "tags": [
+    "charity",
+    "charity.fundraising"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-5f94d5f22c",
+    "objective": "ic-ein-5f94d5f22c#compare:clients:givebridge-inc",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-dc"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-ein-1ab2242105#read:filing",
+   "title": "Car Donation Foundation",
+   "content_text": "Read Car Donation Foundation's 2023 Form 990 -- Part IX line 11e and Schedule G Part I -- and confirm the fee figure of $12,477,878 and who was paid it. The e-filed return names 1 fundraiser(s); check the largest, National Fundraising Management: $61,319,137 raised, $12,477,877 kept.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T02:37:39Z",
+   "date_modified": "2026-10-08T02:37:39Z",
+   "tags": [
+    "charity",
+    "charity.fundraising"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-1ab2242105",
+    "objective": "ic-ein-1ab2242105#read:filing",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-mn"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-ein-1ab2242105#read:registration",
+   "title": "Car Donation Foundation",
+   "content_text": "Check whether Car Donation Foundation and the fundraisers named are registered with the MN charity regulator, and whether the fundraising contracts are on public file.\nAbout 40 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T02:37:39Z",
+   "date_modified": "2026-10-08T02:37:39Z",
+   "tags": [
+    "charity",
+    "charity.fundraising"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-1ab2242105",
+    "objective": "ic-ein-1ab2242105#read:registration",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-mn"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-ein-1ab2242105#check:solicitor",
+   "title": "Car Donation Foundation",
+   "content_text": "Check whether National Fundraising Management is registered as a professional fundraiser or solicitor in MN, and whether its contract with Car Donation Foundation is on file.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T02:37:39Z",
+   "date_modified": "2026-10-08T02:37:39Z",
+   "tags": [
+    "charity",
+    "charity.fundraising"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-1ab2242105",
+    "objective": "ic-ein-1ab2242105#check:solicitor",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-mn"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-ein-60acde476a#read:filing",
+   "title": "Givinga Foundation Inc",
+   "content_text": "Read Givinga Foundation Inc's 2023 Form 990 -- Part IX line 11e and Schedule G Part I -- and confirm the fee figure of $5,225,895 and who was paid it. The e-filed return names 2 fundraiser(s); check the largest, Golden Hearts Games Inc: $3,422,504 raised, $2,992,029 kept.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T02:37:39Z",
+   "date_modified": "2026-10-08T02:37:39Z",
+   "tags": [
+    "charity",
+    "charity.fundraising"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-60acde476a",
+    "objective": "ic-ein-60acde476a#read:filing",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-ma"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-ein-60acde476a#read:registration",
+   "title": "Givinga Foundation Inc",
+   "content_text": "Check whether Givinga Foundation Inc and the fundraisers named are registered with the MA charity regulator, and whether the fundraising contracts are on public file.\nAbout 40 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T02:37:39Z",
+   "date_modified": "2026-10-08T02:37:39Z",
+   "tags": [
+    "charity",
+    "charity.fundraising"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-60acde476a",
+    "objective": "ic-ein-60acde476a#read:registration",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-ma"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-ein-60acde476a#check:solicitor",
+   "title": "Givinga Foundation Inc",
+   "content_text": "Check whether Golden Hearts Games Inc is registered as a professional fundraiser or solicitor in MA, and whether its contract with Givinga Foundation Inc is on file.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T02:37:39Z",
+   "date_modified": "2026-10-08T02:37:39Z",
+   "tags": [
+    "charity",
+    "charity.fundraising"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-60acde476a",
+    "objective": "ic-ein-60acde476a#check:solicitor",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-ma"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-uei-d77f0e60e0#read:parent-exclusion",
+   "title": "Prescient Technologies, LLC",
+   "content_text": "Confirm on SAM.gov that UEI GA7ZBZQ6MRE6 carries the exclusion recorded as 'Reciprocal - Active - 2025-05-28 - 2028-05-27'.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T02:37:39Z",
+   "date_modified": "2026-10-08T02:37:39Z",
+   "tags": [
+    "accountability",
+    "accountability.exclusion"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-uei-d77f0e60e0",
+    "objective": "ic-uei-d77f0e60e0#read:parent-exclusion",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-va"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-uei-d77f0e60e0#read:child-awards",
+   "title": "Prescient Technologies, LLC",
+   "content_text": "List Prescient Technologies, LLC's federal awards on USASpending that name GA7ZBZQ6MRE6 as parent, with their dates, and whether any fall inside the parent's exclusion.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T02:37:39Z",
+   "date_modified": "2026-10-08T02:37:39Z",
+   "tags": [
+    "accountability",
+    "accountability.exclusion"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-uei-d77f0e60e0",
+    "objective": "ic-uei-d77f0e60e0#read:child-awards",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-va"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
    "id": "field:heat_relief:CA:2026-10-02#find:centres",
    "title": "Heat relief: California (124 forecast areas)",
    "content_text": "Find the open cooling centres and their hours for Bakersfield, Buena Vista, Butte County Below 1000 ft, Buttonwillow - Lost Hills - I5 and 120 more on the county or city site, and write them on a card you can hand out.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
