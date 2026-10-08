@@ -11,6 +11,896 @@
  "language": "en",
  "items": [
   {
+   "id": "ic-ein-20f3e20c89#read:filing",
+   "title": "Dtcare",
+   "content_text": "Read Dtcare's 2023 Form 990 -- Part IX line 11e and Schedule G Part I -- and confirm the fee figure of $12,926,171 and who was paid it. The e-filed return names 1 fundraiser(s); check the largest, Colossal Management LLC: $48,151,210 raised, $12,926,171 kept.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T08:39:59Z",
+   "date_modified": "2026-10-08T08:39:59Z",
+   "tags": [
+    "charity",
+    "charity.fundraising"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-20f3e20c89",
+    "objective": "ic-ein-20f3e20c89#read:filing",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-pa"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-ein-20f3e20c89#read:registration",
+   "title": "Dtcare",
+   "content_text": "Check whether Dtcare and the fundraisers named are registered with the PA charity regulator, and whether the fundraising contracts are on public file.\nAbout 40 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T08:39:59Z",
+   "date_modified": "2026-10-08T08:39:59Z",
+   "tags": [
+    "charity",
+    "charity.fundraising"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-20f3e20c89",
+    "objective": "ic-ein-20f3e20c89#read:registration",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-pa"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-ein-20f3e20c89#check:solicitor",
+   "title": "Dtcare",
+   "content_text": "Check whether Colossal Management LLC is registered as a professional fundraiser or solicitor in PA, and whether its contract with Dtcare is on file.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T08:39:59Z",
+   "date_modified": "2026-10-08T08:39:59Z",
+   "tags": [
+    "charity",
+    "charity.fundraising"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-20f3e20c89",
+    "objective": "ic-ein-20f3e20c89#check:solicitor",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-pa"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-ein-8e7e1871fb#read:filing",
+   "title": "Pledgeling Foundation",
+   "content_text": "Read Pledgeling Foundation's 2023 Form 990 -- Part IX line 11e and Schedule G Part I -- and confirm the fee figure of $17,586,071 and who was paid it. The e-filed return names 2 fundraiser(s); check the largest, Charitybuzz LLC: $31,220,943 raised, $12,903,294 kept.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T08:39:58Z",
+   "date_modified": "2026-10-08T08:39:58Z",
+   "tags": [
+    "charity",
+    "charity.fundraising"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-8e7e1871fb",
+    "objective": "ic-ein-8e7e1871fb#read:filing",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-ca"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-ein-8e7e1871fb#read:registration",
+   "title": "Pledgeling Foundation",
+   "content_text": "Check whether Pledgeling Foundation and the fundraisers named are registered with the CA charity regulator, and whether the fundraising contracts are on public file.\nAbout 40 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T08:39:58Z",
+   "date_modified": "2026-10-08T08:39:58Z",
+   "tags": [
+    "charity",
+    "charity.fundraising"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-8e7e1871fb",
+    "objective": "ic-ein-8e7e1871fb#read:registration",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-ca"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-ein-8e7e1871fb#check:solicitor",
+   "title": "Pledgeling Foundation",
+   "content_text": "Check whether Charitybuzz LLC is registered as a professional fundraiser or solicitor in CA, and whether its contract with Pledgeling Foundation is on file.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T08:39:58Z",
+   "date_modified": "2026-10-08T08:39:58Z",
+   "tags": [
+    "charity",
+    "charity.fundraising"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-8e7e1871fb",
+    "objective": "ic-ein-8e7e1871fb#check:solicitor",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-ca"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-f4ea7410d2#status:solidarity-veterans-estates",
+   "title": "Euclid, OH",
+   "content_text": "Find whether Solidarity Veterans Estates (ZIP 44117) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T08:39:58Z",
+   "date_modified": "2026-10-08T08:39:58Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-f4ea7410d2",
+    "objective": "ic-jurisdiction-f4ea7410d2#status:solidarity-veterans-estates",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-oh"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-f4ea7410d2#status:american-youth-football-inc",
+   "title": "Euclid, OH",
+   "content_text": "Find whether American Youth Football Inc (ZIP 44132) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T08:39:58Z",
+   "date_modified": "2026-10-08T08:39:58Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-f4ea7410d2",
+    "objective": "ic-jurisdiction-f4ea7410d2#status:american-youth-football-inc",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-oh"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-f4ea7410d2#status:sims-raiders-youth-organization-inc",
+   "title": "Euclid, OH",
+   "content_text": "Find whether Sims Raiders Youth Organization Inc (ZIP 44132) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T08:39:58Z",
+   "date_modified": "2026-10-08T08:39:58Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-f4ea7410d2",
+    "objective": "ic-jurisdiction-f4ea7410d2#status:sims-raiders-youth-organization-inc",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-oh"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-207872e629#status:tennessee-addiction-recovery-foundation",
+   "title": "Johnson City, TN",
+   "content_text": "Find whether Tennessee Addiction Recovery Foundation (ZIP 37601) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T08:39:57Z",
+   "date_modified": "2026-10-08T08:39:57Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-207872e629",
+    "objective": "ic-jurisdiction-207872e629#status:tennessee-addiction-recovery-foundation",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-tn"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-207872e629#status:encouragers-outreach-ministries-inc",
+   "title": "Johnson City, TN",
+   "content_text": "Find whether Encouragers Outreach Ministries Inc (ZIP 37604) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T08:39:57Z",
+   "date_modified": "2026-10-08T08:39:57Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-207872e629",
+    "objective": "ic-jurisdiction-207872e629#status:encouragers-outreach-ministries-inc",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-tn"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-207872e629#status:kings-youth-athletic-program",
+   "title": "Johnson City, TN",
+   "content_text": "Find whether Kings Youth Athletic Program (ZIP 37615) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T08:39:57Z",
+   "date_modified": "2026-10-08T08:39:57Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-207872e629",
+    "objective": "ic-jurisdiction-207872e629#status:kings-youth-athletic-program",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-tn"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-207872e629#status:agape-youth-empowerment",
+   "title": "Johnson City, TN",
+   "content_text": "Find whether Agape Youth Empowerment (ZIP 37601) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T08:39:57Z",
+   "date_modified": "2026-10-08T08:39:57Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-207872e629",
+    "objective": "ic-jurisdiction-207872e629#status:agape-youth-empowerment",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-tn"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-ein-98978a8751#read:filing",
+   "title": "Military Order Of The Purple Heart Service Foundation Inc",
+   "content_text": "Read Military Order Of The Purple Heart Service Foundation Inc's 2023 Form 990 -- Part IX line 11e and Schedule G Part I -- and confirm the fee figure of $10,233,743 and who was paid it. The e-filed return names 7 fundraiser(s); check the largest, Greendrop: $10,917,828 raised, $8,894,449 kept.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T08:39:57Z",
+   "date_modified": "2026-10-08T08:39:57Z",
+   "tags": [
+    "charity",
+    "charity.fundraising"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-98978a8751",
+    "objective": "ic-ein-98978a8751#read:filing",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-va"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-ein-98978a8751#read:registration",
+   "title": "Military Order Of The Purple Heart Service Foundation Inc",
+   "content_text": "Check whether Military Order Of The Purple Heart Service Foundation Inc and the fundraisers named are registered with the VA charity regulator, and whether the fundraising contracts are on public file.\nAbout 40 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T08:39:57Z",
+   "date_modified": "2026-10-08T08:39:57Z",
+   "tags": [
+    "charity",
+    "charity.fundraising"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-98978a8751",
+    "objective": "ic-ein-98978a8751#read:registration",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-va"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-ein-98978a8751#check:solicitor",
+   "title": "Military Order Of The Purple Heart Service Foundation Inc",
+   "content_text": "Check whether Greendrop is registered as a professional fundraiser or solicitor in VA, and whether its contract with Military Order Of The Purple Heart Service Foundation Inc is on file.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T08:39:57Z",
+   "date_modified": "2026-10-08T08:39:57Z",
+   "tags": [
+    "charity",
+    "charity.fundraising"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-98978a8751",
+    "objective": "ic-ein-98978a8751#check:solicitor",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-va"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-8731871071#status:youth-mentoring-network",
+   "title": "Lansing, IL",
+   "content_text": "Find whether Youth Mentoring Network (ZIP 60438) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T08:39:57Z",
+   "date_modified": "2026-10-08T08:39:57Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-8731871071",
+    "objective": "ic-jurisdiction-8731871071#status:youth-mentoring-network",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-il"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-8731871071#status:k-d-community-outreach-inc",
+   "title": "Lansing, IL",
+   "content_text": "Find whether K&d Community Outreach Inc (ZIP 60438) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T08:39:57Z",
+   "date_modified": "2026-10-08T08:39:57Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-8731871071",
+    "objective": "ic-jurisdiction-8731871071#status:k-d-community-outreach-inc",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-il"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-8731871071#status:youth-excel-nfp",
+   "title": "Lansing, IL",
+   "content_text": "Find whether Youth Excel NFP (ZIP 60438) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T08:39:57Z",
+   "date_modified": "2026-10-08T08:39:57Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-8731871071",
+    "objective": "ic-jurisdiction-8731871071#status:youth-excel-nfp",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-il"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-8731871071#status:veterans-in-particular-nfp",
+   "title": "Lansing, IL",
+   "content_text": "Find whether Veterans In Particular NFP (ZIP 60438) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T08:39:57Z",
+   "date_modified": "2026-10-08T08:39:57Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-8731871071",
+    "objective": "ic-jurisdiction-8731871071#status:veterans-in-particular-nfp",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-il"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-icsa-be97ff6530#check:fix",
+   "title": "Anjvision YSSD-RTMP-H5",
+   "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2026-100291 in Anjvision YSSD-RTMP-H5, published since 2026-09-29.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T08:39:56Z",
+   "date_modified": "2026-10-08T08:39:56Z",
+   "tags": [
+    "cyber",
+    "cyber.ics"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-be97ff6530",
+    "objective": "ic-icsa-be97ff6530#check:fix",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-b21ff75949#status:table-youth-talk",
+   "title": "Harrisburg, PA",
+   "content_text": "Find whether Table Youth Talk (ZIP 17104) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T08:39:56Z",
+   "date_modified": "2026-10-08T08:39:56Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-b21ff75949",
+    "objective": "ic-jurisdiction-b21ff75949#status:table-youth-talk",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-pa"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-b21ff75949#status:color-our-world-community-outreach-servi",
+   "title": "Harrisburg, PA",
+   "content_text": "Find whether Color Our World Community Outreach Services Inc (ZIP 17110) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T08:39:56Z",
+   "date_modified": "2026-10-08T08:39:56Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-b21ff75949",
+    "objective": "ic-jurisdiction-b21ff75949#status:color-our-world-community-outreach-servi",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-pa"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-b21ff75949#status:a-spot-recovery-inc",
+   "title": "Harrisburg, PA",
+   "content_text": "Find whether A-spot Recovery Inc (ZIP 17109) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T08:39:56Z",
+   "date_modified": "2026-10-08T08:39:56Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-b21ff75949",
+    "objective": "ic-jurisdiction-b21ff75949#status:a-spot-recovery-inc",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-pa"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-b21ff75949#status:recovery-institute-inc",
+   "title": "Harrisburg, PA",
+   "content_text": "Find whether Recovery Institute Inc (ZIP 17109) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T08:39:56Z",
+   "date_modified": "2026-10-08T08:39:56Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-b21ff75949",
+    "objective": "ic-jurisdiction-b21ff75949#status:recovery-institute-inc",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-pa"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-b21ff75949#status:antioch-recovery-services",
+   "title": "Harrisburg, PA",
+   "content_text": "Find whether Antioch Recovery Services (ZIP 17110) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T08:39:56Z",
+   "date_modified": "2026-10-08T08:39:56Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-b21ff75949",
+    "objective": "ic-jurisdiction-b21ff75949#status:antioch-recovery-services",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-pa"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-808e496ab2#status:bee-buddies-outreach-inc",
+   "title": "Florissant, MO",
+   "content_text": "Find whether Bee Buddies Outreach Inc (ZIP 63033) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T08:39:55Z",
+   "date_modified": "2026-10-08T08:39:55Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-808e496ab2",
+    "objective": "ic-jurisdiction-808e496ab2#status:bee-buddies-outreach-inc",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-mo"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-808e496ab2#status:life-connectors-veterans-outreach-organi",
+   "title": "Florissant, MO",
+   "content_text": "Find whether Life Connectors Veterans Outreach Organization Inc (ZIP 63034) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T08:39:55Z",
+   "date_modified": "2026-10-08T08:39:55Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-808e496ab2",
+    "objective": "ic-jurisdiction-808e496ab2#status:life-connectors-veterans-outreach-organi",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-mo"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-808e496ab2#status:platinum-ladies-outreach-inc",
+   "title": "Florissant, MO",
+   "content_text": "Find whether Platinum Ladies Outreach Inc (ZIP 63031) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T08:39:55Z",
+   "date_modified": "2026-10-08T08:39:55Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-808e496ab2",
+    "objective": "ic-jurisdiction-808e496ab2#status:platinum-ladies-outreach-inc",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-mo"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-808e496ab2#status:shelter-from-the-storm-h-s-w-c",
+   "title": "Florissant, MO",
+   "content_text": "Find whether Shelter From The Storm H S W C (ZIP 63031) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T08:39:55Z",
+   "date_modified": "2026-10-08T08:39:55Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-808e496ab2",
+    "objective": "ic-jurisdiction-808e496ab2#status:shelter-from-the-storm-h-s-w-c",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-mo"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-808e496ab2#status:reach-one-teach-one-outreach-inc",
+   "title": "Florissant, MO",
+   "content_text": "Find whether Reach One Teach One Outreach Inc (ZIP 63034) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T08:39:55Z",
+   "date_modified": "2026-10-08T08:39:55Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-808e496ab2",
+    "objective": "ic-jurisdiction-808e496ab2#status:reach-one-teach-one-outreach-inc",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-mo"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-icsa-599f38ab18#check:fix",
+   "title": "Apeman Cameras",
+   "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2025-11126 in Apeman Cameras, published since 2026-03-10.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T08:39:55Z",
+   "date_modified": "2026-10-08T08:39:55Z",
+   "tags": [
+    "cyber",
+    "cyber.ics"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-599f38ab18",
+    "objective": "ic-icsa-599f38ab18#check:fix",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
    "id": "field:recall_check:2026-10-08#read:notice",
    "title": "Check the shelves near you: 3 Class I recalls this fortnight",
    "content_text": "Read the recall notices and note each product, its lot codes and what buyers should do.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
