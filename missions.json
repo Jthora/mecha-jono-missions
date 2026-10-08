@@ -11,6 +11,865 @@
  "language": "en",
  "items": [
   {
+   "id": "ic-ein-1ca3709365#read:filing",
+   "title": "American Legion Charities Inc",
+   "content_text": "Read American Legion Charities Inc's 2023 Form 990 -- Part IX line 11e and Schedule G Part I -- and confirm the fee figure of $5,322,952 and who was paid it. The e-filed return names 2 fundraiser(s); check the largest, Edge Direct LLC: $11,732,964 raised, $5,081,195 kept.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T20:46:27Z",
+   "date_modified": "2026-10-08T20:46:27Z",
+   "tags": [
+    "charity",
+    "charity.fundraising"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-1ca3709365",
+    "objective": "ic-ein-1ca3709365#read:filing",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-in"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-ein-1ca3709365#read:registration",
+   "title": "American Legion Charities Inc",
+   "content_text": "Check whether American Legion Charities Inc and the fundraisers named are registered with the IN charity regulator, and whether the fundraising contracts are on public file.\nAbout 40 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T20:46:27Z",
+   "date_modified": "2026-10-08T20:46:27Z",
+   "tags": [
+    "charity",
+    "charity.fundraising"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-1ca3709365",
+    "objective": "ic-ein-1ca3709365#read:registration",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-in"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-ein-1ca3709365#check:solicitor",
+   "title": "American Legion Charities Inc",
+   "content_text": "Check whether Edge Direct LLC is registered as a professional fundraiser or solicitor in IN, and whether its contract with American Legion Charities Inc is on file.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T20:46:27Z",
+   "date_modified": "2026-10-08T20:46:27Z",
+   "tags": [
+    "charity",
+    "charity.fundraising"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-1ca3709365",
+    "objective": "ic-ein-1ca3709365#check:solicitor",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-in"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-grant-36f9ba597b#read:eligibility",
+   "title": "Strengthening Ghana Health Service laboratory services, diagnostic networks, and systems for a…",
+   "content_text": "Confirm on Grants.gov that CDC-RFA-JG-26-0178 is open until 16 October 2026 and read who may apply.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T20:46:26Z",
+   "date_modified": "2026-10-08T20:46:26Z",
+   "tags": [
+    "funding",
+    "funding.grant"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-36f9ba597b",
+    "objective": "ic-grant-36f9ba597b#read:eligibility",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-grant-36f9ba597b#find:applicant",
+   "title": "Strengthening Ghana Health Service laboratory services, diagnostic networks, and systems for a…",
+   "content_text": "Find a local group doing the work this programme funds, registered and eligible for CDC-RFA-JG-26-0178, that would use it and may not have seen it.\nAbout 45 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T20:46:26Z",
+   "date_modified": "2026-10-08T20:46:26Z",
+   "tags": [
+    "funding",
+    "funding.grant"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-36f9ba597b",
+    "objective": "ic-grant-36f9ba597b#find:applicant",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-e081517f68#status:voice-for-the-homeless",
+   "title": "Brooklyn Park, MN",
+   "content_text": "Find whether Voice For The Homeless (ZIP 55443) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T20:46:26Z",
+   "date_modified": "2026-10-08T20:46:26Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-e081517f68",
+    "objective": "ic-jurisdiction-e081517f68#status:voice-for-the-homeless",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-mn"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-e081517f68#status:duniya-outreach-inc",
+   "title": "Brooklyn Park, MN",
+   "content_text": "Find whether Duniya Outreach Inc (ZIP 55443) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T20:46:26Z",
+   "date_modified": "2026-10-08T20:46:26Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-e081517f68",
+    "objective": "ic-jurisdiction-e081517f68#status:duniya-outreach-inc",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-mn"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-e081517f68#status:youth-civic-leaders",
+   "title": "Brooklyn Park, MN",
+   "content_text": "Find whether Youth Civic Leaders (ZIP 55444) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T20:46:26Z",
+   "date_modified": "2026-10-08T20:46:26Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-e081517f68",
+    "objective": "ic-jurisdiction-e081517f68#status:youth-civic-leaders",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-mn"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-e081517f68#status:youth-in-civics",
+   "title": "Brooklyn Park, MN",
+   "content_text": "Find whether Youth In Civics (ZIP 55444) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T20:46:26Z",
+   "date_modified": "2026-10-08T20:46:26Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-e081517f68",
+    "objective": "ic-jurisdiction-e081517f68#status:youth-in-civics",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-mn"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-3db6fa3d01#status:us-veterans-north-carolina",
+   "title": "New Bern, NC",
+   "content_text": "Find whether US Veterans-north Carolina (ZIP 28560) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T20:46:26Z",
+   "date_modified": "2026-10-08T20:46:26Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-3db6fa3d01",
+    "objective": "ic-jurisdiction-3db6fa3d01#status:us-veterans-north-carolina",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-nc"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-3db6fa3d01#status:benjamin-youth-life-empowerment-center",
+   "title": "New Bern, NC",
+   "content_text": "Find whether Benjamin Youth Life Empowerment Center (ZIP 28562) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T20:46:26Z",
+   "date_modified": "2026-10-08T20:46:26Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-3db6fa3d01",
+    "objective": "ic-jurisdiction-3db6fa3d01#status:benjamin-youth-life-empowerment-center",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-nc"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-3db6fa3d01#status:liberty-youth-coalition",
+   "title": "New Bern, NC",
+   "content_text": "Find whether Liberty Youth Coalition (ZIP 28562) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T20:46:26Z",
+   "date_modified": "2026-10-08T20:46:26Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-3db6fa3d01",
+    "objective": "ic-jurisdiction-3db6fa3d01#status:liberty-youth-coalition",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-nc"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-3db6fa3d01#status:bay-river-outreach-inc",
+   "title": "New Bern, NC",
+   "content_text": "Find whether Bay River Outreach Inc (ZIP 28560) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T20:46:26Z",
+   "date_modified": "2026-10-08T20:46:26Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-3db6fa3d01",
+    "objective": "ic-jurisdiction-3db6fa3d01#status:bay-river-outreach-inc",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-nc"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-ein-51f0f8bfc7#read:filing",
+   "title": "Kids Wish Network Inc",
+   "content_text": "Read Kids Wish Network Inc's 2023 Form 990 -- Part IX line 11e and Schedule G Part I -- and confirm the fee figure of $7,224,398 and who was paid it.\nAbout 45 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T20:46:25Z",
+   "date_modified": "2026-10-08T20:46:25Z",
+   "tags": [
+    "charity",
+    "charity.fundraising"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-51f0f8bfc7",
+    "objective": "ic-ein-51f0f8bfc7#read:filing",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-fl"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-ein-51f0f8bfc7#read:registration",
+   "title": "Kids Wish Network Inc",
+   "content_text": "Check whether Kids Wish Network Inc and the fundraisers named are registered with the FL charity regulator, and whether the fundraising contracts are on public file.\nAbout 40 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T20:46:25Z",
+   "date_modified": "2026-10-08T20:46:25Z",
+   "tags": [
+    "charity",
+    "charity.fundraising"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-51f0f8bfc7",
+    "objective": "ic-ein-51f0f8bfc7#read:registration",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-fl"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-ein-a218492633#read:filing",
+   "title": "Childhood Leukemia Foundation Inc",
+   "content_text": "Read Childhood Leukemia Foundation Inc's 2023 Form 990 -- Part IX line 11e and Schedule G Part I -- and confirm the fee figure of $2,850,700 and who was paid it.\nAbout 45 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T20:46:25Z",
+   "date_modified": "2026-10-08T20:46:25Z",
+   "tags": [
+    "charity",
+    "charity.fundraising"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-a218492633",
+    "objective": "ic-ein-a218492633#read:filing",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-nj"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-ein-a218492633#read:registration",
+   "title": "Childhood Leukemia Foundation Inc",
+   "content_text": "Check whether Childhood Leukemia Foundation Inc and the fundraisers named are registered with the NJ charity regulator, and whether the fundraising contracts are on public file.\nAbout 40 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T20:46:25Z",
+   "date_modified": "2026-10-08T20:46:25Z",
+   "tags": [
+    "charity",
+    "charity.fundraising"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-a218492633",
+    "objective": "ic-ein-a218492633#read:registration",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-nj"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-ein-8fc2e3c13c#read:filing",
+   "title": "Autism Spectrum Disorder Foundation Inc",
+   "content_text": "Read Autism Spectrum Disorder Foundation Inc's 2023 Form 990 -- Part IX line 11e and Schedule G Part I -- and confirm the fee figure of $7,128,210 and who was paid it. The e-filed return names 2 fundraiser(s); check the largest, Personal Fundraising Services LLC: $6,280,529 raised, $5,038,415 kept.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T20:46:24Z",
+   "date_modified": "2026-10-08T20:46:24Z",
+   "tags": [
+    "charity",
+    "charity.fundraising"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-8fc2e3c13c",
+    "objective": "ic-ein-8fc2e3c13c#read:filing",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-in"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-ein-8fc2e3c13c#read:registration",
+   "title": "Autism Spectrum Disorder Foundation Inc",
+   "content_text": "Check whether Autism Spectrum Disorder Foundation Inc and the fundraisers named are registered with the IN charity regulator, and whether the fundraising contracts are on public file.\nAbout 40 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T20:46:24Z",
+   "date_modified": "2026-10-08T20:46:24Z",
+   "tags": [
+    "charity",
+    "charity.fundraising"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-8fc2e3c13c",
+    "objective": "ic-ein-8fc2e3c13c#read:registration",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-in"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-ein-8fc2e3c13c#check:solicitor",
+   "title": "Autism Spectrum Disorder Foundation Inc",
+   "content_text": "Check whether Personal Fundraising Services LLC is registered as a professional fundraiser or solicitor in IN, and whether its contract with Autism Spectrum Disorder Foundation Inc is on file.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T20:46:24Z",
+   "date_modified": "2026-10-08T20:46:24Z",
+   "tags": [
+    "charity",
+    "charity.fundraising"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-8fc2e3c13c",
+    "objective": "ic-ein-8fc2e3c13c#check:solicitor",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-in"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-ein-8fc2e3c13c#compare:clients:precision-performance-marketing",
+   "title": "Autism Spectrum Disorder Foundation Inc",
+   "content_text": "Precision Performance Marketing kept 80% of the $902,034 it raised for Autism Spectrum Disorder Foundation Inc. Other charities' returns name it too -- it kept 79% of the $552,162 it raised for Veterans Relief Network Inc (2023 return). Read each Schedule G and say whether these look like the same terms, and whether any contract on public file explains a difference.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T20:46:24Z",
+   "date_modified": "2026-10-08T20:46:24Z",
+   "tags": [
+    "charity",
+    "charity.fundraising"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-8fc2e3c13c",
+    "objective": "ic-ein-8fc2e3c13c#compare:clients:precision-performance-marketing",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-in"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-66a58c0293#status:national-association-for-christian-recov",
+   "title": "North Chesterfield, VA",
+   "content_text": "Find whether National Association For Christian Recovery (ZIP 23236) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T20:46:24Z",
+   "date_modified": "2026-10-08T20:46:24Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-66a58c0293",
+    "objective": "ic-jurisdiction-66a58c0293#status:national-association-for-christian-recov",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-va"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-66a58c0293#status:shelter-from-the-storm-foundation",
+   "title": "North Chesterfield, VA",
+   "content_text": "Find whether Shelter From The Storm Foundation (ZIP 23224) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T20:46:24Z",
+   "date_modified": "2026-10-08T20:46:24Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-66a58c0293",
+    "objective": "ic-jurisdiction-66a58c0293#status:shelter-from-the-storm-foundation",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-va"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-66a58c0293#status:liberty-recovery-solutions",
+   "title": "North Chesterfield, VA",
+   "content_text": "Find whether Liberty Recovery Solutions (ZIP 23234) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T20:46:24Z",
+   "date_modified": "2026-10-08T20:46:24Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-66a58c0293",
+    "objective": "ic-jurisdiction-66a58c0293#status:liberty-recovery-solutions",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-va"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-66a58c0293#status:adaptive-accommodations-outreach-group",
+   "title": "North Chesterfield, VA",
+   "content_text": "Find whether Adaptive Accommodations Outreach Group (ZIP 23235) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T20:46:24Z",
+   "date_modified": "2026-10-08T20:46:24Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-66a58c0293",
+    "objective": "ic-jurisdiction-66a58c0293#status:adaptive-accommodations-outreach-group",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-va"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-307aaf03ba#status:homeless-wheelchairs-inc",
+   "title": "Spring, TX",
+   "content_text": "Find whether Homeless Wheelchairs Inc (ZIP 77386) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T20:46:23Z",
+   "date_modified": "2026-10-08T20:46:23Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-307aaf03ba",
+    "objective": "ic-jurisdiction-307aaf03ba#status:homeless-wheelchairs-inc",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-tx"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-307aaf03ba#status:voices-for-veterans",
+   "title": "Spring, TX",
+   "content_text": "Find whether Voices For Veterans (ZIP 77379) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T20:46:23Z",
+   "date_modified": "2026-10-08T20:46:23Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-307aaf03ba",
+    "objective": "ic-jurisdiction-307aaf03ba#status:voices-for-veterans",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-tx"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-307aaf03ba#status:thrive-community-outreach",
+   "title": "Spring, TX",
+   "content_text": "Find whether Thrive Community Outreach (ZIP 77373) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T20:46:23Z",
+   "date_modified": "2026-10-08T20:46:23Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-307aaf03ba",
+    "objective": "ic-jurisdiction-307aaf03ba#status:thrive-community-outreach",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-tx"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-307aaf03ba#status:spring-outreach-services-inc",
+   "title": "Spring, TX",
+   "content_text": "Find whether Spring Outreach Services Inc (ZIP 77388) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T20:46:23Z",
+   "date_modified": "2026-10-08T20:46:23Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-307aaf03ba",
+    "objective": "ic-jurisdiction-307aaf03ba#status:spring-outreach-services-inc",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-tx"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-307aaf03ba#status:jre-mobile-outreach",
+   "title": "Spring, TX",
+   "content_text": "Find whether Jre Mobile Outreach (ZIP 77373) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T20:46:23Z",
+   "date_modified": "2026-10-08T20:46:23Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-307aaf03ba",
+    "objective": "ic-jurisdiction-307aaf03ba#status:jre-mobile-outreach",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-tx"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-icsa-64cb44439e#check:fix",
+   "title": "Ebyte NE2-D11",
+   "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2026-73125 in Ebyte NE2-D11, published since 2026-08-25.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-08T20:46:23Z",
+   "date_modified": "2026-10-08T20:46:23Z",
+   "tags": [
+    "cyber",
+    "cyber.ics"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-64cb44439e",
+    "objective": "ic-icsa-64cb44439e#check:fix",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
    "id": "ic-jurisdiction-7429b542b0#status:facing-homelessness-denver-corp",
    "title": "Castle Rock, CO",
    "content_text": "Find whether Facing Homelessness Denver Corp (ZIP 80104) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
@@ -3419,865 +4278,6 @@
     "limits": [
      "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. Never handle anyone's personal, bank or card details: they file it themselves."
     ],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-grant-36f9ba597b#read:eligibility",
-   "title": "Strengthening Ghana Health Service laboratory services, diagnostic networks, and systems for a…",
-   "content_text": "Confirm on Grants.gov that CDC-RFA-JG-26-0178 is open until 16 October 2026 and read who may apply.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-06T19:59:10Z",
-   "date_modified": "2026-10-06T19:59:10Z",
-   "tags": [
-    "funding",
-    "funding.grant"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-36f9ba597b",
-    "objective": "ic-grant-36f9ba597b#read:eligibility",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-grant-36f9ba597b#find:applicant",
-   "title": "Strengthening Ghana Health Service laboratory services, diagnostic networks, and systems for a…",
-   "content_text": "Find a local group doing the work this programme funds, registered and eligible for CDC-RFA-JG-26-0178, that would use it and may not have seen it.\nAbout 45 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-06T19:59:10Z",
-   "date_modified": "2026-10-06T19:59:10Z",
-   "tags": [
-    "funding",
-    "funding.grant"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-36f9ba597b",
-    "objective": "ic-grant-36f9ba597b#find:applicant",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-ein-1ca3709365#read:filing",
-   "title": "American Legion Charities Inc",
-   "content_text": "Read American Legion Charities Inc's 2023 Form 990 -- Part IX line 11e and Schedule G Part I -- and confirm the fee figure of $5,322,952 and who was paid it. The e-filed return names 2 fundraiser(s); check the largest, Edge Direct LLC: $11,732,964 raised, $5,081,195 kept.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-06T19:59:10Z",
-   "date_modified": "2026-10-06T19:59:10Z",
-   "tags": [
-    "charity",
-    "charity.fundraising"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-1ca3709365",
-    "objective": "ic-ein-1ca3709365#read:filing",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [
-     "us",
-     "us-in"
-    ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-ein-1ca3709365#read:registration",
-   "title": "American Legion Charities Inc",
-   "content_text": "Check whether American Legion Charities Inc and the fundraisers named are registered with the IN charity regulator, and whether the fundraising contracts are on public file.\nAbout 40 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-06T19:59:10Z",
-   "date_modified": "2026-10-06T19:59:10Z",
-   "tags": [
-    "charity",
-    "charity.fundraising"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-1ca3709365",
-    "objective": "ic-ein-1ca3709365#read:registration",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [
-     "us",
-     "us-in"
-    ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-ein-1ca3709365#check:solicitor",
-   "title": "American Legion Charities Inc",
-   "content_text": "Check whether Edge Direct LLC is registered as a professional fundraiser or solicitor in IN, and whether its contract with American Legion Charities Inc is on file.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-06T19:59:10Z",
-   "date_modified": "2026-10-06T19:59:10Z",
-   "tags": [
-    "charity",
-    "charity.fundraising"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-1ca3709365",
-    "objective": "ic-ein-1ca3709365#check:solicitor",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [
-     "us",
-     "us-in"
-    ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-jurisdiction-e081517f68#status:voice-for-the-homeless",
-   "title": "Brooklyn Park, MN",
-   "content_text": "Find whether Voice For The Homeless (ZIP 55443) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-06T19:59:09Z",
-   "date_modified": "2026-10-06T19:59:09Z",
-   "tags": [
-    "charity",
-    "charity.revocation"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-e081517f68",
-    "objective": "ic-jurisdiction-e081517f68#status:voice-for-the-homeless",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [
-     "us",
-     "us-mn"
-    ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-jurisdiction-e081517f68#status:duniya-outreach-inc",
-   "title": "Brooklyn Park, MN",
-   "content_text": "Find whether Duniya Outreach Inc (ZIP 55443) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-06T19:59:09Z",
-   "date_modified": "2026-10-06T19:59:09Z",
-   "tags": [
-    "charity",
-    "charity.revocation"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-e081517f68",
-    "objective": "ic-jurisdiction-e081517f68#status:duniya-outreach-inc",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [
-     "us",
-     "us-mn"
-    ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-jurisdiction-e081517f68#status:youth-civic-leaders",
-   "title": "Brooklyn Park, MN",
-   "content_text": "Find whether Youth Civic Leaders (ZIP 55444) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-06T19:59:09Z",
-   "date_modified": "2026-10-06T19:59:09Z",
-   "tags": [
-    "charity",
-    "charity.revocation"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-e081517f68",
-    "objective": "ic-jurisdiction-e081517f68#status:youth-civic-leaders",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [
-     "us",
-     "us-mn"
-    ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-jurisdiction-e081517f68#status:youth-in-civics",
-   "title": "Brooklyn Park, MN",
-   "content_text": "Find whether Youth In Civics (ZIP 55444) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-06T19:59:09Z",
-   "date_modified": "2026-10-06T19:59:09Z",
-   "tags": [
-    "charity",
-    "charity.revocation"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-e081517f68",
-    "objective": "ic-jurisdiction-e081517f68#status:youth-in-civics",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [
-     "us",
-     "us-mn"
-    ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-jurisdiction-3db6fa3d01#status:us-veterans-north-carolina",
-   "title": "New Bern, NC",
-   "content_text": "Find whether US Veterans-north Carolina (ZIP 28560) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-06T19:59:09Z",
-   "date_modified": "2026-10-06T19:59:09Z",
-   "tags": [
-    "charity",
-    "charity.revocation"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-3db6fa3d01",
-    "objective": "ic-jurisdiction-3db6fa3d01#status:us-veterans-north-carolina",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [
-     "us",
-     "us-nc"
-    ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-jurisdiction-3db6fa3d01#status:benjamin-youth-life-empowerment-center",
-   "title": "New Bern, NC",
-   "content_text": "Find whether Benjamin Youth Life Empowerment Center (ZIP 28562) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-06T19:59:09Z",
-   "date_modified": "2026-10-06T19:59:09Z",
-   "tags": [
-    "charity",
-    "charity.revocation"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-3db6fa3d01",
-    "objective": "ic-jurisdiction-3db6fa3d01#status:benjamin-youth-life-empowerment-center",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [
-     "us",
-     "us-nc"
-    ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-jurisdiction-3db6fa3d01#status:liberty-youth-coalition",
-   "title": "New Bern, NC",
-   "content_text": "Find whether Liberty Youth Coalition (ZIP 28562) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-06T19:59:09Z",
-   "date_modified": "2026-10-06T19:59:09Z",
-   "tags": [
-    "charity",
-    "charity.revocation"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-3db6fa3d01",
-    "objective": "ic-jurisdiction-3db6fa3d01#status:liberty-youth-coalition",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [
-     "us",
-     "us-nc"
-    ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-jurisdiction-3db6fa3d01#status:bay-river-outreach-inc",
-   "title": "New Bern, NC",
-   "content_text": "Find whether Bay River Outreach Inc (ZIP 28560) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-06T19:59:09Z",
-   "date_modified": "2026-10-06T19:59:09Z",
-   "tags": [
-    "charity",
-    "charity.revocation"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-3db6fa3d01",
-    "objective": "ic-jurisdiction-3db6fa3d01#status:bay-river-outreach-inc",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [
-     "us",
-     "us-nc"
-    ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-ein-51f0f8bfc7#read:filing",
-   "title": "Kids Wish Network Inc",
-   "content_text": "Read Kids Wish Network Inc's 2023 Form 990 -- Part IX line 11e and Schedule G Part I -- and confirm the fee figure of $7,224,398 and who was paid it.\nAbout 45 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-06T19:59:09Z",
-   "date_modified": "2026-10-06T19:59:09Z",
-   "tags": [
-    "charity",
-    "charity.fundraising"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-51f0f8bfc7",
-    "objective": "ic-ein-51f0f8bfc7#read:filing",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [
-     "us",
-     "us-fl"
-    ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-ein-51f0f8bfc7#read:registration",
-   "title": "Kids Wish Network Inc",
-   "content_text": "Check whether Kids Wish Network Inc and the fundraisers named are registered with the FL charity regulator, and whether the fundraising contracts are on public file.\nAbout 40 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-06T19:59:09Z",
-   "date_modified": "2026-10-06T19:59:09Z",
-   "tags": [
-    "charity",
-    "charity.fundraising"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-51f0f8bfc7",
-    "objective": "ic-ein-51f0f8bfc7#read:registration",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [
-     "us",
-     "us-fl"
-    ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-ein-a218492633#read:filing",
-   "title": "Childhood Leukemia Foundation Inc",
-   "content_text": "Read Childhood Leukemia Foundation Inc's 2023 Form 990 -- Part IX line 11e and Schedule G Part I -- and confirm the fee figure of $2,850,700 and who was paid it.\nAbout 45 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-06T19:59:08Z",
-   "date_modified": "2026-10-06T19:59:08Z",
-   "tags": [
-    "charity",
-    "charity.fundraising"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-a218492633",
-    "objective": "ic-ein-a218492633#read:filing",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [
-     "us",
-     "us-nj"
-    ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-ein-a218492633#read:registration",
-   "title": "Childhood Leukemia Foundation Inc",
-   "content_text": "Check whether Childhood Leukemia Foundation Inc and the fundraisers named are registered with the NJ charity regulator, and whether the fundraising contracts are on public file.\nAbout 40 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-06T19:59:08Z",
-   "date_modified": "2026-10-06T19:59:08Z",
-   "tags": [
-    "charity",
-    "charity.fundraising"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-a218492633",
-    "objective": "ic-ein-a218492633#read:registration",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [
-     "us",
-     "us-nj"
-    ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-ein-8fc2e3c13c#read:filing",
-   "title": "Autism Spectrum Disorder Foundation Inc",
-   "content_text": "Read Autism Spectrum Disorder Foundation Inc's 2023 Form 990 -- Part IX line 11e and Schedule G Part I -- and confirm the fee figure of $7,128,210 and who was paid it. The e-filed return names 2 fundraiser(s); check the largest, Personal Fundraising Services LLC: $6,280,529 raised, $5,038,415 kept.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-06T19:59:08Z",
-   "date_modified": "2026-10-06T19:59:08Z",
-   "tags": [
-    "charity",
-    "charity.fundraising"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-8fc2e3c13c",
-    "objective": "ic-ein-8fc2e3c13c#read:filing",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [
-     "us",
-     "us-in"
-    ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-ein-8fc2e3c13c#read:registration",
-   "title": "Autism Spectrum Disorder Foundation Inc",
-   "content_text": "Check whether Autism Spectrum Disorder Foundation Inc and the fundraisers named are registered with the IN charity regulator, and whether the fundraising contracts are on public file.\nAbout 40 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-06T19:59:08Z",
-   "date_modified": "2026-10-06T19:59:08Z",
-   "tags": [
-    "charity",
-    "charity.fundraising"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-8fc2e3c13c",
-    "objective": "ic-ein-8fc2e3c13c#read:registration",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [
-     "us",
-     "us-in"
-    ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-ein-8fc2e3c13c#check:solicitor",
-   "title": "Autism Spectrum Disorder Foundation Inc",
-   "content_text": "Check whether Personal Fundraising Services LLC is registered as a professional fundraiser or solicitor in IN, and whether its contract with Autism Spectrum Disorder Foundation Inc is on file.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-06T19:59:08Z",
-   "date_modified": "2026-10-06T19:59:08Z",
-   "tags": [
-    "charity",
-    "charity.fundraising"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-8fc2e3c13c",
-    "objective": "ic-ein-8fc2e3c13c#check:solicitor",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [
-     "us",
-     "us-in"
-    ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-ein-8fc2e3c13c#compare:clients:precision-performance-marketing",
-   "title": "Autism Spectrum Disorder Foundation Inc",
-   "content_text": "Precision Performance Marketing kept 80% of the $902,034 it raised for Autism Spectrum Disorder Foundation Inc. Other charities' returns name it too -- it kept 79% of the $552,162 it raised for Veterans Relief Network Inc (2023 return). Read each Schedule G and say whether these look like the same terms, and whether any contract on public file explains a difference.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-06T19:59:08Z",
-   "date_modified": "2026-10-06T19:59:08Z",
-   "tags": [
-    "charity",
-    "charity.fundraising"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-ein-8fc2e3c13c",
-    "objective": "ic-ein-8fc2e3c13c#compare:clients:precision-performance-marketing",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [
-     "us",
-     "us-in"
-    ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-jurisdiction-66a58c0293#status:national-association-for-christian-recov",
-   "title": "North Chesterfield, VA",
-   "content_text": "Find whether National Association For Christian Recovery (ZIP 23236) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-06T19:59:07Z",
-   "date_modified": "2026-10-06T19:59:07Z",
-   "tags": [
-    "charity",
-    "charity.revocation"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-66a58c0293",
-    "objective": "ic-jurisdiction-66a58c0293#status:national-association-for-christian-recov",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [
-     "us",
-     "us-va"
-    ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-jurisdiction-66a58c0293#status:shelter-from-the-storm-foundation",
-   "title": "North Chesterfield, VA",
-   "content_text": "Find whether Shelter From The Storm Foundation (ZIP 23224) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-06T19:59:07Z",
-   "date_modified": "2026-10-06T19:59:07Z",
-   "tags": [
-    "charity",
-    "charity.revocation"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-66a58c0293",
-    "objective": "ic-jurisdiction-66a58c0293#status:shelter-from-the-storm-foundation",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [
-     "us",
-     "us-va"
-    ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-jurisdiction-66a58c0293#status:liberty-recovery-solutions",
-   "title": "North Chesterfield, VA",
-   "content_text": "Find whether Liberty Recovery Solutions (ZIP 23234) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-06T19:59:07Z",
-   "date_modified": "2026-10-06T19:59:07Z",
-   "tags": [
-    "charity",
-    "charity.revocation"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-66a58c0293",
-    "objective": "ic-jurisdiction-66a58c0293#status:liberty-recovery-solutions",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [
-     "us",
-     "us-va"
-    ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-jurisdiction-66a58c0293#status:adaptive-accommodations-outreach-group",
-   "title": "North Chesterfield, VA",
-   "content_text": "Find whether Adaptive Accommodations Outreach Group (ZIP 23235) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-06T19:59:07Z",
-   "date_modified": "2026-10-06T19:59:07Z",
-   "tags": [
-    "charity",
-    "charity.revocation"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-66a58c0293",
-    "objective": "ic-jurisdiction-66a58c0293#status:adaptive-accommodations-outreach-group",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [
-     "us",
-     "us-va"
-    ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-jurisdiction-307aaf03ba#status:homeless-wheelchairs-inc",
-   "title": "Spring, TX",
-   "content_text": "Find whether Homeless Wheelchairs Inc (ZIP 77386) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-06T19:59:07Z",
-   "date_modified": "2026-10-06T19:59:07Z",
-   "tags": [
-    "charity",
-    "charity.revocation"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-307aaf03ba",
-    "objective": "ic-jurisdiction-307aaf03ba#status:homeless-wheelchairs-inc",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [
-     "us",
-     "us-tx"
-    ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-jurisdiction-307aaf03ba#status:voices-for-veterans",
-   "title": "Spring, TX",
-   "content_text": "Find whether Voices For Veterans (ZIP 77379) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-06T19:59:07Z",
-   "date_modified": "2026-10-06T19:59:07Z",
-   "tags": [
-    "charity",
-    "charity.revocation"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-307aaf03ba",
-    "objective": "ic-jurisdiction-307aaf03ba#status:voices-for-veterans",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [
-     "us",
-     "us-tx"
-    ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-jurisdiction-307aaf03ba#status:thrive-community-outreach",
-   "title": "Spring, TX",
-   "content_text": "Find whether Thrive Community Outreach (ZIP 77373) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-06T19:59:07Z",
-   "date_modified": "2026-10-06T19:59:07Z",
-   "tags": [
-    "charity",
-    "charity.revocation"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-307aaf03ba",
-    "objective": "ic-jurisdiction-307aaf03ba#status:thrive-community-outreach",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [
-     "us",
-     "us-tx"
-    ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-jurisdiction-307aaf03ba#status:spring-outreach-services-inc",
-   "title": "Spring, TX",
-   "content_text": "Find whether Spring Outreach Services Inc (ZIP 77388) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-06T19:59:07Z",
-   "date_modified": "2026-10-06T19:59:07Z",
-   "tags": [
-    "charity",
-    "charity.revocation"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-307aaf03ba",
-    "objective": "ic-jurisdiction-307aaf03ba#status:spring-outreach-services-inc",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [
-     "us",
-     "us-tx"
-    ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-jurisdiction-307aaf03ba#status:jre-mobile-outreach",
-   "title": "Spring, TX",
-   "content_text": "Find whether Jre Mobile Outreach (ZIP 77373) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-06T19:59:07Z",
-   "date_modified": "2026-10-06T19:59:07Z",
-   "tags": [
-    "charity",
-    "charity.revocation"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-307aaf03ba",
-    "objective": "ic-jurisdiction-307aaf03ba#status:jre-mobile-outreach",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [
-     "us",
-     "us-tx"
-    ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-icsa-64cb44439e#check:fix",
-   "title": "Ebyte NE2-D11",
-   "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2026-73125 in Ebyte NE2-D11, published since 2026-08-25.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-06T19:59:06Z",
-   "date_modified": "2026-10-06T19:59:06Z",
-   "tags": [
-    "cyber",
-    "cyber.ics"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-64cb44439e",
-    "objective": "ic-icsa-64cb44439e#check:fix",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [],
-    "presence": "desk",
-    "limits": [],
     "record": "wss://record.cosmiccodex.app"
    }
   }
