@@ -3161,36 +3161,6 @@
    }
   },
   {
-   "id": "field:recall_check:2026-10-08#read:notice",
-   "title": "Check the shelves near you: 3 Class I recalls this fortnight",
-   "content_text": "Read the recall notices and note each product, its lot codes and what buyers should do.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
-   "date_published": "2026-10-08T03:14:14Z",
-   "date_modified": "2026-10-08T03:14:14Z",
-   "tags": [
-    "awareness",
-    "awareness.recall"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-recall_check-2026-10-08",
-    "objective": "field:recall_check:2026-10-08#read:notice",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": 1791547200,
-    "jurisdiction": [
-     "us"
-    ],
-    "presence": "desk",
-    "limits": [
-     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. Never remove products yourself: tell the store or the pantry."
-    ],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
    "id": "ic-ein-5f94d5f22c#read:filing",
    "title": "Greenpeace Inc",
    "content_text": "Read Greenpeace Inc's 2023 Form 990 -- Part IX line 11e and Schedule G Part I -- and confirm the fee figure of $6,498,232 and who was paid it. The e-filed return names 9 fundraiser(s); check the largest, Public Outreach Fundraising LLC: $671,959 raised, $1,569,393 kept.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
