@@ -4,9 +4,10 @@
  "record": {
   "notes": {
    "all": 716,
+   "mission_endings": 10,
    "withdrawn": 39,
    "thread_endings": 9,
-   "standing": 668
+   "standing": 658
   },
   "missions": {
    "all": 100,
@@ -61,8 +62,8 @@
   }
  ],
  "questions": {
-  "asked": 33,
-  "open": 33,
+  "asked": 35,
+  "open": 35,
   "answered": 0,
   "withdrawn": 0,
   "unanswerable": 0,
