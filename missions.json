@@ -11,6 +11,271 @@
  "language": "en",
  "items": [
   {
+   "id": "ic-grant-c6449d501b#read:eligibility",
+   "title": "BJA FY 2026 Upholding the Rule of Law and Preventing Wrongful Convictions Program",
+   "content_text": "Confirm on Grants.gov that O-BJA-2026-172726 is open until 2 November 2026 and read who may apply.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-10T09:27:36Z",
+   "date_modified": "2026-10-10T09:27:36Z",
+   "tags": [
+    "funding",
+    "funding.grant"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-c6449d501b",
+    "objective": "ic-grant-c6449d501b#read:eligibility",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-grant-c6449d501b#find:applicant",
+   "title": "BJA FY 2026 Upholding the Rule of Law and Preventing Wrongful Convictions Program",
+   "content_text": "Find a local group doing the work this programme funds, registered and eligible for O-BJA-2026-172726, that would use it and may not have seen it.\nAbout 45 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-10T09:27:36Z",
+   "date_modified": "2026-10-10T09:27:36Z",
+   "tags": [
+    "funding",
+    "funding.grant"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-c6449d501b",
+    "objective": "ic-grant-c6449d501b#find:applicant",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-grant-bf52dfd43b#read:eligibility",
+   "title": "BJA FY 2026 Students, Teachers, and Officers Preventing (STOP) School Violence Program",
+   "content_text": "Confirm on Grants.gov that O-BJA-2026-172709 is open until 30 October 2026 and read who may apply.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-10T09:27:36Z",
+   "date_modified": "2026-10-10T09:27:36Z",
+   "tags": [
+    "funding",
+    "funding.grant"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-bf52dfd43b",
+    "objective": "ic-grant-bf52dfd43b#read:eligibility",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-grant-bf52dfd43b#find:applicant",
+   "title": "BJA FY 2026 Students, Teachers, and Officers Preventing (STOP) School Violence Program",
+   "content_text": "Find a local group doing the work this programme funds, registered and eligible for O-BJA-2026-172709, that would use it and may not have seen it.\nAbout 45 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-10T09:27:36Z",
+   "date_modified": "2026-10-10T09:27:36Z",
+   "tags": [
+    "funding",
+    "funding.grant"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-bf52dfd43b",
+    "objective": "ic-grant-bf52dfd43b#find:applicant",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-grant-3d567ecd16#read:eligibility",
+   "title": "OJJDP FY 2026 Community and Schools Youth Drug Prevention Program",
+   "content_text": "Confirm on Grants.gov that O-OJJDP-2026-172734 is open until 29 October 2026 and read who may apply.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-10T09:27:35Z",
+   "date_modified": "2026-10-10T09:27:35Z",
+   "tags": [
+    "funding",
+    "funding.grant"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-3d567ecd16",
+    "objective": "ic-grant-3d567ecd16#read:eligibility",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-grant-3d567ecd16#find:applicant",
+   "title": "OJJDP FY 2026 Community and Schools Youth Drug Prevention Program",
+   "content_text": "Find a local group doing the work this programme funds, registered and eligible for O-OJJDP-2026-172734, that would use it and may not have seen it. Start where a charity doing this work lost its exemption: N Chesterfld, VA (Liberty Recovery Solutions), where the service map lists Dream Chaser Plus, Circle Of Healing LLC, Charterhouse School Inc. Start where a charity doing this work lost its exemption: Castle Rock, CO (Douglas County Youth Educaton And Safety In Schools Foundation Inc), where the service map lists Illuminate Community Recovery Services, Ryan Pappas Memorial Foundation, Our Health Matters. Start where a charity doing this work lost its exemption: Jackson, TN (Youth Rising East Valley), where the service map lists Advanced Community Development Corporation, Benton County Drug Alliance Inc, Womens Resource & Rape Assistance Program.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-10T09:27:35Z",
+   "date_modified": "2026-10-10T09:27:35Z",
+   "tags": [
+    "funding",
+    "funding.grant"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-3d567ecd16",
+    "objective": "ic-grant-3d567ecd16#find:applicant",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-icsa-be97ff6530#check:fix",
+   "title": "Anjvision YSSD-RTMP-H5",
+   "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2026-100291 in Anjvision YSSD-RTMP-H5, published since 2026-09-29.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-10T09:27:35Z",
+   "date_modified": "2026-10-10T09:27:35Z",
+   "tags": [
+    "cyber",
+    "cyber.ics"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-be97ff6530",
+    "objective": "ic-icsa-be97ff6530#check:fix",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "field:refunds_owed:ag-7b298eba5740b5de#read:claim",
+   "title": "Help people claim what they're owed: WA consumers get financial relief through auto lender settlement",
+   "content_text": "Read the release and the claim site: who qualifies, what they need, and the deadline.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://www.atg.wa.gov/news/news-releases/wa-consumers-get-financial-relief-through-auto-lender-settlement",
+   "date_published": "2026-10-10T08:40:24Z",
+   "date_modified": "2026-10-10T08:40:24Z",
+   "tags": [
+    "awareness",
+    "awareness.refunds"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-refunds_owed-ag-7b298eba5740b5de",
+    "objective": "field:refunds_owed:ag-7b298eba5740b5de#read:claim",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1794787200,
+    "jurisdiction": [
+     "us-wa"
+    ],
+    "presence": "desk",
+    "limits": [
+     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. Never handle anyone's personal, bank or card details: they file it themselves."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "field:refunds_owed:ag-50582362a3e7b0e3#read:claim",
+   "title": "Help people claim what they're owed: WA consumers urged to claim compensation for inflated generic drug prices",
+   "content_text": "Read the release and the claim site: who qualifies, what they need, and the deadline.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://www.atg.wa.gov/news/news-releases/wa-consumers-urged-claim-compensation-inflated-generic-drug-prices",
+   "date_published": "2026-10-10T08:40:23Z",
+   "date_modified": "2026-10-10T08:40:23Z",
+   "tags": [
+    "awareness",
+    "awareness.refunds"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-refunds_owed-ag-50582362a3e7b0e3",
+    "objective": "field:refunds_owed:ag-50582362a3e7b0e3#read:claim",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1795219200,
+    "jurisdiction": [
+     "us-wa"
+    ],
+    "presence": "desk",
+    "limits": [
+     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. Never handle anyone's personal, bank or card details: they file it themselves."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "field:refunds_owed:ag-068352e07f5f9576#read:claim",
+   "title": "Help people claim what they're owed: A settlement that returns money to consumers",
+   "content_text": "Read the release and the claim site: who qualifies, what they need, and the deadline.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://www.atg.wa.gov/news/news-releases/puget-sound-physicians-refund-wa-patients-410k-settlement",
+   "date_published": "2026-10-10T08:24:33Z",
+   "date_modified": "2026-10-10T08:24:33Z",
+   "tags": [
+    "awareness",
+    "awareness.refunds"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-refunds_owed-ag-068352e07f5f9576",
+    "objective": "field:refunds_owed:ag-068352e07f5f9576#read:claim",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1795824000,
+    "jurisdiction": [
+     "us-wa"
+    ],
+    "presence": "desk",
+    "limits": [
+     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. Never handle anyone's personal, bank or card details: they file it themselves."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
    "id": "ic-grant-891ffd0634#read:eligibility",
    "title": "Exploring and Enhancing Outdoor and Heritage Tourism in the Chesapeake Bay Watershed",
    "content_text": "Confirm on Grants.gov that P27AS00032 is open until 4 November 2026 and read who may apply.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
@@ -1690,156 +1955,6 @@
      "us",
      "us-tn"
     ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-grant-c6449d501b#read:eligibility",
-   "title": "BJA FY 2026 Upholding the Rule of Law and Preventing Wrongful Convictions Program",
-   "content_text": "Confirm on Grants.gov that O-BJA-2026-172726 is open until 2 November 2026 and read who may apply.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-09T09:17:02Z",
-   "date_modified": "2026-10-09T09:17:02Z",
-   "tags": [
-    "funding",
-    "funding.grant"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-c6449d501b",
-    "objective": "ic-grant-c6449d501b#read:eligibility",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-grant-c6449d501b#find:applicant",
-   "title": "BJA FY 2026 Upholding the Rule of Law and Preventing Wrongful Convictions Program",
-   "content_text": "Find a local group doing the work this programme funds, registered and eligible for O-BJA-2026-172726, that would use it and may not have seen it.\nAbout 45 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-09T09:17:02Z",
-   "date_modified": "2026-10-09T09:17:02Z",
-   "tags": [
-    "funding",
-    "funding.grant"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-c6449d501b",
-    "objective": "ic-grant-c6449d501b#find:applicant",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-grant-bf52dfd43b#read:eligibility",
-   "title": "BJA FY 2026 Students, Teachers, and Officers Preventing (STOP) School Violence Program",
-   "content_text": "Confirm on Grants.gov that O-BJA-2026-172709 is open until 30 October 2026 and read who may apply.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-09T09:17:01Z",
-   "date_modified": "2026-10-09T09:17:01Z",
-   "tags": [
-    "funding",
-    "funding.grant"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-bf52dfd43b",
-    "objective": "ic-grant-bf52dfd43b#read:eligibility",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-grant-bf52dfd43b#find:applicant",
-   "title": "BJA FY 2026 Students, Teachers, and Officers Preventing (STOP) School Violence Program",
-   "content_text": "Find a local group doing the work this programme funds, registered and eligible for O-BJA-2026-172709, that would use it and may not have seen it.\nAbout 45 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-09T09:17:01Z",
-   "date_modified": "2026-10-09T09:17:01Z",
-   "tags": [
-    "funding",
-    "funding.grant"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-bf52dfd43b",
-    "objective": "ic-grant-bf52dfd43b#find:applicant",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-grant-3d567ecd16#read:eligibility",
-   "title": "OJJDP FY 2026 Community and Schools Youth Drug Prevention Program",
-   "content_text": "Confirm on Grants.gov that O-OJJDP-2026-172734 is open until 29 October 2026 and read who may apply.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-09T09:17:01Z",
-   "date_modified": "2026-10-09T09:17:01Z",
-   "tags": [
-    "funding",
-    "funding.grant"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-3d567ecd16",
-    "objective": "ic-grant-3d567ecd16#read:eligibility",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-grant-3d567ecd16#find:applicant",
-   "title": "OJJDP FY 2026 Community and Schools Youth Drug Prevention Program",
-   "content_text": "Find a local group doing the work this programme funds, registered and eligible for O-OJJDP-2026-172734, that would use it and may not have seen it. Start where a charity doing this work lost its exemption: N Chesterfld, VA (Liberty Recovery Solutions), where the service map lists Dream Chaser Plus, Circle Of Healing LLC, Charterhouse School Inc. Start where a charity doing this work lost its exemption: Castle Rock, CO (Douglas County Youth Educaton And Safety In Schools Foundation Inc), where the service map lists Illuminate Community Recovery Services, Ryan Pappas Memorial Foundation, Our Health Matters. Start where a charity doing this work lost its exemption: Jackson, TN (Youth Rising East Valley), where the service map lists Advanced Community Development Corporation, Benton County Drug Alliance Inc, Womens Resource & Rape Assistance Program.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-09T09:17:01Z",
-   "date_modified": "2026-10-09T09:17:01Z",
-   "tags": [
-    "funding",
-    "funding.grant"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-3d567ecd16",
-    "objective": "ic-grant-3d567ecd16#find:applicant",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [],
     "presence": "desk",
     "limits": [],
     "record": "wss://record.cosmiccodex.app"
@@ -3972,31 +4087,6 @@
    }
   },
   {
-   "id": "ic-icsa-be97ff6530#check:fix",
-   "title": "Anjvision YSSD-RTMP-H5",
-   "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2026-100291 in Anjvision YSSD-RTMP-H5, published since 2026-09-29.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-08T08:39:56Z",
-   "date_modified": "2026-10-08T08:39:56Z",
-   "tags": [
-    "cyber",
-    "cyber.ics"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-be97ff6530",
-    "objective": "ic-icsa-be97ff6530#check:fix",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
    "id": "ic-jurisdiction-b21ff75949#status:table-youth-talk",
    "title": "Harrisburg, PA",
    "content_text": "Find whether Table Youth Talk (ZIP 17104) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
@@ -5549,96 +5639,6 @@
     "jurisdiction": [],
     "presence": "desk",
     "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "field:refunds_owed:ag-7b298eba5740b5de#read:claim",
-   "title": "Help people claim what they're owed: WA consumers get financial relief through auto lender settlement",
-   "content_text": "Read the release and the claim site: who qualifies, what they need, and the deadline.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://www.atg.wa.gov/news/news-releases/wa-consumers-get-financial-relief-through-auto-lender-settlement",
-   "date_published": "2026-10-06T21:35:11Z",
-   "date_modified": "2026-10-06T21:35:11Z",
-   "tags": [
-    "awareness",
-    "awareness.refunds"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-refunds_owed-ag-7b298eba5740b5de",
-    "objective": "field:refunds_owed:ag-7b298eba5740b5de#read:claim",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": 1794787200,
-    "jurisdiction": [
-     "us-wa"
-    ],
-    "presence": "desk",
-    "limits": [
-     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. Never handle anyone's personal, bank or card details: they file it themselves."
-    ],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "field:refunds_owed:ag-50582362a3e7b0e3#read:claim",
-   "title": "Help people claim what they're owed: WA consumers urged to claim compensation for inflated generic drug prices",
-   "content_text": "Read the release and the claim site: who qualifies, what they need, and the deadline.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://www.atg.wa.gov/news/news-releases/wa-consumers-urged-claim-compensation-inflated-generic-drug-prices",
-   "date_published": "2026-10-06T21:35:10Z",
-   "date_modified": "2026-10-06T21:35:10Z",
-   "tags": [
-    "awareness",
-    "awareness.refunds"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-refunds_owed-ag-50582362a3e7b0e3",
-    "objective": "field:refunds_owed:ag-50582362a3e7b0e3#read:claim",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": 1795219200,
-    "jurisdiction": [
-     "us-wa"
-    ],
-    "presence": "desk",
-    "limits": [
-     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. Never handle anyone's personal, bank or card details: they file it themselves."
-    ],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "field:refunds_owed:ag-068352e07f5f9576#read:claim",
-   "title": "Help people claim what they're owed: A settlement that returns money to consumers",
-   "content_text": "Read the release and the claim site: who qualifies, what they need, and the deadline.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://www.atg.wa.gov/news/news-releases/puget-sound-physicians-refund-wa-patients-410k-settlement",
-   "date_published": "2026-10-06T21:35:09Z",
-   "date_modified": "2026-10-06T21:35:09Z",
-   "tags": [
-    "awareness",
-    "awareness.refunds"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-refunds_owed-ag-068352e07f5f9576",
-    "objective": "field:refunds_owed:ag-068352e07f5f9576#read:claim",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": 1795824000,
-    "jurisdiction": [
-     "us-wa"
-    ],
-    "presence": "desk",
-    "limits": [
-     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. Never handle anyone's personal, bank or card details: they file it themselves."
-    ],
     "record": "wss://record.cosmiccodex.app"
    }
   }

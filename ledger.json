@@ -3,17 +3,17 @@
  "problems": [],
  "record": {
   "notes": {
-   "all": 712,
+   "all": 716,
+   "withdrawn": 39,
    "thread_endings": 9,
-   "withdrawn": 38,
-   "standing": 665
+   "standing": 668
   },
   "missions": {
    "all": 100,
-   "closed": 16,
-   "field": 24,
    "open": 84,
-   "research": 76
+   "research": 76,
+   "field": 24,
+   "closed": 16
   },
   "threads": {
    "all": 79,
@@ -22,7 +22,7 @@
    "unsupported": 1,
    "retracted": 1
   },
-  "listings": 1796,
+  "listings": 1849,
   "videos": 12,
   "ours": {
    "Mixmag's terms allow linking to its site only with its prior written consent": 1,
@@ -31,7 +31,7 @@
    "a case thread, retracted: we published it and withdrew it -- it should not have gone out": 1
   },
   "ended": {
-   "heat alerts, withdrawn when the forecast eased": 18
+   "heat alerts, withdrawn when the forecast eased": 19
   }
  },
  "handed_back": [
