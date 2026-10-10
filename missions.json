@@ -11,6 +11,206 @@
  "language": "en",
  "items": [
   {
+   "id": "ic-grant-891ffd0634#read:eligibility",
+   "title": "Exploring and Enhancing Outdoor and Heritage Tourism in the Chesapeake Bay Watershed",
+   "content_text": "Confirm on Grants.gov that P27AS00032 is open until 4 November 2026 and read who may apply.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-10T03:24:54Z",
+   "date_modified": "2026-10-10T03:24:54Z",
+   "tags": [
+    "funding",
+    "funding.grant"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-891ffd0634",
+    "objective": "ic-grant-891ffd0634#read:eligibility",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-grant-891ffd0634#find:applicant",
+   "title": "Exploring and Enhancing Outdoor and Heritage Tourism in the Chesapeake Bay Watershed",
+   "content_text": "Find a local nonprofit that works in community development, registered and eligible for P27AS00032, that would use it and may not have seen it.\nAbout 45 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-10T03:24:54Z",
+   "date_modified": "2026-10-10T03:24:54Z",
+   "tags": [
+    "funding",
+    "funding.grant"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-891ffd0634",
+    "objective": "ic-grant-891ffd0634#find:applicant",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-grant-764b549692#read:eligibility",
+   "title": "Long-term health outcomes of people living with spina bifida",
+   "content_text": "Confirm on Grants.gov that CDC-RFA-DD-26-0222 is open until 26 October 2026 and read who may apply.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-10T03:24:53Z",
+   "date_modified": "2026-10-10T03:24:53Z",
+   "tags": [
+    "funding",
+    "funding.grant"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-764b549692",
+    "objective": "ic-grant-764b549692#read:eligibility",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-grant-764b549692#find:applicant",
+   "title": "Long-term health outcomes of people living with spina bifida",
+   "content_text": "Find a local group doing the work this programme funds, registered and eligible for CDC-RFA-DD-26-0222, that would use it and may not have seen it.\nAbout 45 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-10T03:24:53Z",
+   "date_modified": "2026-10-10T03:24:53Z",
+   "tags": [
+    "funding",
+    "funding.grant"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-764b549692",
+    "objective": "ic-grant-764b549692#find:applicant",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-grant-555039d434#read:eligibility",
+   "title": "OJJDP FY 2026 Strategies to Support Children Exposed to Violence",
+   "content_text": "Confirm on Grants.gov that O-OJJDP-2026-172752 is open until 16 November 2026 and read who may apply.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-10T03:24:53Z",
+   "date_modified": "2026-10-10T03:24:53Z",
+   "tags": [
+    "funding",
+    "funding.grant"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-555039d434",
+    "objective": "ic-grant-555039d434#read:eligibility",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-grant-555039d434#find:applicant",
+   "title": "OJJDP FY 2026 Strategies to Support Children Exposed to Violence",
+   "content_text": "Find a local group doing the work this programme funds, registered and eligible for O-OJJDP-2026-172752, that would use it and may not have seen it.\nAbout 45 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-10T03:24:53Z",
+   "date_modified": "2026-10-10T03:24:53Z",
+   "tags": [
+    "funding",
+    "funding.grant"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-555039d434",
+    "objective": "ic-grant-555039d434#find:applicant",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-grant-48ba2b57ca#read:eligibility",
+   "title": "OJJDP FY 2026 Mentoring for Youth Impacted by Opioids and Other Substance Use",
+   "content_text": "Confirm on Grants.gov that O-OJJDP-2026-172743 is open until 16 November 2026 and read who may apply.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-10T03:24:52Z",
+   "date_modified": "2026-10-10T03:24:52Z",
+   "tags": [
+    "funding",
+    "funding.grant"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-48ba2b57ca",
+    "objective": "ic-grant-48ba2b57ca#read:eligibility",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-grant-48ba2b57ca#find:applicant",
+   "title": "OJJDP FY 2026 Mentoring for Youth Impacted by Opioids and Other Substance Use",
+   "content_text": "Find a local group doing the work this programme funds, registered and eligible for O-OJJDP-2026-172743, that would use it and may not have seen it.\nAbout 45 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-10T03:24:52Z",
+   "date_modified": "2026-10-10T03:24:52Z",
+   "tags": [
+    "funding",
+    "funding.grant"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-48ba2b57ca",
+    "objective": "ic-grant-48ba2b57ca#find:applicant",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
    "id": "ic-ein-0b3239034a#read:filing",
    "title": "Los Angeles Mission Inc",
    "content_text": "Read Los Angeles Mission Inc's 2022 Form 990 -- Part IX line 11e and Schedule G Part I -- and confirm the fee figure of $4,982,860 and who was paid it.\nAbout 45 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
@@ -1776,56 +1976,6 @@
    }
   },
   {
-   "id": "ic-grant-891ffd0634#read:eligibility",
-   "title": "Exploring and Enhancing Outdoor and Heritage Tourism in the Chesapeake Bay Watershed",
-   "content_text": "Confirm on Grants.gov that P27AS00032 is open until 4 November 2026 and read who may apply.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-09T03:15:21Z",
-   "date_modified": "2026-10-09T03:15:21Z",
-   "tags": [
-    "funding",
-    "funding.grant"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-891ffd0634",
-    "objective": "ic-grant-891ffd0634#read:eligibility",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-grant-891ffd0634#find:applicant",
-   "title": "Exploring and Enhancing Outdoor and Heritage Tourism in the Chesapeake Bay Watershed",
-   "content_text": "Find a local nonprofit that works in community development, registered and eligible for P27AS00032, that would use it and may not have seen it.\nAbout 45 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-09T03:15:21Z",
-   "date_modified": "2026-10-09T03:15:21Z",
-   "tags": [
-    "funding",
-    "funding.grant"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-891ffd0634",
-    "objective": "ic-grant-891ffd0634#find:applicant",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
    "id": "ic-grant-8aeec35d33#read:eligibility",
    "title": "OJJDP FY 2026 Second Chance Act Youth Reentry Program",
    "content_text": "Confirm on Grants.gov that O-OJJDP-2026-172751 is open until 2 November 2026 and read who may apply.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
@@ -1863,56 +2013,6 @@
    "_mission": {
     "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-8aeec35d33",
     "objective": "ic-grant-8aeec35d33#find:applicant",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-grant-764b549692#read:eligibility",
-   "title": "Long-term health outcomes of people living with spina bifida",
-   "content_text": "Confirm on Grants.gov that CDC-RFA-DD-26-0222 is open until 26 October 2026 and read who may apply.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-09T03:15:20Z",
-   "date_modified": "2026-10-09T03:15:20Z",
-   "tags": [
-    "funding",
-    "funding.grant"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-764b549692",
-    "objective": "ic-grant-764b549692#read:eligibility",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-grant-764b549692#find:applicant",
-   "title": "Long-term health outcomes of people living with spina bifida",
-   "content_text": "Find a local group doing the work this programme funds, registered and eligible for CDC-RFA-DD-26-0222, that would use it and may not have seen it.\nAbout 45 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-09T03:15:20Z",
-   "date_modified": "2026-10-09T03:15:20Z",
-   "tags": [
-    "funding",
-    "funding.grant"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-764b549692",
-    "objective": "ic-grant-764b549692#find:applicant",
     "takers": [
      "human",
      "agent"
