@@ -1,0 +1,88 @@
+{
+ "as_of": "2026-10-10",
+ "problems": [],
+ "record": {
+  "notes": {
+   "all": 699,
+   "withdrawn": 37,
+   "thread_endings": 8,
+   "standing": 654
+  },
+  "missions": {
+   "all": 98,
+   "open": 83,
+   "field": 24,
+   "research": 74,
+   "closed": 15
+  },
+  "threads": {
+   "all": 77,
+   "open": 68,
+   "superseded": 7,
+   "unsupported": 1,
+   "retracted": 1
+  },
+  "listings": 1719,
+  "videos": 12,
+  "ours": {
+   "Mixmag's terms allow linking to its site only with its prior written consent": 1,
+   "a second copy of something already published": 18,
+   "names a person; publishing about people is paused": 1,
+   "a case thread, retracted: we published it and withdrew it -- it should not have gone out": 1
+  },
+  "ended": {
+   "heat alerts, withdrawn when the forecast eased": 17
+  }
+ },
+ "handed_back": [
+  {
+   "label": "claims on case threads",
+   "from": "inbound_claims.json, claims",
+   "received": 0,
+   "accepted": 0
+  },
+  {
+   "label": "field-mission reports",
+   "from": "missions_channel.json, field_reports",
+   "received": 0,
+   "accepted": null
+  },
+  {
+   "label": "AI agents' returns",
+   "from": "agent_returns/queue.json, returns",
+   "received": 0,
+   "accepted": 0
+  },
+  {
+   "label": "NavCom claims",
+   "from": "navcom_claims.json, claims",
+   "received": 0,
+   "accepted": null
+  }
+ ],
+ "questions": {
+  "asked": 32,
+  "open": 32,
+  "answered": 0,
+  "withdrawn": 0,
+  "unanswerable": 0,
+  "expired": 0
+ },
+ "key_watch": {
+  "since": "2026-10-07",
+  "found": 0,
+  "last_run": "2026-10-10"
+ },
+ "funding": {
+  "_about": "Mecha Jono's funding record, shown on the results ledger (beu/results_ledger.py). ADDED 2026-10-09. lightning_address: the operator's Coinos address, once he has one; it stays off Mecha Jono's Nostr profile until the key switch (K4-N). funders: every organisation that funds us, and any money with conditions, as {name, since, conditions}. Individual tips without conditions are never listed by name.",
+  "lightning_address": "",
+  "lightning_note": "Held by Coinos, a custodial wallet, until donations pay for a Lightning channel of our own.",
+  "links": [
+   {
+    "name": "GitHub Sponsors",
+    "url": "https://github.com/sponsors/Jthora"
+   }
+  ],
+  "funders": []
+ }
+}
