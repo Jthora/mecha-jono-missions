@@ -3,11 +3,11 @@
  "problems": [],
  "record": {
   "notes": {
-   "all": 845,
+   "all": 978,
    "withdrawn": 41,
    "mission_endings": 10,
    "thread_endings": 9,
-   "standing": 785
+   "standing": 918
   },
   "missions": {
    "all": 100,
@@ -23,7 +23,7 @@
    "unsupported": 1,
    "retracted": 1
   },
-  "listings": 1999,
+  "listings": 2129,
   "videos": 13,
   "ours": {
    "Mixmag's terms allow linking to its site only with its prior written consent": 1,
@@ -62,8 +62,8 @@
   }
  ],
  "questions": {
-  "asked": 35,
-  "open": 35,
+  "asked": 37,
+  "open": 37,
   "answered": 0,
   "withdrawn": 0,
   "unanswerable": 0,
