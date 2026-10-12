@@ -11,6 +11,36 @@
  "language": "en",
  "items": [
   {
+   "id": "field:recall_check:2026-10-12#read:notice",
+   "title": "Check the shelves near you: 3 Class I recalls this fortnight",
+   "content_text": "Read the recall notices and note each product, its lot codes and what buyers should do.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "date_published": "2026-10-12T06:36:15Z",
+   "date_modified": "2026-10-12T06:36:15Z",
+   "tags": [
+    "awareness",
+    "awareness.recall"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-recall_check-2026-10-12",
+    "objective": "field:recall_check:2026-10-12#read:notice",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1791892800,
+    "jurisdiction": [
+     "us"
+    ],
+    "presence": "desk",
+    "limits": [
+     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. Never remove products yourself: tell the store or the pantry."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
    "id": "ic-grant-30b3fc0f56#read:eligibility",
    "title": "Fiscal Year (FY) 2027 AmeriCorps Seniors RSVP Competition",
    "content_text": "Confirm on Grants.gov that AC-08-20-2026 is open until 20 October 2026 and read who may apply.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",

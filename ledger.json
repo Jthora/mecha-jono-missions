@@ -3,16 +3,16 @@
  "problems": [],
  "record": {
   "notes": {
-   "all": 1007,
+   "all": 1024,
    "withdrawn": 47,
    "mission_endings": 12,
    "thread_endings": 9,
-   "standing": 939
+   "standing": 956
   },
   "missions": {
-   "all": 100,
-   "open": 82,
-   "field": 24,
+   "all": 101,
+   "open": 83,
+   "field": 25,
    "closed": 18,
    "research": 76
   },
