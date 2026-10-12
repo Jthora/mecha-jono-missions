@@ -11,6 +11,34 @@
  "language": "en",
  "items": [
   {
+   "id": "field:malware_takedown:2026-W42#check:records",
+   "title": "Get long-lived malware taken down (5292 files, 8 providers)",
+   "content_text": "Open the URLhaus records for one provider and confirm they still show online.\nAbout 10 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://urlhaus.abuse.ch/browse/",
+   "date_published": "2026-10-12T09:46:07Z",
+   "date_modified": "2026-10-12T09:46:07Z",
+   "tags": [
+    "cyber",
+    "cyber.malware_takedown"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-malware_takedown-2026-W42",
+    "objective": "field:malware_takedown:2026-W42#check:records",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1792368000,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [
+     "Never open, download or run a malware file, and never probe or scan a server. Report only through the provider's abuse channel. A compromised site's owner is a victim: never name or contact them publicly."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
    "id": "field:recall_check:2026-10-12#read:notice",
    "title": "Check the shelves near you: 3 Class I recalls this fortnight",
    "content_text": "Read the recall notices and note each product, its lot codes and what buyers should do.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
