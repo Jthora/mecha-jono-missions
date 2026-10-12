@@ -3,18 +3,18 @@
  "problems": [],
  "record": {
   "notes": {
-   "all": 1038,
+   "all": 1049,
+   "withdrawn": 49,
    "mission_endings": 13,
-   "withdrawn": 46,
    "thread_endings": 9,
-   "standing": 970
+   "standing": 978
   },
   "missions": {
    "all": 104,
-   "closed": 19,
-   "field": 28,
    "open": 85,
-   "research": 76
+   "research": 76,
+   "closed": 19,
+   "field": 28
   },
   "threads": {
    "all": 79,
@@ -32,7 +32,7 @@
    "a case thread, retracted: we published it and withdrew it -- it should not have gone out": 1
   },
   "ended": {
-   "heat alerts, withdrawn when the forecast eased": 26
+   "heat alerts, withdrawn when the forecast eased": 29
   }
  },
  "handed_back": [
