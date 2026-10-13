@@ -3,11 +3,11 @@
  "problems": [],
  "record": {
   "notes": {
-   "all": 1100,
+   "all": 1102,
    "withdrawn": 51,
    "thread_endings": 10,
    "mission_endings": 13,
-   "standing": 1026
+   "standing": 1028
   },
   "missions": {
    "all": 104,
@@ -62,8 +62,8 @@
   }
  ],
  "questions": {
-  "asked": 48,
-  "open": 48,
+  "asked": 49,
+  "open": 49,
   "answered": 0,
   "withdrawn": 0,
   "unanswerable": 0,
