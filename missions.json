@@ -12,11 +12,11 @@
  "items": [
   {
    "id": "field:heat_relief:CA:2026-10-15#find:centres",
-   "title": "Heat relief: California (12 forecast areas)",
-   "content_text": "Find the open cooling centres and their hours for Los Angeles County Beaches, Los Angeles County Inland Coast including Downtown Los Angeles, Malibu Coast, Palos Verdes Hills and 8 more on the county or city site, and write them…\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "title": "Heat relief: California (15 forecast areas)",
+   "content_text": "Find the open cooling centres and their hours for Los Angeles County Beaches, Los Angeles County Inland Coast including Downtown Los Angeles, Malibu Coast, Orange County Coastal and 11 more on the county or city site, and write…\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
    "external_url": "https://www.weather.gov/alerts?area=CA",
-   "date_published": "2026-10-13T17:40:01Z",
-   "date_modified": "2026-10-13T17:40:01Z",
+   "date_published": "2026-10-13T20:39:48Z",
+   "date_modified": "2026-10-13T20:39:48Z",
    "tags": [
     "outreach",
     "outreach.heat"
