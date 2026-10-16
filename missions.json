@@ -11,6 +11,64 @@
  "language": "en",
  "items": [
   {
+   "id": "field:malware_takedown:2026-W42#check:records",
+   "title": "Get long-lived malware taken down (5292 files, 8 providers)",
+   "content_text": "Open the URLhaus records for one provider and confirm they still show online.\nAbout 10 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://urlhaus.abuse.ch/browse/",
+   "date_published": "2026-10-16T18:36:49Z",
+   "date_modified": "2026-10-16T18:36:49Z",
+   "tags": [
+    "cyber",
+    "cyber.malware_takedown"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-malware_takedown-2026-W42",
+    "objective": "field:malware_takedown:2026-W42#check:records",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1792368000,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [
+     "Never open, download or run a malware file, and never probe or scan a server. Report only through the provider's abuse channel. A compromised site's owner is a victim: never name or contact them publicly."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "field:heat_relief:CA:2026-10-15#find:centres",
+   "title": "Heat relief: California (15 forecast areas)",
+   "content_text": "Find the open cooling centres and their hours for Los Angeles County Beaches, Los Angeles County Inland Coast including Downtown Los Angeles, Malibu Coast, Orange County Coastal and 11 more on the county or city site, and write…\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://www.weather.gov/alerts?area=CA",
+   "date_published": "2026-10-16T18:36:47Z",
+   "date_modified": "2026-10-16T18:36:47Z",
+   "tags": [
+    "outreach",
+    "outreach.heat"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-heat_relief-CA-2026-10-15",
+    "objective": "field:heat_relief:CA:2026-10-15#find:centres",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1792292400,
+    "jurisdiction": [
+     "us-ca"
+    ],
+    "presence": "desk",
+    "limits": [
+     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. Heat hurts helpers too: carry your own water, rest in shade, stop if you feel dizzy."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
    "id": "ic-grant-b90fdb0401#read:eligibility",
    "title": "BJA FY 2026 Second Chance Act Community-based Reentry Program",
    "content_text": "Confirm on Grants.gov that O-BJA-2026-172717 is open until 30 October 2026 and read who may apply.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
@@ -636,36 +694,6 @@
    }
   },
   {
-   "id": "field:heat_relief:CA:2026-10-15#find:centres",
-   "title": "Heat relief: California (15 forecast areas)",
-   "content_text": "Find the open cooling centres and their hours for Los Angeles County Beaches, Los Angeles County Inland Coast including Downtown Los Angeles, Malibu Coast, Orange County Coastal and 11 more on the county or city site, and write…\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://www.weather.gov/alerts?area=CA",
-   "date_published": "2026-10-13T20:39:48Z",
-   "date_modified": "2026-10-13T20:39:48Z",
-   "tags": [
-    "outreach",
-    "outreach.heat"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-heat_relief-CA-2026-10-15",
-    "objective": "field:heat_relief:CA:2026-10-15#find:centres",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": 1792292400,
-    "jurisdiction": [
-     "us-ca"
-    ],
-    "presence": "desk",
-    "limits": [
-     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. Heat hurts helpers too: carry your own water, rest in shade, stop if you feel dizzy."
-    ],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
    "id": "ic-jurisdiction-ef6a8c814c#status:snr-sisters-n-recovery",
    "title": "Jackson, TN",
    "content_text": "Find whether Snr Sisters N Recovery (ZIP 38305) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
@@ -852,34 +880,6 @@
     "jurisdiction": [],
     "presence": "desk",
     "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "field:malware_takedown:2026-W42#check:records",
-   "title": "Get long-lived malware taken down (5292 files, 8 providers)",
-   "content_text": "Open the URLhaus records for one provider and confirm they still show online.\nAbout 10 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://urlhaus.abuse.ch/browse/",
-   "date_published": "2026-10-12T09:46:07Z",
-   "date_modified": "2026-10-12T09:46:07Z",
-   "tags": [
-    "cyber",
-    "cyber.malware_takedown"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-malware_takedown-2026-W42",
-    "objective": "field:malware_takedown:2026-W42#check:records",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": 1792368000,
-    "jurisdiction": [],
-    "presence": "desk",
-    "limits": [
-     "Never open, download or run a malware file, and never probe or scan a server. Report only through the provider's abuse channel. A compromised site's owner is a victim: never name or contact them publicly."
-    ],
     "record": "wss://record.cosmiccodex.app"
    }
   },
