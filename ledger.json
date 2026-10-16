@@ -1,13 +1,13 @@
 {
- "as_of": "2026-10-15",
+ "as_of": "2026-10-16",
  "problems": [],
  "record": {
   "notes": {
-   "all": 1337,
+   "all": 1340,
    "withdrawn": 47,
    "mission_endings": 15,
    "thread_endings": 12,
-   "standing": 1263
+   "standing": 1266
   },
   "missions": {
    "all": 107,
