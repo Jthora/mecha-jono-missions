@@ -11,6 +11,36 @@
  "language": "en",
  "items": [
   {
+   "id": "field:smoke_relief:CA:2026-10-16#find:spaces",
+   "title": "Smoke and bad air: California (2 forecast areas)",
+   "content_text": "Find the clean-air or cooling spaces open for Orange County Coastal and Orange County Inland (libraries, county centres) and note them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://www.weather.gov/alerts?area=CA",
+   "date_published": "2026-10-17T05:35:03Z",
+   "date_modified": "2026-10-17T05:35:03Z",
+   "tags": [
+    "outreach",
+    "outreach.smoke"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-smoke_relief-CA-2026-10-16",
+    "objective": "field:smoke_relief:CA:2026-10-16#find:spaces",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1792285200,
+    "jurisdiction": [
+     "us-ca"
+    ],
+    "presence": "desk",
+    "limits": [
+     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
    "id": "ic-uei-ef279ab17b#read:exclusion",
    "title": "Dubai Enterprises Co",
    "content_text": "Confirm on SAM.gov that Dubai Enterprises Co (UEI JECQDHMDCNM8) carries a Reciprocal exclusion from 25 January 2025 to 11 December 2027.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
