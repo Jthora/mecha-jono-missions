@@ -3,23 +3,23 @@
  "problems": [],
  "record": {
   "notes": {
-   "all": 1637,
+   "all": 1649,
+   "thread_endings": 13,
    "mission_endings": 17,
    "withdrawn": 46,
-   "thread_endings": 12,
-   "standing": 1562
+   "standing": 1573
   },
   "missions": {
    "all": 108,
-   "open": 84,
+   "closed": 25,
    "research": 77,
-   "closed": 24,
+   "open": 83,
    "field": 31
   },
   "threads": {
    "all": 80,
-   "open": 70,
-   "superseded": 8,
+   "open": 69,
+   "superseded": 9,
    "unsupported": 1,
    "retracted": 1
   },
