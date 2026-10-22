@@ -11,6 +11,36 @@
  "language": "en",
  "items": [
   {
+   "id": "field:cold_relief:AK:2026-10-19#find:centres",
+   "title": "Cold-night outreach: Alaska (7 forecast areas)",
+   "content_text": "Find the warming centres and emergency shelter beds open for Bering Strait Coast, Interior Seward Peninsula, Noatak Valley, Shishmaref and 3 more (a county 'code blue' page, 211), and write them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://www.weather.gov/alerts?area=AK",
+   "date_published": "2026-10-22T00:36:18Z",
+   "date_modified": "2026-10-22T00:36:18Z",
+   "tags": [
+    "outreach",
+    "outreach.cold"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-cold_relief-AK-2026-10-19",
+    "objective": "field:cold_relief:AK:2026-10-19#find:centres",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1792972800,
+    "jurisdiction": [
+     "us-ak"
+    ],
+    "presence": "desk",
+    "limits": [
+     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. If someone is unresponsive in the cold, call 911 first."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
    "id": "ic-jurisdiction-e081517f68#status:voice-for-the-homeless",
    "title": "Brooklyn Park, MN",
    "content_text": "Find whether Voice For The Homeless (ZIP 55443) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
@@ -3787,36 +3817,6 @@
     "jurisdiction": [],
     "presence": "desk",
     "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "field:cold_relief:AK:2026-10-19#find:centres",
-   "title": "Cold-night outreach: Alaska (11 forecast areas)",
-   "content_text": "Find the warming centres and emergency shelter beds open for Delta Junction, Eastern Alaska Range North of Trims Camp, Eastern Alaska Range South of Trims Camp, Eielson AFB and Salcha and 7 more (a county 'code blue' page, 211)…\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://www.weather.gov/alerts?area=AK",
-   "date_published": "2026-10-19T20:16:58Z",
-   "date_modified": "2026-10-19T20:16:58Z",
-   "tags": [
-    "outreach",
-    "outreach.cold"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-cold_relief-AK-2026-10-19",
-    "objective": "field:cold_relief:AK:2026-10-19#find:centres",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": 1792670400,
-    "jurisdiction": [
-     "us-ak"
-    ],
-    "presence": "desk",
-    "limits": [
-     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. If someone is unresponsive in the cold, call 911 first."
-    ],
     "record": "wss://record.cosmiccodex.app"
    }
   },
