@@ -3,27 +3,27 @@
  "problems": [],
  "record": {
   "notes": {
-   "all": 2019,
-   "thread_endings": 15,
+   "all": 2040,
+   "thread_endings": 17,
    "mission_endings": 21,
    "withdrawn": 46,
-   "standing": 1937
+   "standing": 1956
   },
   "missions": {
    "all": 113,
-   "open": 82,
-   "field": 34,
+   "closed": 33,
    "research": 79,
-   "closed": 31
+   "open": 80,
+   "field": 34
   },
   "threads": {
    "all": 82,
-   "open": 69,
-   "superseded": 11,
+   "open": 67,
+   "superseded": 13,
    "unsupported": 1,
    "retracted": 1
   },
-  "listings": 3321,
+  "listings": 3402,
   "videos": 31,
   "ours": {
    "no reason given": 1,

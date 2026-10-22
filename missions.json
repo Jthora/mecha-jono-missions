@@ -4783,31 +4783,6 @@
    }
   },
   {
-   "id": "ic-icsa-f6f77572da#check:fix",
-   "title": "CloudEdge Online Cameras and App",
-   "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2025-11757 in CloudEdge Online Cameras and App, published since 2025-10-21.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-17T15:47:02Z",
-   "date_modified": "2026-10-17T15:47:02Z",
-   "tags": [
-    "cyber",
-    "cyber.ics"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-f6f77572da",
-    "objective": "ic-icsa-f6f77572da#check:fix",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
    "id": "ic-ein-20f3e20c89#read:filing",
    "title": "Dtcare",
    "content_text": "Read Dtcare's 2023 Form 990 -- Part IX line 11e and Schedule G Part I -- and confirm the fee figure of $12,926,171 and who was paid it. The e-filed return names 1 fundraiser(s); check the largest, Colossal Management LLC: $48,151,210 raised, $12,926,171 kept.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
