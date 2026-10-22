@@ -3,18 +3,18 @@
  "problems": [],
  "record": {
   "notes": {
-   "all": 2099,
+   "all": 2110,
    "thread_endings": 18,
    "mission_endings": 21,
    "withdrawn": 46,
-   "standing": 2014
+   "standing": 2025
   },
   "missions": {
-   "all": 113,
-   "open": 80,
-   "research": 79,
-   "closed": 33,
-   "field": 34
+   "all": 116,
+   "open": 83,
+   "field": 34,
+   "research": 82,
+   "closed": 33
   },
   "threads": {
    "all": 85,
