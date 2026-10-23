@@ -11,6 +11,36 @@
  "language": "en",
  "items": [
   {
+   "id": "field:recall_check:2026-10-23#read:notice",
+   "title": "Check the shelves near you: 5 Class I recalls this fortnight",
+   "content_text": "Read the recall notices and note each product, its lot codes and what buyers should do.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "date_published": "2026-10-23T02:41:48Z",
+   "date_modified": "2026-10-23T02:41:48Z",
+   "tags": [
+    "awareness",
+    "awareness.recall"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-recall_check-2026-10-23",
+    "objective": "field:recall_check:2026-10-23#read:notice",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1792843200,
+    "jurisdiction": [
+     "us"
+    ],
+    "presence": "desk",
+    "limits": [
+     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. Never remove products yourself: tell the store or the pantry."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
    "id": "field:cold_relief:AK:2026-10-19#find:centres",
    "title": "Cold-night outreach: Alaska (9 forecast areas)",
    "content_text": "Find the warming centres and emergency shelter beds open for Bering Strait Coast, Interior Seward Peninsula, Noatak Valley, Shishmaref and 5 more (a county 'code blue' page, 211), and write them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
