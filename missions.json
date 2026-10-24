@@ -11,6 +11,401 @@
  "language": "en",
  "items": [
   {
+   "id": "field:cold_relief:AK:2026-10-19#find:centres",
+   "title": "Cold-night outreach: Alaska (5 forecast areas)",
+   "content_text": "Find the warming centres and emergency shelter beds open for Noatak Valley, South Slopes Of The Central Brooks Range, South Slopes of the Western Brooks Range, Upper Kobuk Valleys and 1 more (a county 'code blue' page, 211), and…\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://www.weather.gov/alerts?area=AK",
+   "date_published": "2026-10-24T17:27:46Z",
+   "date_modified": "2026-10-24T17:27:46Z",
+   "tags": [
+    "outreach",
+    "outreach.cold"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-cold_relief-AK-2026-10-19",
+    "objective": "field:cold_relief:AK:2026-10-19#find:centres",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1793080800,
+    "jurisdiction": [
+     "us-ak"
+    ],
+    "presence": "desk",
+    "limits": [
+     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. If someone is unresponsive in the cold, call 911 first."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-grant-555039d434#read:eligibility",
+   "title": "OJJDP FY 2026 Strategies to Support Children Exposed to Violence",
+   "content_text": "Confirm on Grants.gov that O-OJJDP-2026-172752 is open until 16 November 2026 and read who may apply.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-24T15:45:34Z",
+   "date_modified": "2026-10-24T15:45:34Z",
+   "tags": [
+    "funding",
+    "funding.grant"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-555039d434",
+    "objective": "ic-grant-555039d434#read:eligibility",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-grant-555039d434#find:applicant",
+   "title": "OJJDP FY 2026 Strategies to Support Children Exposed to Violence",
+   "content_text": "Find a local group doing the work this programme funds, registered and eligible for O-OJJDP-2026-172752, that would use it and may not have seen it.\nAbout 45 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-24T15:45:34Z",
+   "date_modified": "2026-10-24T15:45:34Z",
+   "tags": [
+    "funding",
+    "funding.grant"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-555039d434",
+    "objective": "ic-grant-555039d434#find:applicant",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-grant-b90fdb0401#read:eligibility",
+   "title": "BJA FY 2026 Second Chance Act Community-based Reentry Program",
+   "content_text": "Confirm on Grants.gov that O-BJA-2026-172717 is open until 30 October 2026 and read who may apply.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-24T15:45:34Z",
+   "date_modified": "2026-10-24T15:45:34Z",
+   "tags": [
+    "funding",
+    "funding.grant"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-b90fdb0401",
+    "objective": "ic-grant-b90fdb0401#read:eligibility",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-grant-b90fdb0401#find:applicant",
+   "title": "BJA FY 2026 Second Chance Act Community-based Reentry Program",
+   "content_text": "Find a local group doing the work this programme funds, registered and eligible for O-BJA-2026-172717, that would use it and may not have seen it.\nAbout 45 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-24T15:45:34Z",
+   "date_modified": "2026-10-24T15:45:34Z",
+   "tags": [
+    "funding",
+    "funding.grant"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-b90fdb0401",
+    "objective": "ic-grant-b90fdb0401#find:applicant",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-grant-e479d35277#read:eligibility",
+   "title": "OJJDP FY 2026 Strengthening Internet Crimes Against Children (ICAC) Technological Investigative…",
+   "content_text": "Confirm on Grants.gov that O-OJJDP-2026-172753 is open until 29 October 2026 and read who may apply.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-24T15:45:33Z",
+   "date_modified": "2026-10-24T15:45:33Z",
+   "tags": [
+    "funding",
+    "funding.grant"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-e479d35277",
+    "objective": "ic-grant-e479d35277#read:eligibility",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-grant-e479d35277#find:applicant",
+   "title": "OJJDP FY 2026 Strengthening Internet Crimes Against Children (ICAC) Technological Investigative…",
+   "content_text": "Find a local group doing the work this programme funds, registered and eligible for O-OJJDP-2026-172753, that would use it and may not have seen it.\nAbout 45 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-24T15:45:33Z",
+   "date_modified": "2026-10-24T15:45:33Z",
+   "tags": [
+    "funding",
+    "funding.grant"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-e479d35277",
+    "objective": "ic-grant-e479d35277#find:applicant",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-ae839692bd#status:giving-to-the-homeless",
+   "title": "Newark, DE",
+   "content_text": "Find whether Giving To The Homeless (ZIP 19702) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-24T15:45:33Z",
+   "date_modified": "2026-10-24T15:45:33Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-ae839692bd",
+    "objective": "ic-jurisdiction-ae839692bd#status:giving-to-the-homeless",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-de"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-ae839692bd#status:national-veterans-assistance-coalition",
+   "title": "Newark, DE",
+   "content_text": "Find whether National Veterans Assistance Coalition (ZIP 19702) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-24T15:45:33Z",
+   "date_modified": "2026-10-24T15:45:33Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-ae839692bd",
+    "objective": "ic-jurisdiction-ae839692bd#status:national-veterans-assistance-coalition",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-de"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-ae839692bd#status:prison-outreach-of-delaware-inc",
+   "title": "Newark, DE",
+   "content_text": "Find whether Prison Outreach Of Delaware Inc (ZIP 19714) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-24T15:45:33Z",
+   "date_modified": "2026-10-24T15:45:33Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-ae839692bd",
+    "objective": "ic-jurisdiction-ae839692bd#status:prison-outreach-of-delaware-inc",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-de"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-ae839692bd#status:delaware-bears-youth-footbal-organizatio",
+   "title": "Newark, DE",
+   "content_text": "Find whether Delaware Bears Youth Footbal Organization (ZIP 19702) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-24T15:45:33Z",
+   "date_modified": "2026-10-24T15:45:33Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-ae839692bd",
+    "objective": "ic-jurisdiction-ae839692bd#status:delaware-bears-youth-footbal-organizatio",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-de"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-ae839692bd#status:samaritans-holistic-international-outrea",
+   "title": "Newark, DE",
+   "content_text": "Find whether Samaritans Holistic International Outreach Inc (ZIP 19702) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-24T15:45:33Z",
+   "date_modified": "2026-10-24T15:45:33Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-ae839692bd",
+    "objective": "ic-jurisdiction-ae839692bd#status:samaritans-holistic-international-outrea",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-de"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-icsa-f1dbd6d141#check:fix",
+   "title": "Siemens SIMATIC S7 PLCs Web Server",
+   "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2026-63350 in Siemens SIMATIC S7 PLCs Web Server, published since 2026-10-13.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-24T15:45:32Z",
+   "date_modified": "2026-10-24T15:45:32Z",
+   "tags": [
+    "cyber",
+    "cyber.ics"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-f1dbd6d141",
+    "objective": "ic-icsa-f1dbd6d141#check:fix",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-grant-e2790601af#read:eligibility",
+   "title": "Great Lakes Restoration Initiative: Community Forest and Open Space Conservation Program",
+   "content_text": "Confirm on Grants.gov that USDA-FS-2026-GLRI-CFP is open until 8 December 2026 and read who may apply.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-24T15:45:32Z",
+   "date_modified": "2026-10-24T15:45:32Z",
+   "tags": [
+    "funding",
+    "funding.grant"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-e2790601af",
+    "objective": "ic-grant-e2790601af#read:eligibility",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-grant-e2790601af#find:applicant",
+   "title": "Great Lakes Restoration Initiative: Community Forest and Open Space Conservation Program",
+   "content_text": "Find a local group doing the work this programme funds, registered and eligible for USDA-FS-2026-GLRI-CFP, that would use it and may not have seen it.\nAbout 45 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-24T15:45:32Z",
+   "date_modified": "2026-10-24T15:45:32Z",
+   "tags": [
+    "funding",
+    "funding.grant"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-e2790601af",
+    "objective": "ic-grant-e2790601af#find:applicant",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
    "id": "ic-grant-cae7e34404#read:eligibility",
    "title": "OJJDP FY 2026 Expanding Youth Access to Community-Based Treatment",
    "content_text": "Confirm on Grants.gov that O-OJJDP-2026-172737 is open until 16 November 2026 and read who may apply.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
@@ -482,36 +877,6 @@
    }
   },
   {
-   "id": "field:cold_relief:AK:2026-10-19#find:centres",
-   "title": "Cold-night outreach: Alaska (9 forecast areas)",
-   "content_text": "Find the warming centres and emergency shelter beds open for Baldwin Peninsula, Kivalina and Red Dog Dock, Lower Kobuk Valley, Noatak Valley and 5 more (a county 'code blue' page, 211), and write them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://www.weather.gov/alerts?area=AK",
-   "date_published": "2026-10-24T08:31:01Z",
-   "date_modified": "2026-10-24T08:31:01Z",
-   "tags": [
-    "outreach",
-    "outreach.cold"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-cold_relief-AK-2026-10-19",
-    "objective": "field:cold_relief:AK:2026-10-19#find:centres",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": 1793080800,
-    "jurisdiction": [
-     "us-ak"
-    ],
-    "presence": "desk",
-    "limits": [
-     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. If someone is unresponsive in the cold, call 911 first."
-    ],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
    "id": "ic-grant-891ffd0634#read:eligibility",
    "title": "Exploring and Enhancing Outdoor and Heritage Tourism in the Chesapeake Bay Watershed",
    "content_text": "Confirm on Grants.gov that P27AS00032 is open until 4 November 2026 and read who may apply.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
@@ -755,106 +1120,6 @@
    "_mission": {
     "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-81e2903879",
     "objective": "ic-icsa-81e2903879#check:fix",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-grant-b90fdb0401#read:eligibility",
-   "title": "BJA FY 2026 Second Chance Act Community-based Reentry Program",
-   "content_text": "Confirm on Grants.gov that O-BJA-2026-172717 is open until 30 October 2026 and read who may apply.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-23T15:30:45Z",
-   "date_modified": "2026-10-23T15:30:45Z",
-   "tags": [
-    "funding",
-    "funding.grant"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-b90fdb0401",
-    "objective": "ic-grant-b90fdb0401#read:eligibility",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-grant-b90fdb0401#find:applicant",
-   "title": "BJA FY 2026 Second Chance Act Community-based Reentry Program",
-   "content_text": "Find a local group doing the work this programme funds, registered and eligible for O-BJA-2026-172717, that would use it and may not have seen it.\nAbout 45 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-23T15:30:45Z",
-   "date_modified": "2026-10-23T15:30:45Z",
-   "tags": [
-    "funding",
-    "funding.grant"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-b90fdb0401",
-    "objective": "ic-grant-b90fdb0401#find:applicant",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-grant-e479d35277#read:eligibility",
-   "title": "OJJDP FY 2026 Strengthening Internet Crimes Against Children (ICAC) Technological Investigative…",
-   "content_text": "Confirm on Grants.gov that O-OJJDP-2026-172753 is open until 29 October 2026 and read who may apply.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-23T15:30:45Z",
-   "date_modified": "2026-10-23T15:30:45Z",
-   "tags": [
-    "funding",
-    "funding.grant"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-e479d35277",
-    "objective": "ic-grant-e479d35277#read:eligibility",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-grant-e479d35277#find:applicant",
-   "title": "OJJDP FY 2026 Strengthening Internet Crimes Against Children (ICAC) Technological Investigative…",
-   "content_text": "Find a local group doing the work this programme funds, registered and eligible for O-OJJDP-2026-172753, that would use it and may not have seen it.\nAbout 45 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-23T15:30:45Z",
-   "date_modified": "2026-10-23T15:30:45Z",
-   "tags": [
-    "funding",
-    "funding.grant"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-e479d35277",
-    "objective": "ic-grant-e479d35277#find:applicant",
     "takers": [
      "human",
      "agent"
@@ -1242,31 +1507,6 @@
    }
   },
   {
-   "id": "ic-icsa-f1dbd6d141#check:fix",
-   "title": "Siemens SIMATIC S7 PLCs Web Server",
-   "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2026-63350 in Siemens SIMATIC S7 PLCs Web Server, published since 2026-10-13.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-22T21:21:06Z",
-   "date_modified": "2026-10-22T21:21:06Z",
-   "tags": [
-    "cyber",
-    "cyber.ics"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-f1dbd6d141",
-    "objective": "ic-icsa-f1dbd6d141#check:fix",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
    "id": "ic-icsa-2591d5fb8f#check:fix",
    "title": "Siemens SIMATIC S7-1500 TM MFP",
    "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2024-56719 in Siemens SIMATIC S7-1500 TM MFP, published since 2026-10-13.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
@@ -1279,56 +1519,6 @@
    "_mission": {
     "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-2591d5fb8f",
     "objective": "ic-icsa-2591d5fb8f#check:fix",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-grant-555039d434#read:eligibility",
-   "title": "OJJDP FY 2026 Strategies to Support Children Exposed to Violence",
-   "content_text": "Confirm on Grants.gov that O-OJJDP-2026-172752 is open until 16 November 2026 and read who may apply.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-22T15:19:17Z",
-   "date_modified": "2026-10-22T15:19:17Z",
-   "tags": [
-    "funding",
-    "funding.grant"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-555039d434",
-    "objective": "ic-grant-555039d434#read:eligibility",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-grant-555039d434#find:applicant",
-   "title": "OJJDP FY 2026 Strategies to Support Children Exposed to Violence",
-   "content_text": "Find a local group doing the work this programme funds, registered and eligible for O-OJJDP-2026-172752, that would use it and may not have seen it.\nAbout 45 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-22T15:19:17Z",
-   "date_modified": "2026-10-22T15:19:17Z",
-   "tags": [
-    "funding",
-    "funding.grant"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-grant-555039d434",
-    "objective": "ic-grant-555039d434#find:applicant",
     "takers": [
      "human",
      "agent"
@@ -3147,146 +3337,6 @@
     "claims": "many",
     "valid_until": null,
     "jurisdiction": [],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-jurisdiction-ae839692bd#status:giving-to-the-homeless",
-   "title": "Newark, DE",
-   "content_text": "Find whether Giving To The Homeless (ZIP 19702) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-20T13:35:14Z",
-   "date_modified": "2026-10-20T13:35:14Z",
-   "tags": [
-    "charity",
-    "charity.revocation"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-ae839692bd",
-    "objective": "ic-jurisdiction-ae839692bd#status:giving-to-the-homeless",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [
-     "us",
-     "us-de"
-    ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-jurisdiction-ae839692bd#status:national-veterans-assistance-coalition",
-   "title": "Newark, DE",
-   "content_text": "Find whether National Veterans Assistance Coalition (ZIP 19702) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-20T13:35:14Z",
-   "date_modified": "2026-10-20T13:35:14Z",
-   "tags": [
-    "charity",
-    "charity.revocation"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-ae839692bd",
-    "objective": "ic-jurisdiction-ae839692bd#status:national-veterans-assistance-coalition",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [
-     "us",
-     "us-de"
-    ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-jurisdiction-ae839692bd#status:prison-outreach-of-delaware-inc",
-   "title": "Newark, DE",
-   "content_text": "Find whether Prison Outreach Of Delaware Inc (ZIP 19714) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-20T13:35:14Z",
-   "date_modified": "2026-10-20T13:35:14Z",
-   "tags": [
-    "charity",
-    "charity.revocation"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-ae839692bd",
-    "objective": "ic-jurisdiction-ae839692bd#status:prison-outreach-of-delaware-inc",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [
-     "us",
-     "us-de"
-    ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-jurisdiction-ae839692bd#status:delaware-bears-youth-footbal-organizatio",
-   "title": "Newark, DE",
-   "content_text": "Find whether Delaware Bears Youth Footbal Organization (ZIP 19702) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-20T13:35:14Z",
-   "date_modified": "2026-10-20T13:35:14Z",
-   "tags": [
-    "charity",
-    "charity.revocation"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-ae839692bd",
-    "objective": "ic-jurisdiction-ae839692bd#status:delaware-bears-youth-footbal-organizatio",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [
-     "us",
-     "us-de"
-    ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-jurisdiction-ae839692bd#status:samaritans-holistic-international-outrea",
-   "title": "Newark, DE",
-   "content_text": "Find whether Samaritans Holistic International Outreach Inc (ZIP 19702) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-20T13:35:14Z",
-   "date_modified": "2026-10-20T13:35:14Z",
-   "tags": [
-    "charity",
-    "charity.revocation"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-ae839692bd",
-    "objective": "ic-jurisdiction-ae839692bd#status:samaritans-holistic-international-outrea",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [
-     "us",
-     "us-de"
-    ],
     "presence": "desk",
     "limits": [],
     "record": "wss://record.cosmiccodex.app"
