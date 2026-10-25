@@ -11,6 +11,36 @@
  "language": "en",
  "items": [
   {
+   "id": "field:cold_relief:AK:2026-10-19#find:centres",
+   "title": "Cold-night outreach: Alaska (2 forecast areas)",
+   "content_text": "Find the warming centres and emergency shelter beds open for South Slopes Of The Central Brooks Range and Upper Koyukuk Valley (a county 'code blue' page, 211), and write them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://www.weather.gov/alerts?area=AK",
+   "date_published": "2026-10-25T22:45:56Z",
+   "date_modified": "2026-10-25T22:45:56Z",
+   "tags": [
+    "outreach",
+    "outreach.cold"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-cold_relief-AK-2026-10-19",
+    "objective": "field:cold_relief:AK:2026-10-19#find:centres",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1793080800,
+    "jurisdiction": [
+     "us-ak"
+    ],
+    "presence": "desk",
+    "limits": [
+     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. If someone is unresponsive in the cold, call 911 first."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
    "id": "ic-grant-555039d434#read:eligibility",
    "title": "OJJDP FY 2026 Strategies to Support Children Exposed to Violence",
    "content_text": "Confirm on Grants.gov that O-OJJDP-2026-172752 is open until 16 November 2026 and read who may apply.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
@@ -182,66 +212,6 @@
     "jurisdiction": [],
     "presence": "desk",
     "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "field:heat_relief:VI:2026-10-25#find:centres",
-   "title": "Heat relief: United States Virgin Islands (15 forecast areas)",
-   "content_text": "Find the open cooling centres and their hours for Central Interior, Culebra, Eastern Interior, Mayaguez and Vicinity and 11 more on the county or city site, and write them on a card you can hand out.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://www.weather.gov/alerts?area=VI",
-   "date_published": "2026-10-25T12:34:17Z",
-   "date_modified": "2026-10-25T12:34:17Z",
-   "tags": [
-    "outreach",
-    "outreach.heat"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-heat_relief-VI-2026-10-25",
-    "objective": "field:heat_relief:VI:2026-10-25#find:centres",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": 1792962000,
-    "jurisdiction": [
-     "us-vi"
-    ],
-    "presence": "desk",
-    "limits": [
-     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. Heat hurts helpers too: carry your own water, rest in shade, stop if you feel dizzy."
-    ],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "field:heat_relief:PR:2026-10-25#find:centres",
-   "title": "Heat relief: Puerto Rico (15 forecast areas)",
-   "content_text": "Find the open cooling centres and their hours for Central Interior, Culebra, Eastern Interior, Mayaguez and Vicinity and 11 more on the county or city site, and write them on a card you can hand out.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://www.weather.gov/alerts?area=PR",
-   "date_published": "2026-10-25T10:35:11Z",
-   "date_modified": "2026-10-25T10:35:11Z",
-   "tags": [
-    "outreach",
-    "outreach.heat"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-heat_relief-PR-2026-10-25",
-    "objective": "field:heat_relief:PR:2026-10-25#find:centres",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": 1792962000,
-    "jurisdiction": [
-     "us-pr"
-    ],
-    "presence": "desk",
-    "limits": [
-     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. Heat hurts helpers too: carry your own water, rest in shade, stop if you feel dizzy."
-    ],
     "record": "wss://record.cosmiccodex.app"
    }
   },
@@ -1400,36 +1370,6 @@
     "jurisdiction": [],
     "presence": "desk",
     "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "field:cold_relief:AK:2026-10-19#find:centres",
-   "title": "Cold-night outreach: Alaska (5 forecast areas)",
-   "content_text": "Find the warming centres and emergency shelter beds open for Noatak Valley, South Slopes Of The Central Brooks Range, South Slopes of the Western Brooks Range, Upper Kobuk Valleys and 1 more (a county 'code blue' page, 211), and…\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://www.weather.gov/alerts?area=AK",
-   "date_published": "2026-10-24T17:27:46Z",
-   "date_modified": "2026-10-24T17:27:46Z",
-   "tags": [
-    "outreach",
-    "outreach.cold"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-cold_relief-AK-2026-10-19",
-    "objective": "field:cold_relief:AK:2026-10-19#find:centres",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": 1793080800,
-    "jurisdiction": [
-     "us-ak"
-    ],
-    "presence": "desk",
-    "limits": [
-     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. If someone is unresponsive in the cold, call 911 first."
-    ],
     "record": "wss://record.cosmiccodex.app"
    }
   },
