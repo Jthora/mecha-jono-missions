@@ -3,11 +3,11 @@
  "problems": [],
  "record": {
   "notes": {
-   "all": 2285,
+   "all": 2292,
    "thread_endings": 20,
-   "withdrawn": 47,
    "mission_endings": 22,
-   "standing": 2196
+   "withdrawn": 46,
+   "standing": 2204
   },
   "missions": {
    "all": 119,
@@ -33,7 +33,7 @@
    "a case thread, retracted: we published it and withdrew it -- it should not have gone out": 1
   },
   "ended": {
-   "heat alerts, withdrawn when the forecast eased": 26
+   "heat alerts, withdrawn when the forecast eased": 25
   }
  },
  "handed_back": [
