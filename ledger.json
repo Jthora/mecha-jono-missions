@@ -3,11 +3,11 @@
  "problems": [],
  "record": {
   "notes": {
-   "all": 2424,
+   "all": 2441,
    "mission_endings": 26,
    "withdrawn": 47,
    "thread_endings": 20,
-   "standing": 2331
+   "standing": 2348
   },
   "missions": {
    "all": 125,
@@ -23,7 +23,7 @@
    "unsupported": 1,
    "retracted": 1
   },
-  "listings": 1485,
+  "listings": 1484,
   "videos": 40,
   "ours": {
    "no reason given": 1,
@@ -71,7 +71,7 @@
   "expired": 0,
   "narrowed": 8,
   "merged": 7,
-  "first_due": "2026-10-26"
+  "first_due": "2026-10-27"
  },
  "key_watch": {
   "since": "2026-10-07",
