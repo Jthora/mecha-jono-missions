@@ -3,11 +3,11 @@
  "problems": [],
  "record": {
   "notes": {
-   "all": 2788,
+   "all": 2800,
    "withdrawn": 54,
    "thread_endings": 22,
    "mission_endings": 28,
-   "standing": 2684
+   "standing": 2696
   },
   "missions": {
    "all": 129,
@@ -23,7 +23,7 @@
    "unsupported": 1,
    "retracted": 1
   },
-  "listings": 1520,
+  "listings": 1522,
   "videos": 46,
   "ours": {
    "no reason given": 1,
@@ -63,15 +63,15 @@
   }
  ],
  "questions": {
-  "asked": 103,
-  "open": 58,
+  "asked": 104,
+  "open": 59,
   "answered": 1,
   "withdrawn": 0,
   "unanswerable": 26,
   "expired": 0,
   "narrowed": 10,
   "merged": 8,
-  "first_due": "2026-10-29"
+  "first_due": "2026-10-30"
  },
  "key_watch": {
   "since": "2026-10-07",
