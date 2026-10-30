@@ -11,6 +11,56 @@
  "language": "en",
  "items": [
   {
+   "id": "ic-icsa-44c2e395c2#check:fix",
+   "title": "Siemens SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP",
+   "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2024-56719 in Siemens SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP, published since 2026-10-13.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-30T09:17:12Z",
+   "date_modified": "2026-10-30T09:17:12Z",
+   "tags": [
+    "cyber",
+    "cyber.ics"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-44c2e395c2",
+    "objective": "ic-icsa-44c2e395c2#check:fix",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-icsa-be97ff6530#check:fix",
+   "title": "Anjvision YSSD-RTMP-H5",
+   "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2026-100291 in Anjvision YSSD-RTMP-H5, published since 2026-09-29.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-10-30T09:17:12Z",
+   "date_modified": "2026-10-30T09:17:12Z",
+   "tags": [
+    "cyber",
+    "cyber.ics"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-be97ff6530",
+    "objective": "ic-icsa-be97ff6530#check:fix",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
    "id": "ic-grant-d8568000db#read:eligibility",
    "title": "OJJDP FY 2026 Internet Crimes Against Children On-Line Child Protection System (ICACCOPS)",
    "content_text": "Confirm on Grants.gov that O-OJJDP-2026-172740 is open until 16 November 2026 and read who may apply.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
@@ -2426,31 +2476,6 @@
      "us",
      "us-va"
     ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-icsa-44c2e395c2#check:fix",
-   "title": "Siemens SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP",
-   "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2024-56719 in Siemens SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP, published since 2026-10-13.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-27T11:55:57Z",
-   "date_modified": "2026-10-27T11:55:57Z",
-   "tags": [
-    "cyber",
-    "cyber.ics"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-44c2e395c2",
-    "objective": "ic-icsa-44c2e395c2#check:fix",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [],
     "presence": "desk",
     "limits": [],
     "record": "wss://record.cosmiccodex.app"
@@ -4993,31 +5018,6 @@
      "us",
      "us-il"
     ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-icsa-be97ff6530#check:fix",
-   "title": "Anjvision YSSD-RTMP-H5",
-   "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2026-100291 in Anjvision YSSD-RTMP-H5, published since 2026-09-29.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-10-26T11:40:13Z",
-   "date_modified": "2026-10-26T11:40:13Z",
-   "tags": [
-    "cyber",
-    "cyber.ics"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-be97ff6530",
-    "objective": "ic-icsa-be97ff6530#check:fix",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [],
     "presence": "desk",
     "limits": [],
     "record": "wss://record.cosmiccodex.app"
