@@ -3,11 +3,11 @@
  "problems": [],
  "record": {
   "notes": {
-   "all": 3060,
+   "all": 3064,
    "withdrawn": 54,
    "thread_endings": 27,
    "mission_endings": 28,
-   "standing": 2951
+   "standing": 2955
   },
   "missions": {
    "all": 130,
@@ -23,7 +23,7 @@
    "unsupported": 1,
    "retracted": 1
   },
-  "listings": 1782,
+  "listings": 1780,
   "videos": 51,
   "ours": {
    "no reason given": 1,
@@ -60,6 +60,12 @@
    "from": "navcom_claims.json, claims",
    "received": 0,
    "accepted": null
+  },
+  {
+   "label": "mission packages reported on",
+   "from": "intel_economy/settled.json, packages",
+   "received": 0,
+   "accepted": 0
   }
  ],
  "questions": {
