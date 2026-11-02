@@ -11,6 +11,126 @@
  "language": "en",
  "items": [
   {
+   "id": "field:recall_check:2026-11-02#read:notice",
+   "title": "Check the shelves near you: 2 Class I recalls this fortnight",
+   "content_text": "Read the recall notices and note each product, its lot codes and what buyers should do.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "date_published": "2026-11-02T22:17:17Z",
+   "date_modified": "2026-11-02T22:17:17Z",
+   "tags": [
+    "awareness",
+    "awareness.recall"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-recall_check-2026-11-02",
+    "objective": "field:recall_check:2026-11-02#read:notice",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1793707200,
+    "jurisdiction": [
+     "us"
+    ],
+    "presence": "desk",
+    "limits": [
+     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. Never remove products yourself: tell the store or the pantry."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "field:refunds_owed:ag-7b298eba5740b5de#read:claim",
+   "title": "Help people claim what they're owed: WA consumers get financial relief through auto lender settlement",
+   "content_text": "Read the release and the claim site: who qualifies, what they need, and the deadline.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://www.atg.wa.gov/news/news-releases/wa-consumers-get-financial-relief-through-auto-lender-settlement",
+   "date_published": "2026-11-02T21:42:32Z",
+   "date_modified": "2026-11-02T21:42:32Z",
+   "tags": [
+    "awareness",
+    "awareness.refunds"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-refunds_owed-ag-7b298eba5740b5de",
+    "objective": "field:refunds_owed:ag-7b298eba5740b5de#read:claim",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1794787200,
+    "jurisdiction": [
+     "us-wa"
+    ],
+    "presence": "desk",
+    "limits": [
+     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. Never handle anyone's personal, bank or card details: they file it themselves."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "field:refunds_owed:ag-50582362a3e7b0e3#read:claim",
+   "title": "Help people claim what they're owed: WA consumers urged to claim compensation for inflated generic drug prices",
+   "content_text": "Read the release and the claim site: who qualifies, what they need, and the deadline.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://www.atg.wa.gov/news/news-releases/wa-consumers-urged-claim-compensation-inflated-generic-drug-prices",
+   "date_published": "2026-11-02T21:42:32Z",
+   "date_modified": "2026-11-02T21:42:32Z",
+   "tags": [
+    "awareness",
+    "awareness.refunds"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-refunds_owed-ag-50582362a3e7b0e3",
+    "objective": "field:refunds_owed:ag-50582362a3e7b0e3#read:claim",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1795219200,
+    "jurisdiction": [
+     "us-wa"
+    ],
+    "presence": "desk",
+    "limits": [
+     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. Never handle anyone's personal, bank or card details: they file it themselves."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "field:refunds_owed:ag-068352e07f5f9576#read:claim",
+   "title": "Help people claim what they're owed: A settlement that returns money to consumers",
+   "content_text": "Read the release and the claim site: who qualifies, what they need, and the deadline.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://www.atg.wa.gov/news/news-releases/puget-sound-physicians-refund-wa-patients-410k-settlement",
+   "date_published": "2026-11-02T21:42:31Z",
+   "date_modified": "2026-11-02T21:42:31Z",
+   "tags": [
+    "awareness",
+    "awareness.refunds"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-refunds_owed-ag-068352e07f5f9576",
+    "objective": "field:refunds_owed:ag-068352e07f5f9576#read:claim",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1795824000,
+    "jurisdiction": [
+     "us-wa"
+    ],
+    "presence": "desk",
+    "limits": [
+     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. Never handle anyone's personal, bank or card details: they file it themselves."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
    "id": "ic-icsa-86b4aa7c73#check:fix",
    "title": "Siemens Industrial Edge Devices",
    "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2026-44415 in Siemens Industrial Edge Devices, published since 2026-10-13.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
@@ -2808,96 +2928,6 @@
     ],
     "presence": "desk",
     "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "field:refunds_owed:ag-7b298eba5740b5de#read:claim",
-   "title": "Help people claim what they're owed: WA consumers get financial relief through auto lender settlement",
-   "content_text": "Read the release and the claim site: who qualifies, what they need, and the deadline.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://www.atg.wa.gov/news/news-releases/wa-consumers-get-financial-relief-through-auto-lender-settlement",
-   "date_published": "2026-10-27T05:56:59Z",
-   "date_modified": "2026-10-27T05:56:59Z",
-   "tags": [
-    "awareness",
-    "awareness.refunds"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-refunds_owed-ag-7b298eba5740b5de",
-    "objective": "field:refunds_owed:ag-7b298eba5740b5de#read:claim",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": 1794787200,
-    "jurisdiction": [
-     "us-wa"
-    ],
-    "presence": "desk",
-    "limits": [
-     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. Never handle anyone's personal, bank or card details: they file it themselves."
-    ],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "field:refunds_owed:ag-50582362a3e7b0e3#read:claim",
-   "title": "Help people claim what they're owed: WA consumers urged to claim compensation for inflated generic drug prices",
-   "content_text": "Read the release and the claim site: who qualifies, what they need, and the deadline.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://www.atg.wa.gov/news/news-releases/wa-consumers-urged-claim-compensation-inflated-generic-drug-prices",
-   "date_published": "2026-10-27T05:56:58Z",
-   "date_modified": "2026-10-27T05:56:58Z",
-   "tags": [
-    "awareness",
-    "awareness.refunds"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-refunds_owed-ag-50582362a3e7b0e3",
-    "objective": "field:refunds_owed:ag-50582362a3e7b0e3#read:claim",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": 1795219200,
-    "jurisdiction": [
-     "us-wa"
-    ],
-    "presence": "desk",
-    "limits": [
-     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. Never handle anyone's personal, bank or card details: they file it themselves."
-    ],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "field:refunds_owed:ag-068352e07f5f9576#read:claim",
-   "title": "Help people claim what they're owed: A settlement that returns money to consumers",
-   "content_text": "Read the release and the claim site: who qualifies, what they need, and the deadline.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://www.atg.wa.gov/news/news-releases/puget-sound-physicians-refund-wa-patients-410k-settlement",
-   "date_published": "2026-10-27T05:56:57Z",
-   "date_modified": "2026-10-27T05:56:57Z",
-   "tags": [
-    "awareness",
-    "awareness.refunds"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-refunds_owed-ag-068352e07f5f9576",
-    "objective": "field:refunds_owed:ag-068352e07f5f9576#read:claim",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": 1795824000,
-    "jurisdiction": [
-     "us-wa"
-    ],
-    "presence": "desk",
-    "limits": [
-     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. Never handle anyone's personal, bank or card details: they file it themselves."
-    ],
     "record": "wss://record.cosmiccodex.app"
    }
   },
