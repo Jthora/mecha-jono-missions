@@ -3,16 +3,16 @@
  "problems": [],
  "record": {
   "notes": {
-   "all": 3383,
+   "all": 3393,
    "mission_endings": 30,
    "thread_endings": 28,
    "withdrawn": 53,
-   "standing": 3272
+   "standing": 3282
   },
   "missions": {
-   "all": 138,
-   "open": 92,
-   "field": 49,
+   "all": 140,
+   "open": 94,
+   "field": 51,
    "closed": 46,
    "research": 89
   },
@@ -23,7 +23,7 @@
    "unsupported": 1,
    "retracted": 1
   },
-  "listings": 1258,
+  "listings": 1259,
   "videos": 53,
   "ours": {
    "no reason given": 1,
@@ -69,8 +69,8 @@
   }
  ],
  "questions": {
-  "asked": 127,
-  "open": 80,
+  "asked": 131,
+  "open": 84,
   "answered": 2,
   "withdrawn": 0,
   "unanswerable": 26,

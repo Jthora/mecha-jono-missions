@@ -11,6 +11,36 @@
  "language": "en",
  "items": [
   {
+   "id": "field:recall_check:2026-11-03#read:notice",
+   "title": "Get recalled food out of the kitchens most at risk: 7 Class I recalls",
+   "content_text": "Read the recall notices and note each product, its lot codes and what buyers should do.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+   "date_published": "2026-11-04T01:50:40Z",
+   "date_modified": "2026-11-04T01:50:40Z",
+   "tags": [
+    "awareness",
+    "awareness.recall"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-recall_check-2026-11-03",
+    "objective": "field:recall_check:2026-11-03#read:notice",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1793793600,
+    "jurisdiction": [
+     "us"
+    ],
+    "presence": "desk",
+    "limits": [
+     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. Never take a product from anyone: help them return or throw it out themselves."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
    "id": "ic-icsa-2591d5fb8f#check:fix",
    "title": "Siemens SIMATIC S7-1500 TM MFP",
    "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2024-56719 in Siemens SIMATIC S7-1500 TM MFP, published since 2026-10-13.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
