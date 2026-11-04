@@ -11,32 +11,27 @@
  "language": "en",
  "items": [
   {
-   "id": "field:recall_check:2026-11-03#read:notice",
-   "title": "Get recalled food out of the kitchens most at risk: 7 Class I recalls",
-   "content_text": "Read the recall notices and note each product, its lot codes and what buyers should do.\nAbout 15 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
-   "date_published": "2026-11-04T01:50:40Z",
-   "date_modified": "2026-11-04T01:50:40Z",
+   "id": "ic-icsa-f44ff64f16#check:fix",
+   "title": "Grid Protection Alliance openPDC and openHistorian",
+   "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2026-100730 in Grid Protection Alliance openPDC and openHistorian, published since 2026-10-08.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-04T12:29:22Z",
+   "date_modified": "2026-11-04T12:29:22Z",
    "tags": [
-    "awareness",
-    "awareness.recall"
+    "cyber",
+    "cyber.ics"
    ],
    "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-recall_check-2026-11-03",
-    "objective": "field:recall_check:2026-11-03#read:notice",
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-f44ff64f16",
+    "objective": "ic-icsa-f44ff64f16#check:fix",
     "takers": [
      "human",
      "agent"
     ],
     "claims": "many",
-    "valid_until": 1793793600,
-    "jurisdiction": [
-     "us"
-    ],
+    "valid_until": null,
+    "jurisdiction": [],
     "presence": "desk",
-    "limits": [
-     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. Never take a product from anyone: help them return or throw it out themselves."
-    ],
+    "limits": [],
     "record": "wss://record.cosmiccodex.app"
    }
   },
@@ -218,31 +213,6 @@
    "_mission": {
     "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-f1dbd6d141",
     "objective": "ic-icsa-f1dbd6d141#check:fix",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-icsa-f44ff64f16#check:fix",
-   "title": "Grid Protection Alliance openPDC and openHistorian",
-   "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2026-100730 in Grid Protection Alliance openPDC and openHistorian, published since 2026-10-08.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-11-02T12:10:30Z",
-   "date_modified": "2026-11-02T12:10:30Z",
-   "tags": [
-    "cyber",
-    "cyber.ics"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-f44ff64f16",
-    "objective": "ic-icsa-f44ff64f16#check:fix",
     "takers": [
      "human",
      "agent"
