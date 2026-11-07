@@ -11,6 +11,31 @@
  "language": "en",
  "items": [
   {
+   "id": "ic-icsa-2591d5fb8f#check:fix",
+   "title": "Siemens SIMATIC S7-1500 TM MFP",
+   "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2024-56719 in Siemens SIMATIC S7-1500 TM MFP, published since 2026-10-13.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-07T00:54:14Z",
+   "date_modified": "2026-11-07T00:54:14Z",
+   "tags": [
+    "cyber",
+    "cyber.ics"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-2591d5fb8f",
+    "objective": "ic-icsa-2591d5fb8f#check:fix",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
    "id": "ic-icsa-86b4aa7c73#check:fix",
    "title": "Siemens Industrial Edge Devices",
    "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2026-44415 in Siemens Industrial Edge Devices, published since 2026-10-13.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
@@ -1912,31 +1937,6 @@
    "_mission": {
     "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-f44ff64f16",
     "objective": "ic-icsa-f44ff64f16#check:fix",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-icsa-2591d5fb8f#check:fix",
-   "title": "Siemens SIMATIC S7-1500 TM MFP",
-   "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2024-56719 in Siemens SIMATIC S7-1500 TM MFP, published since 2026-10-13.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-11-03T00:14:18Z",
-   "date_modified": "2026-11-03T00:14:18Z",
-   "tags": [
-    "cyber",
-    "cyber.ics"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-2591d5fb8f",
-    "objective": "ic-icsa-2591d5fb8f#check:fix",
     "takers": [
      "human",
      "agent"

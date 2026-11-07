@@ -1,18 +1,18 @@
 {
- "as_of": "2026-11-06",
+ "as_of": "2026-11-07",
  "problems": [],
  "record": {
   "notes": {
-   "all": 3682,
+   "all": 3679,
    "mission_endings": 31,
    "thread_endings": 41,
    "withdrawn": 53,
-   "standing": 3557
+   "standing": 3554
   },
   "missions": {
-   "all": 146,
-   "open": 89,
-   "field": 57,
+   "all": 147,
+   "open": 90,
+   "field": 58,
    "research": 89,
    "closed": 57
   },
@@ -69,20 +69,20 @@
   }
  ],
  "questions": {
-  "asked": 141,
-  "open": 93,
+  "asked": 143,
+  "open": 94,
   "answered": 3,
   "withdrawn": 0,
   "unanswerable": 26,
   "expired": 0,
-  "narrowed": 11,
+  "narrowed": 12,
   "merged": 8,
   "first_due": "2026-11-07"
  },
  "key_watch": {
   "since": "2026-10-07",
   "found": 0,
-  "last_run": "2026-11-06"
+  "last_run": "2026-11-07"
  },
  "funding": {
   "_about": "Mecha Jono's funding record, shown on the results ledger (beu/results_ledger.py). ADDED 2026-10-09. lightning_address: the operator's Coinos address, once he has one; it stays off Mecha Jono's Nostr profile until the key switch (K4-N). funders: every organisation that funds us, and any money with conditions, as {name, since, conditions}. Individual tips without conditions are never listed by name.",
