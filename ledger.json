@@ -4,8 +4,8 @@
  "record": {
   "notes": {
    "all": 3730,
-   "thread_endings": 43,
    "withdrawn": 54,
+   "thread_endings": 43,
    "mission_endings": 31,
    "standing": 3602
   },
@@ -23,7 +23,7 @@
    "unsupported": 1,
    "retracted": 1
   },
-  "listings": 1712,
+  "listings": 1800,
   "videos": 61,
   "ours": {
    "no reason given": 1,
