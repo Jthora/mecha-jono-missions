@@ -3,17 +3,17 @@
  "problems": [],
  "record": {
   "notes": {
-   "all": 3751,
-   "thread_endings": 44,
+   "all": 3756,
+   "thread_endings": 43,
    "withdrawn": 54,
    "mission_endings": 31,
-   "standing": 3622
+   "standing": 3628
   },
   "missions": {
    "all": 148,
    "open": 91,
-   "field": 59,
    "research": 89,
+   "field": 59,
    "closed": 57
   },
   "threads": {
@@ -23,7 +23,7 @@
    "unsupported": 1,
    "retracted": 1
   },
-  "listings": 1703,
+  "listings": 1674,
   "videos": 61,
   "ours": {
    "no reason given": 1,
@@ -77,7 +77,7 @@
   "expired": 0,
   "narrowed": 12,
   "merged": 8,
-  "first_due": "2026-11-08"
+  "first_due": "2026-11-09"
  },
  "key_watch": {
   "since": "2026-10-07",
