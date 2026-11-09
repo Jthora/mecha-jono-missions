@@ -11,6 +11,61 @@
  "language": "en",
  "items": [
   {
+   "id": "ic-icsa-81e2903879#check:fix",
+   "title": "Viidure Dashcam Android Application",
+   "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2026-96587 in Viidure Dashcam Android Application, published since 2026-09-29.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-09T01:15:57Z",
+   "date_modified": "2026-11-09T01:15:57Z",
+   "tags": [
+    "cyber",
+    "cyber.ics"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-81e2903879",
+    "objective": "ic-icsa-81e2903879#check:fix",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "field:cold_relief:AK:2026-11-09#find:centres",
+   "title": "Cold-night outreach: Alaska (1 forecast area)",
+   "content_text": "Find the warming centres and emergency shelter beds open for Haines Borough and Klukwan (a county 'code blue' page, 211), and write them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://www.weather.gov/alerts?area=AK",
+   "date_published": "2026-11-08T22:38:13Z",
+   "date_modified": "2026-11-08T22:38:13Z",
+   "tags": [
+    "outreach",
+    "outreach.cold"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-cold_relief-AK-2026-11-09",
+    "objective": "field:cold_relief:AK:2026-11-09#find:centres",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1794279600,
+    "jurisdiction": [
+     "us-ak"
+    ],
+    "presence": "desk",
+    "limits": [
+     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. If someone is unresponsive in the cold, call 911 first."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
    "id": "ic-icsa-f44ff64f16#check:fix",
    "title": "Grid Protection Alliance openPDC and openHistorian",
    "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2026-100730 in Grid Protection Alliance openPDC and openHistorian, published since 2026-10-08.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
@@ -297,59 +352,6 @@
     "jurisdiction": [],
     "presence": "desk",
     "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-icsa-81e2903879#check:fix",
-   "title": "Viidure Dashcam Android Application",
-   "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2026-96587 in Viidure Dashcam Android Application, published since 2026-09-29.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-11-06T00:44:16Z",
-   "date_modified": "2026-11-06T00:44:16Z",
-   "tags": [
-    "cyber",
-    "cyber.ics"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-81e2903879",
-    "objective": "ic-icsa-81e2903879#check:fix",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "field:sanctioned_online:2026-W45#check:entry",
-   "title": "Tell US networks they serve sanctioned crime and terror networks' sites (8 sites, 7 providers)",
-   "content_text": "Open the OFAC entries for one provider and note the websites each lists.\nAbout 10 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://sanctionssearch.ofac.treas.gov/",
-   "date_published": "2026-11-06T00:04:59Z",
-   "date_modified": "2026-11-06T00:04:59Z",
-   "tags": [
-    "crime",
-    "crime.sanctioned_online"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-sanctioned_online-2026-W45",
-    "objective": "field:sanctioned_online:2026-W45#check:entry",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": 1794182400,
-    "jurisdiction": [],
-    "presence": "desk",
-    "limits": [
-     "Never open a listed website, never contact the organisation or anyone in it, and never post the sites or names elsewhere. Report only through the provider's or registrar's abuse channel, with OFAC's own entry: the listing is OFAC's, and a site may have changed hands since, which the provider can check."
-    ],
     "record": "wss://record.cosmiccodex.app"
    }
   },
@@ -1890,62 +1892,6 @@
     ],
     "presence": "desk",
     "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "field:malware_takedown:2026-W45#check:records",
-   "title": "Get long-lived malware taken down (4879 files, 8 providers)",
-   "content_text": "Open the URLhaus records for one provider and confirm they still show online.\nAbout 10 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://urlhaus.abuse.ch/browse/",
-   "date_published": "2026-11-05T01:44:14Z",
-   "date_modified": "2026-11-05T01:44:14Z",
-   "tags": [
-    "cyber",
-    "cyber.malware_takedown"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-malware_takedown-2026-W45",
-    "objective": "field:malware_takedown:2026-W45#check:records",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": 1794182400,
-    "jurisdiction": [],
-    "presence": "desk",
-    "limits": [
-     "Never open, download or run a malware file, and never probe or scan a server. Report only through the provider's abuse channel. A compromised site's owner is a victim: never name or contact them publicly."
-    ],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "field:phishing_takedown:2026-W45#check:records",
-   "title": "Get phishing pages taken down (219 pages, 8 networks)",
-   "content_text": "Open PhishTank's records for one network and confirm each still says it is online.\nAbout 10 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://phishtank.org/",
-   "date_published": "2026-11-05T01:11:31Z",
-   "date_modified": "2026-11-05T01:11:31Z",
-   "tags": [
-    "cyber",
-    "cyber.phishing"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-phishing_takedown-2026-W45",
-    "objective": "field:phishing_takedown:2026-W45#check:records",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": 1794182400,
-    "jurisdiction": [],
-    "presence": "desk",
-    "limits": [
-     "Never open a phishing page, and never type anything into one. Never probe or scan a server. Report only through the network's or registrar's abuse channel. A hacked site's owner is a victim: never name or contact them publicly."
-    ],
     "record": "wss://record.cosmiccodex.app"
    }
   },
