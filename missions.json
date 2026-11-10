@@ -12,11 +12,11 @@
  "items": [
   {
    "id": "field:cold_relief:AK:2026-11-09#find:centres",
-   "title": "Cold-night outreach: Alaska (3 forecast areas)",
-   "content_text": "Find the warming centres and emergency shelter beds open for Central Beaufort Sea Coast, Eastern Beaufort Sea Coast and Thompson Pass (a county 'code blue' page, 211), and write them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "title": "Cold-night outreach: Alaska (2 forecast areas)",
+   "content_text": "Find the warming centres and emergency shelter beds open for Central Beaufort Sea Coast and Eastern Beaufort Sea Coast (a county 'code blue' page, 211), and write them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
    "external_url": "https://www.weather.gov/alerts?area=AK",
-   "date_published": "2026-11-10T04:45:37Z",
-   "date_modified": "2026-11-10T04:45:37Z",
+   "date_published": "2026-11-10T16:46:00Z",
+   "date_modified": "2026-11-10T16:46:00Z",
    "tags": [
     "outreach",
     "outreach.cold"
