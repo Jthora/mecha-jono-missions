@@ -11,12 +11,65 @@
  "language": "en",
  "items": [
   {
+   "id": "ic-icsa-2591d5fb8f#check:fix",
+   "title": "Siemens SIMATIC S7-1500 TM MFP",
+   "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2024-56719 in Siemens SIMATIC S7-1500 TM MFP, published since 2026-10-13.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-10T01:26:29Z",
+   "date_modified": "2026-11-10T01:26:29Z",
+   "tags": [
+    "cyber",
+    "cyber.ics"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-2591d5fb8f",
+    "objective": "ic-icsa-2591d5fb8f#check:fix",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "field:sanctioned_online:2026-W46#check:entry",
+   "title": "Tell US networks they serve sanctioned crime and terror networks' sites (12 sites, 6 providers)",
+   "content_text": "Open the OFAC entries for one provider and note the websites each lists.\nAbout 10 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://sanctionssearch.ofac.treas.gov/",
+   "date_published": "2026-11-10T00:18:32Z",
+   "date_modified": "2026-11-10T00:18:32Z",
+   "tags": [
+    "crime",
+    "crime.sanctioned_online"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-sanctioned_online-2026-W46",
+    "objective": "field:sanctioned_online:2026-W46#check:entry",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1794787200,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [
+     "Never open a listed website, never contact the organisation or anyone in it, and never post the sites or names elsewhere. Report only through the provider's or registrar's abuse channel, with OFAC's own entry: the listing is OFAC's, and a site may have changed hands since, which the provider can check."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
    "id": "field:cold_relief:AK:2026-11-09#find:centres",
-   "title": "Cold-night outreach: Alaska (2 forecast areas)",
-   "content_text": "Find the warming centres and emergency shelter beds open for Haines Borough and Klukwan and Thompson Pass (a county 'code blue' page, 211), and write them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "title": "Cold-night outreach: Alaska (4 forecast areas)",
+   "content_text": "Find the warming centres and emergency shelter beds open for Central Beaufort Sea Coast, Eastern Beaufort Sea Coast, Haines Borough and Klukwan and Thompson Pass (a county 'code blue' page, 211), and write them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
    "external_url": "https://www.weather.gov/alerts?area=AK",
-   "date_published": "2026-11-09T19:52:13Z",
-   "date_modified": "2026-11-09T19:52:13Z",
+   "date_published": "2026-11-09T22:35:27Z",
+   "date_modified": "2026-11-09T22:35:27Z",
    "tags": [
     "outreach",
     "outreach.cold"
@@ -29,7 +82,7 @@
      "agent"
     ],
     "claims": "many",
-    "valid_until": 1794344400,
+    "valid_until": 1794409200,
     "jurisdiction": [
      "us-ak"
     ],
@@ -934,31 +987,6 @@
    "_mission": {
     "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-be97ff6530",
     "objective": "ic-icsa-be97ff6530#check:fix",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-icsa-2591d5fb8f#check:fix",
-   "title": "Siemens SIMATIC S7-1500 TM MFP",
-   "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2024-56719 in Siemens SIMATIC S7-1500 TM MFP, published since 2026-10-13.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-11-07T00:54:14Z",
-   "date_modified": "2026-11-07T00:54:14Z",
-   "tags": [
-    "cyber",
-    "cyber.ics"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-2591d5fb8f",
-    "objective": "ic-icsa-2591d5fb8f#check:fix",
     "takers": [
      "human",
      "agent"
