@@ -3,11 +3,11 @@
  "problems": [],
  "record": {
   "notes": {
-   "all": 4084,
+   "all": 4095,
+   "thread_endings": 42,
    "mission_endings": 40,
-   "thread_endings": 41,
    "withdrawn": 53,
-   "standing": 3950
+   "standing": 3960
   },
   "missions": {
    "all": 153,
@@ -23,8 +23,8 @@
    "unsupported": 1,
    "retracted": 1
   },
-  "listings": 1471,
-  "videos": 70,
+  "listings": 1521,
+  "videos": 71,
   "ours": {
    "no reason given": 1,
    "Mixmag's terms allow linking to its site only with its prior written consent": 1,
