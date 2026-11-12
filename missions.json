@@ -11,6 +11,61 @@
  "language": "en",
  "items": [
   {
+   "id": "field:heat_relief:PR:2026-11-12#find:centres",
+   "title": "Heat relief: Puerto Rico (15 forecast areas)",
+   "content_text": "Find the open cooling centres and their hours for Central Interior, Culebra, Eastern Interior, Mayaguez and Vicinity and 11 more on the county or city site, and write them on a card you can hand out.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://www.weather.gov/alerts?area=PR",
+   "date_published": "2026-11-12T08:06:04Z",
+   "date_modified": "2026-11-12T08:06:04Z",
+   "tags": [
+    "outreach",
+    "outreach.heat"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-heat_relief-PR-2026-11-12",
+    "objective": "field:heat_relief:PR:2026-11-12#find:centres",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1794517200,
+    "jurisdiction": [
+     "us-pr"
+    ],
+    "presence": "desk",
+    "limits": [
+     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. Heat hurts helpers too: carry your own water, rest in shade, stop if you feel dizzy."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-icsa-be97ff6530#check:fix",
+   "title": "Anjvision YSSD-RTMP-H5",
+   "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2026-100291 in Anjvision YSSD-RTMP-H5, published since 2026-09-29.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-12T07:48:48Z",
+   "date_modified": "2026-11-12T07:48:48Z",
+   "tags": [
+    "cyber",
+    "cyber.ics"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-be97ff6530",
+    "objective": "ic-icsa-be97ff6530#check:fix",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
    "id": "field:smoke_relief:ID:2026-11-11#find:spaces",
    "title": "Smoke and bad air: Idaho (2 forecast areas)",
    "content_text": "Find the clean-air or cooling spaces open for Bonner, ID and Shoshone, ID (libraries, county centres) and note them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
@@ -1974,31 +2029,6 @@
    "_mission": {
     "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-81e2903879",
     "objective": "ic-icsa-81e2903879#check:fix",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-icsa-be97ff6530#check:fix",
-   "title": "Anjvision YSSD-RTMP-H5",
-   "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2026-100291 in Anjvision YSSD-RTMP-H5, published since 2026-09-29.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-11-08T07:06:33Z",
-   "date_modified": "2026-11-08T07:06:33Z",
-   "tags": [
-    "cyber",
-    "cyber.ics"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-be97ff6530",
-    "objective": "ic-icsa-be97ff6530#check:fix",
     "takers": [
      "human",
      "agent"
