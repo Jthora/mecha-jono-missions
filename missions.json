@@ -11,6 +11,31 @@
  "language": "en",
  "items": [
   {
+   "id": "ic-icsa-86b4aa7c73#check:fix",
+   "title": "Siemens Industrial Edge Devices",
+   "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2026-44415 in Siemens Industrial Edge Devices, published since 2026-10-13.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-13T20:04:59Z",
+   "date_modified": "2026-11-13T20:04:59Z",
+   "tags": [
+    "cyber",
+    "cyber.ics"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-86b4aa7c73",
+    "objective": "ic-icsa-86b4aa7c73#check:fix",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
    "id": "ic-icsa-f1dbd6d141#check:fix",
    "title": "Siemens SIMATIC S7 PLCs Web Server",
    "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2026-63350 in Siemens SIMATIC S7 PLCs Web Server, published since 2026-10-13.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
@@ -197,36 +222,6 @@
     "jurisdiction": [],
     "presence": "desk",
     "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "field:smoke_relief:ID:2026-11-11#find:spaces",
-   "title": "Smoke and bad air: Idaho (2 forecast areas)",
-   "content_text": "Find the clean-air or cooling spaces open for Bonner, ID and Shoshone, ID (libraries, county centres) and note them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://www.weather.gov/alerts?area=ID",
-   "date_published": "2026-11-12T02:30:58Z",
-   "date_modified": "2026-11-12T02:30:58Z",
-   "tags": [
-    "outreach",
-    "outreach.smoke"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-smoke_relief-ID-2026-11-11",
-    "objective": "field:smoke_relief:ID:2026-11-11#find:spaces",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": 1794596400,
-    "jurisdiction": [
-     "us-id"
-    ],
-    "presence": "desk",
-    "limits": [
-     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first."
-    ],
     "record": "wss://record.cosmiccodex.app"
    }
   },
@@ -1479,31 +1474,6 @@
      "us",
      "us-va"
     ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-icsa-86b4aa7c73#check:fix",
-   "title": "Siemens Industrial Edge Devices",
-   "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2026-44415 in Siemens Industrial Edge Devices, published since 2026-10-13.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-11-09T19:24:00Z",
-   "date_modified": "2026-11-09T19:24:00Z",
-   "tags": [
-    "cyber",
-    "cyber.ics"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-86b4aa7c73",
-    "objective": "ic-icsa-86b4aa7c73#check:fix",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [],
     "presence": "desk",
     "limits": [],
     "record": "wss://record.cosmiccodex.app"
