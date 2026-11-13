@@ -11,6 +11,121 @@
  "language": "en",
  "items": [
   {
+   "id": "ic-icsa-81e2903879#check:fix",
+   "title": "Viidure Dashcam Android Application",
+   "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2026-96587 in Viidure Dashcam Android Application, published since 2026-09-29.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-13T01:57:31Z",
+   "date_modified": "2026-11-13T01:57:31Z",
+   "tags": [
+    "cyber",
+    "cyber.ics"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-81e2903879",
+    "objective": "ic-icsa-81e2903879#check:fix",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "field:cold_relief:CA:2026-11-13#find:centres",
+   "title": "Cold-night outreach: California (14 forecast areas)",
+   "content_text": "Find the warming centres and emergency shelter beds open for Eastern Sierra Slopes of Inyo County, Grant Grove Area, Greater Lake Tahoe Area, Kaiser to Rodgers Ridge and 10 more (a county 'code blue' page, 211), and write them…\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://www.weather.gov/alerts?area=CA",
+   "date_published": "2026-11-13T00:54:05Z",
+   "date_modified": "2026-11-13T00:54:05Z",
+   "tags": [
+    "outreach",
+    "outreach.cold"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-cold_relief-CA-2026-11-13",
+    "objective": "field:cold_relief:CA:2026-11-13#find:centres",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1794916800,
+    "jurisdiction": [
+     "us-ca"
+    ],
+    "presence": "desk",
+    "limits": [
+     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. If someone is unresponsive in the cold, call 911 first."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "field:cold_relief:NV:2026-11-13#find:centres",
+   "title": "Cold-night outreach: Nevada (1 forecast area)",
+   "content_text": "Find the warming centres and emergency shelter beds open for Greater Lake Tahoe Area (a county 'code blue' page, 211), and write them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://www.weather.gov/alerts?area=NV",
+   "date_published": "2026-11-13T00:20:27Z",
+   "date_modified": "2026-11-13T00:20:27Z",
+   "tags": [
+    "outreach",
+    "outreach.cold"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-cold_relief-NV-2026-11-13",
+    "objective": "field:cold_relief:NV:2026-11-13#find:centres",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1794679200,
+    "jurisdiction": [
+     "us-nv"
+    ],
+    "presence": "desk",
+    "limits": [
+     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. If someone is unresponsive in the cold, call 911 first."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "field:cold_relief:AK:2026-11-11#find:centres",
+   "title": "Cold-night outreach: Alaska (3 forecast areas)",
+   "content_text": "Find the warming centres and emergency shelter beds open for Central Beaufort Sea Coast, Eastern Beaufort Sea Coast and Northern Arctic Coast (a county 'code blue' page, 211), and write them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://www.weather.gov/alerts?area=AK",
+   "date_published": "2026-11-12T23:15:07Z",
+   "date_modified": "2026-11-12T23:15:07Z",
+   "tags": [
+    "outreach",
+    "outreach.cold"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-cold_relief-AK-2026-11-11",
+    "objective": "field:cold_relief:AK:2026-11-11#find:centres",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1794758400,
+    "jurisdiction": [
+     "us-ak"
+    ],
+    "presence": "desk",
+    "limits": [
+     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. If someone is unresponsive in the cold, call 911 first."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
    "id": "ic-icsa-be97ff6530#check:fix",
    "title": "Anjvision YSSD-RTMP-H5",
    "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2026-100291 in Anjvision YSSD-RTMP-H5, published since 2026-09-29.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
@@ -61,36 +176,6 @@
     "presence": "desk",
     "limits": [
      "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first."
-    ],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "field:cold_relief:AK:2026-11-11#find:centres",
-   "title": "Cold-night outreach: Alaska (3 forecast areas)",
-   "content_text": "Find the warming centres and emergency shelter beds open for Central Beaufort Sea Coast, Eastern Beaufort Sea Coast and Northern Arctic Coast (a county 'code blue' page, 211), and write them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://www.weather.gov/alerts?area=AK",
-   "date_published": "2026-11-12T01:57:17Z",
-   "date_modified": "2026-11-12T01:57:17Z",
-   "tags": [
-    "outreach",
-    "outreach.cold"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-cold_relief-AK-2026-11-11",
-    "objective": "field:cold_relief:AK:2026-11-11#find:centres",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": 1794618000,
-    "jurisdiction": [
-     "us-ak"
-    ],
-    "presence": "desk",
-    "limits": [
-     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. If someone is unresponsive in the cold, call 911 first."
     ],
     "record": "wss://record.cosmiccodex.app"
    }
@@ -1983,31 +2068,6 @@
     "limits": [
      "Never open a phishing page, and never type anything into one. Never probe or scan a server. Report only through the network's or registrar's abuse channel. A hacked site's owner is a victim: never name or contact them publicly."
     ],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-icsa-81e2903879#check:fix",
-   "title": "Viidure Dashcam Android Application",
-   "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2026-96587 in Viidure Dashcam Android Application, published since 2026-09-29.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-11-09T01:15:57Z",
-   "date_modified": "2026-11-09T01:15:57Z",
-   "tags": [
-    "cyber",
-    "cyber.ics"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-81e2903879",
-    "objective": "ic-icsa-81e2903879#check:fix",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [],
-    "presence": "desk",
-    "limits": [],
     "record": "wss://record.cosmiccodex.app"
    }
   },
