@@ -11,6 +11,61 @@
  "language": "en",
  "items": [
   {
+   "id": "field:cold_relief:CA:2026-11-13#find:centres",
+   "title": "Cold-night outreach: California (7 forecast areas)",
+   "content_text": "Find the warming centres and emergency shelter beds open for Grant Grove Area, Kaiser to Rodgers Ridge, Kings Canyon NP, San Joaquin River Canyon and 3 more (a county 'code blue' page, 211), and write them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://www.weather.gov/alerts?area=CA",
+   "date_published": "2026-11-14T14:48:27Z",
+   "date_modified": "2026-11-14T14:48:27Z",
+   "tags": [
+    "outreach",
+    "outreach.cold"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-cold_relief-CA-2026-11-13",
+    "objective": "field:cold_relief:CA:2026-11-13#find:centres",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1794916800,
+    "jurisdiction": [
+     "us-ca"
+    ],
+    "presence": "desk",
+    "limits": [
+     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. If someone is unresponsive in the cold, call 911 first."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-icsa-f44ff64f16#check:fix",
+   "title": "Grid Protection Alliance openPDC and openHistorian",
+   "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2026-100730 in Grid Protection Alliance openPDC and openHistorian, published since 2026-10-08.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-14T14:16:45Z",
+   "date_modified": "2026-11-14T14:16:45Z",
+   "tags": [
+    "cyber",
+    "cyber.ics"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-f44ff64f16",
+    "objective": "ic-icsa-f44ff64f16#check:fix",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
    "id": "field:heat_relief:VI:2026-11-14#find:centres",
    "title": "Heat relief: United States Virgin Islands (15 forecast areas)",
    "content_text": "Find the open cooling centres and their hours for Central Interior, Culebra, Eastern Interior, Mayaguez and Vicinity and 11 more on the county or city site, and write them on a card you can hand out.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
@@ -192,36 +247,6 @@
     "jurisdiction": [],
     "presence": "desk",
     "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "field:cold_relief:CA:2026-11-13#find:centres",
-   "title": "Cold-night outreach: California (14 forecast areas)",
-   "content_text": "Find the warming centres and emergency shelter beds open for Eastern Sierra Slopes of Inyo County, Grant Grove Area, Greater Lake Tahoe Area, Kaiser to Rodgers Ridge and 10 more (a county 'code blue' page, 211), and write them…\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://www.weather.gov/alerts?area=CA",
-   "date_published": "2026-11-13T00:54:05Z",
-   "date_modified": "2026-11-13T00:54:05Z",
-   "tags": [
-    "outreach",
-    "outreach.cold"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-cold_relief-CA-2026-11-13",
-    "objective": "field:cold_relief:CA:2026-11-13#find:centres",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": 1794916800,
-    "jurisdiction": [
-     "us-ca"
-    ],
-    "presence": "desk",
-    "limits": [
-     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. If someone is unresponsive in the cold, call 911 first."
-    ],
     "record": "wss://record.cosmiccodex.app"
    }
   },
@@ -1061,31 +1086,6 @@
      "us",
      "us-de"
     ],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-icsa-f44ff64f16#check:fix",
-   "title": "Grid Protection Alliance openPDC and openHistorian",
-   "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2026-100730 in Grid Protection Alliance openPDC and openHistorian, published since 2026-10-08.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-11-11T13:42:01Z",
-   "date_modified": "2026-11-11T13:42:01Z",
-   "tags": [
-    "cyber",
-    "cyber.ics"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-f44ff64f16",
-    "objective": "ic-icsa-f44ff64f16#check:fix",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [],
     "presence": "desk",
     "limits": [],
     "record": "wss://record.cosmiccodex.app"
