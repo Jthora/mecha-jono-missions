@@ -23,7 +23,7 @@
    "unsupported": 1,
    "retracted": 1
   },
-  "listings": 1696,
+  "listings": 1840,
   "videos": 73,
   "ours": {
    "no reason given": 1,
@@ -69,15 +69,15 @@
   }
  ],
  "questions": {
-  "asked": 166,
+  "asked": 167,
   "open": 107,
   "answered": 3,
   "withdrawn": 0,
   "unanswerable": 26,
-  "expired": 8,
+  "expired": 9,
   "narrowed": 14,
   "merged": 8,
-  "first_due": "2026-11-14"
+  "first_due": "2026-11-15"
  },
  "key_watch": {
   "since": "2026-10-07",
