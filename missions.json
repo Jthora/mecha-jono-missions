@@ -11,6 +11,31 @@
  "language": "en",
  "items": [
   {
+   "id": "ic-icsa-be97ff6530#check:fix",
+   "title": "Anjvision YSSD-RTMP-H5",
+   "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2026-100291 in Anjvision YSSD-RTMP-H5, published since 2026-09-29.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-15T08:22:34Z",
+   "date_modified": "2026-11-15T08:22:34Z",
+   "tags": [
+    "cyber",
+    "cyber.ics"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-be97ff6530",
+    "objective": "ic-icsa-be97ff6530#check:fix",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
    "id": "field:cold_relief:AK:2026-11-11#find:centres",
    "title": "Cold-night outreach: Alaska (3 forecast areas)",
    "content_text": "Find the warming centres and emergency shelter beds open for Central Beaufort Sea Coast, Eastern Beaufort Sea Coast and Northern Arctic Coast (a county 'code blue' page, 211), and write them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
@@ -208,31 +233,6 @@
    "_mission": {
     "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-81e2903879",
     "objective": "ic-icsa-81e2903879#check:fix",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [],
-    "presence": "desk",
-    "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-icsa-be97ff6530#check:fix",
-   "title": "Anjvision YSSD-RTMP-H5",
-   "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2026-100291 in Anjvision YSSD-RTMP-H5, published since 2026-09-29.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-11-12T07:48:48Z",
-   "date_modified": "2026-11-12T07:48:48Z",
-   "tags": [
-    "cyber",
-    "cyber.ics"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-be97ff6530",
-    "objective": "ic-icsa-be97ff6530#check:fix",
     "takers": [
      "human",
      "agent"
