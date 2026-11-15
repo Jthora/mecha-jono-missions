@@ -3,18 +3,18 @@
  "problems": [],
  "record": {
   "notes": {
-   "all": 4172,
-   "withdrawn": 54,
-   "mission_endings": 47,
-   "thread_endings": 42,
-   "standing": 4029
+   "all": 4183,
+   "mission_endings": 48,
+   "thread_endings": 41,
+   "withdrawn": 53,
+   "standing": 4041
   },
   "missions": {
-   "all": 155,
-   "open": 96,
-   "field": 66,
-   "research": 89,
-   "closed": 59
+   "all": 153,
+   "closed": 58,
+   "field": 64,
+   "open": 95,
+   "research": 89
   },
   "threads": {
    "all": 96,
@@ -23,7 +23,7 @@
    "unsupported": 1,
    "retracted": 1
   },
-  "listings": 1642,
+  "listings": 1599,
   "videos": 76,
   "ours": {
    "no reason given": 1,
@@ -33,7 +33,7 @@
    "a case thread, retracted: we published it and withdrew it -- it should not have gone out": 1
   },
   "ended": {
-   "heat alerts, withdrawn when the forecast eased": 33
+   "heat alerts, withdrawn when the forecast eased": 32
   }
  },
  "handed_back": [
