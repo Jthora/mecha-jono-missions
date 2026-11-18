@@ -11,6 +11,91 @@
  "language": "en",
  "items": [
   {
+   "id": "field:smoke_relief:PA:2026-11-16#find:spaces",
+   "title": "Smoke and bad air: Pennsylvania (1 forecast area)",
+   "content_text": "Find the clean-air or cooling spaces open for Allegheny (libraries, county centres) and note them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://www.weather.gov/alerts?area=PA",
+   "date_published": "2026-11-18T15:16:48Z",
+   "date_modified": "2026-11-18T15:16:48Z",
+   "tags": [
+    "outreach",
+    "outreach.smoke"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-smoke_relief-PA-2026-11-16",
+    "objective": "field:smoke_relief:PA:2026-11-16#find:spaces",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1795046400,
+    "jurisdiction": [
+     "us-pa"
+    ],
+    "presence": "desk",
+    "limits": [
+     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-icsa-6f42430dc4#check:fix",
+   "title": "Siemens Industrial Software Products",
+   "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2026-111497 in Siemens Industrial Software Products, published since 2026-11-10.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-18T14:58:16Z",
+   "date_modified": "2026-11-18T14:58:16Z",
+   "tags": [
+    "cyber",
+    "cyber.ics"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-6f42430dc4",
+    "objective": "ic-icsa-6f42430dc4#check:fix",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "field:cold_relief:AK:2026-11-17#find:centres",
+   "title": "Cold-night outreach: Alaska (4 forecast areas)",
+   "content_text": "Find the warming centres and emergency shelter beds open for Lower Yukon River, Southern Seward Peninsula Coast, St Lawrence Island and Yukon Delta Coast (a county 'code blue' page, 211), and write them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://www.weather.gov/alerts?area=AK",
+   "date_published": "2026-11-18T12:26:56Z",
+   "date_modified": "2026-11-18T12:26:56Z",
+   "tags": [
+    "outreach",
+    "outreach.cold"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-cold_relief-AK-2026-11-17",
+    "objective": "field:cold_relief:AK:2026-11-17#find:centres",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1795219200,
+    "jurisdiction": [
+     "us-ak"
+    ],
+    "presence": "desk",
+    "limits": [
+     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. If someone is unresponsive in the cold, call 911 first."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
    "id": "ic-jurisdiction-7086bc82ae#status:st-michaels-outreach",
    "title": "Highland, CA",
    "content_text": "Find whether St Michaels Outreach (ZIP 92346) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
@@ -181,66 +266,6 @@
    }
   },
   {
-   "id": "field:smoke_relief:IN:2026-11-17#find:spaces",
-   "title": "Smoke and bad air: Indiana (1 forecast area)",
-   "content_text": "Find the clean-air or cooling spaces open for Elkhart (libraries, county centres) and note them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://www.weather.gov/alerts?area=IN",
-   "date_published": "2026-11-18T00:24:28Z",
-   "date_modified": "2026-11-18T00:24:28Z",
-   "tags": [
-    "outreach",
-    "outreach.smoke"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-smoke_relief-IN-2026-11-17",
-    "objective": "field:smoke_relief:IN:2026-11-17#find:spaces",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": 1795014000,
-    "jurisdiction": [
-     "us-in"
-    ],
-    "presence": "desk",
-    "limits": [
-     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first."
-    ],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "field:smoke_relief:PA:2026-11-16#find:spaces",
-   "title": "Smoke and bad air: Pennsylvania (1 forecast area)",
-   "content_text": "Find the clean-air or cooling spaces open for Allegheny (libraries, county centres) and note them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://www.weather.gov/alerts?area=PA",
-   "date_published": "2026-11-18T00:22:31Z",
-   "date_modified": "2026-11-18T00:22:31Z",
-   "tags": [
-    "outreach",
-    "outreach.smoke"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-smoke_relief-PA-2026-11-16",
-    "objective": "field:smoke_relief:PA:2026-11-16#find:spaces",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": 1795035600,
-    "jurisdiction": [
-     "us-pa"
-    ],
-    "presence": "desk",
-    "limits": [
-     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first."
-    ],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
    "id": "field:cold_relief:CA:2026-11-13#find:centres",
    "title": "Cold-night outreach: California (29 forecast areas)",
    "content_text": "Find the warming centres and emergency shelter beds open for Eastern Shasta County Mountains and Southern Cascades Above 3000 ft, Eastern Sierra Slopes of Inyo County, Glenn and Colusa County Coast Range Above 3000 ft, Grant…\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
@@ -317,36 +342,6 @@
     "jurisdiction": [],
     "presence": "desk",
     "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "field:cold_relief:AK:2026-11-17#find:centres",
-   "title": "Cold-night outreach: Alaska (5 forecast areas)",
-   "content_text": "Find the warming centres and emergency shelter beds open for Kuskokwim Delta Coast and Nunivak Island, Lower Yukon River, Southern Seward Peninsula Coast, St Lawrence Island and 1 more (a county 'code blue' page, 211), and write…\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://www.weather.gov/alerts?area=AK",
-   "date_published": "2026-11-17T02:08:45Z",
-   "date_modified": "2026-11-17T02:08:45Z",
-   "tags": [
-    "outreach",
-    "outreach.cold"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-cold_relief-AK-2026-11-17",
-    "objective": "field:cold_relief:AK:2026-11-17#find:centres",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": 1795219200,
-    "jurisdiction": [
-     "us-ak"
-    ],
-    "presence": "desk",
-    "limits": [
-     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. If someone is unresponsive in the cold, call 911 first."
-    ],
     "record": "wss://record.cosmiccodex.app"
    }
   },
