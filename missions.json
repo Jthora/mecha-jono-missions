@@ -11,6 +11,36 @@
  "language": "en",
  "items": [
   {
+   "id": "field:cold_relief:NV:2026-11-18#find:centres",
+   "title": "Cold-night outreach: Nevada (2 forecast areas)",
+   "content_text": "Find the warming centres and emergency shelter beds open for Greater Lake Tahoe Area and Ruby Mountains and East Humboldt Range (a county 'code blue' page, 211), and write them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://www.weather.gov/alerts?area=NV",
+   "date_published": "2026-11-18T21:30:01Z",
+   "date_modified": "2026-11-18T21:30:01Z",
+   "tags": [
+    "outreach",
+    "outreach.cold"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-cold_relief-NV-2026-11-18",
+    "objective": "field:cold_relief:NV:2026-11-18#find:centres",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1795219200,
+    "jurisdiction": [
+     "us-nv"
+    ],
+    "presence": "desk",
+    "limits": [
+     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. If someone is unresponsive in the cold, call 911 first."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
    "id": "field:smoke_relief:PA:2026-11-16#find:spaces",
    "title": "Smoke and bad air: Pennsylvania (1 forecast area)",
    "content_text": "Find the clean-air or cooling spaces open for Allegheny (libraries, county centres) and note them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
@@ -208,36 +238,6 @@
    }
   },
   {
-   "id": "field:smoke_relief:AK:2026-11-17#find:spaces",
-   "title": "Smoke and bad air: Alaska (1 forecast area)",
-   "content_text": "Find the clean-air or cooling spaces open for Fairbanks Metro Area (libraries, county centres) and note them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://www.weather.gov/alerts?area=AK",
-   "date_published": "2026-11-18T01:35:22Z",
-   "date_modified": "2026-11-18T01:35:22Z",
-   "tags": [
-    "outreach",
-    "outreach.smoke"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-smoke_relief-AK-2026-11-17",
-    "objective": "field:smoke_relief:AK:2026-11-17#find:spaces",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": 1795045500,
-    "jurisdiction": [
-     "us-ak"
-    ],
-    "presence": "desk",
-    "limits": [
-     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first."
-    ],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
    "id": "field:sanctioned_online:2026-W47#check:entry",
    "title": "Tell US networks they serve sanctioned crime and terror networks' sites (11 sites, 8 providers)",
    "content_text": "Open the OFAC entries for one provider and note the websites each lists.\nAbout 10 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
@@ -342,36 +342,6 @@
     "jurisdiction": [],
     "presence": "desk",
     "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "field:cold_relief:NV:2026-11-18#find:centres",
-   "title": "Cold-night outreach: Nevada (1 forecast area)",
-   "content_text": "Find the warming centres and emergency shelter beds open for Greater Lake Tahoe Area (a county 'code blue' page, 211), and write them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://www.weather.gov/alerts?area=NV",
-   "date_published": "2026-11-17T01:00:58Z",
-   "date_modified": "2026-11-17T01:00:58Z",
-   "tags": [
-    "outreach",
-    "outreach.cold"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-cold_relief-NV-2026-11-18",
-    "objective": "field:cold_relief:NV:2026-11-18#find:centres",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": 1795176000,
-    "jurisdiction": [
-     "us-nv"
-    ],
-    "presence": "desk",
-    "limits": [
-     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. If someone is unresponsive in the cold, call 911 first."
-    ],
     "record": "wss://record.cosmiccodex.app"
    }
   },
