@@ -11,6 +11,66 @@
  "language": "en",
  "items": [
   {
+   "id": "field:smoke_relief:PA:2026-11-18#find:spaces",
+   "title": "Smoke and bad air: Pennsylvania (1 forecast area)",
+   "content_text": "Find the clean-air or cooling spaces open for Allegheny (libraries, county centres) and note them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://www.weather.gov/alerts?area=PA",
+   "date_published": "2026-11-19T00:15:34Z",
+   "date_modified": "2026-11-19T00:15:34Z",
+   "tags": [
+    "outreach",
+    "outreach.smoke"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-smoke_relief-PA-2026-11-18",
+    "objective": "field:smoke_relief:PA:2026-11-18#find:spaces",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1795122000,
+    "jurisdiction": [
+     "us-pa"
+    ],
+    "presence": "desk",
+    "limits": [
+     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "field:cold_relief:AK:2026-11-17#find:centres",
+   "title": "Cold-night outreach: Alaska (1 forecast area)",
+   "content_text": "Find the warming centres and emergency shelter beds open for Upper Kuskokwim Valley (a county 'code blue' page, 211), and write them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://www.weather.gov/alerts?area=AK",
+   "date_published": "2026-11-19T00:13:24Z",
+   "date_modified": "2026-11-19T00:13:24Z",
+   "tags": [
+    "outreach",
+    "outreach.cold"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-cold_relief-AK-2026-11-17",
+    "objective": "field:cold_relief:AK:2026-11-17#find:centres",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1795219200,
+    "jurisdiction": [
+     "us-ak"
+    ],
+    "presence": "desk",
+    "limits": [
+     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. If someone is unresponsive in the cold, call 911 first."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
    "id": "field:cold_relief:NV:2026-11-18#find:centres",
    "title": "Cold-night outreach: Nevada (2 forecast areas)",
    "content_text": "Find the warming centres and emergency shelter beds open for Greater Lake Tahoe Area and Ruby Mountains and East Humboldt Range (a county 'code blue' page, 211), and write them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
@@ -41,36 +101,6 @@
    }
   },
   {
-   "id": "field:smoke_relief:PA:2026-11-16#find:spaces",
-   "title": "Smoke and bad air: Pennsylvania (1 forecast area)",
-   "content_text": "Find the clean-air or cooling spaces open for Allegheny (libraries, county centres) and note them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://www.weather.gov/alerts?area=PA",
-   "date_published": "2026-11-18T15:16:48Z",
-   "date_modified": "2026-11-18T15:16:48Z",
-   "tags": [
-    "outreach",
-    "outreach.smoke"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-smoke_relief-PA-2026-11-16",
-    "objective": "field:smoke_relief:PA:2026-11-16#find:spaces",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": 1795046400,
-    "jurisdiction": [
-     "us-pa"
-    ],
-    "presence": "desk",
-    "limits": [
-     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first."
-    ],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
    "id": "ic-icsa-6f42430dc4#check:fix",
    "title": "Siemens Industrial Software Products",
    "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2026-111497 in Siemens Industrial Software Products, published since 2026-11-10.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
@@ -92,36 +122,6 @@
     "jurisdiction": [],
     "presence": "desk",
     "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "field:cold_relief:AK:2026-11-17#find:centres",
-   "title": "Cold-night outreach: Alaska (4 forecast areas)",
-   "content_text": "Find the warming centres and emergency shelter beds open for Lower Yukon River, Southern Seward Peninsula Coast, St Lawrence Island and Yukon Delta Coast (a county 'code blue' page, 211), and write them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://www.weather.gov/alerts?area=AK",
-   "date_published": "2026-11-18T12:26:56Z",
-   "date_modified": "2026-11-18T12:26:56Z",
-   "tags": [
-    "outreach",
-    "outreach.cold"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-cold_relief-AK-2026-11-17",
-    "objective": "field:cold_relief:AK:2026-11-17#find:centres",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": 1795219200,
-    "jurisdiction": [
-     "us-ak"
-    ],
-    "presence": "desk",
-    "limits": [
-     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. If someone is unresponsive in the cold, call 911 first."
-    ],
     "record": "wss://record.cosmiccodex.app"
    }
   },
