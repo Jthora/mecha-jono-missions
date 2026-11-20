@@ -11,6 +11,460 @@
  "language": "en",
  "items": [
   {
+   "id": "field:smoke_relief:PA:2026-11-20#find:spaces",
+   "title": "Smoke and bad air: Pennsylvania (6 forecast areas)",
+   "content_text": "Find the clean-air or cooling spaces open for Allegheny, Cumberland, Dauphin, Lancaster and 2 more (libraries, county centres) and note them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://www.weather.gov/alerts?area=PA",
+   "date_published": "2026-11-20T15:41:59Z",
+   "date_modified": "2026-11-20T15:41:59Z",
+   "tags": [
+    "outreach",
+    "outreach.smoke"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-smoke_relief-PA-2026-11-20",
+    "objective": "field:smoke_relief:PA:2026-11-20#find:spaces",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1795247100,
+    "jurisdiction": [
+     "us-pa"
+    ],
+    "presence": "desk",
+    "limits": [
+     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "field:cold_relief:CA:2026-11-13#find:centres",
+   "title": "Cold-night outreach: California (18 forecast areas)",
+   "content_text": "Find the warming centres and emergency shelter beds open for East Bay Hills, East Bay Interior Valleys, Eastern Santa Clara Hills, Greater Lake Tahoe Area and 14 more (a county 'code blue' page, 211), and write them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://www.weather.gov/alerts?area=CA",
+   "date_published": "2026-11-20T15:39:41Z",
+   "date_modified": "2026-11-20T15:39:41Z",
+   "tags": [
+    "outreach",
+    "outreach.cold"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-cold_relief-CA-2026-11-13",
+    "objective": "field:cold_relief:CA:2026-11-13#find:centres",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1795276800,
+    "jurisdiction": [
+     "us-ca"
+    ],
+    "presence": "desk",
+    "limits": [
+     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. If someone is unresponsive in the cold, call 911 first."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-b752e42ccd#status:sisters-unite-community-womens-outreach",
+   "title": "Palmdale, CA",
+   "content_text": "Find whether Sisters Unite Community Womens Outreach (ZIP 93550) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-20T15:21:02Z",
+   "date_modified": "2026-11-20T15:21:02Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-b752e42ccd",
+    "objective": "ic-jurisdiction-b752e42ccd#status:sisters-unite-community-womens-outreach",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-ca"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-b752e42ccd#status:veterans-welcoming-homes",
+   "title": "Palmdale, CA",
+   "content_text": "Find whether Veterans Welcoming Homes (ZIP 93552) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-20T15:21:02Z",
+   "date_modified": "2026-11-20T15:21:02Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-b752e42ccd",
+    "objective": "ic-jurisdiction-b752e42ccd#status:veterans-welcoming-homes",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-ca"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-b752e42ccd#status:feed-my-flock-outreach-minitry",
+   "title": "Palmdale, CA",
+   "content_text": "Find whether Feed My Flock Outreach Minitry (ZIP 93552) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-20T15:21:02Z",
+   "date_modified": "2026-11-20T15:21:02Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-b752e42ccd",
+    "objective": "ic-jurisdiction-b752e42ccd#status:feed-my-flock-outreach-minitry",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-ca"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-b752e42ccd#status:mary-bell-youth-adult-foundation",
+   "title": "Palmdale, CA",
+   "content_text": "Find whether Mary Bell Youth & Adult Foundation (ZIP 93550) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-20T15:21:02Z",
+   "date_modified": "2026-11-20T15:21:02Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-b752e42ccd",
+    "objective": "ic-jurisdiction-b752e42ccd#status:mary-bell-youth-adult-foundation",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-ca"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-b752e42ccd#status:highland-youth-football",
+   "title": "Palmdale, CA",
+   "content_text": "Find whether Highland Youth Football (ZIP 93551) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-20T15:21:02Z",
+   "date_modified": "2026-11-20T15:21:02Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-b752e42ccd",
+    "objective": "ic-jurisdiction-b752e42ccd#status:highland-youth-football",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-ca"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-333911331e#status:home-away-from-home-teen-shelter",
+   "title": "Lancaster, TX",
+   "content_text": "Find whether Home Away From Home Teen Shelter (ZIP 75134) still operates: its IRS status today, a current website or phone line, a filing since 15 June 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-20T15:20:46Z",
+   "date_modified": "2026-11-20T15:20:46Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-333911331e",
+    "objective": "ic-jurisdiction-333911331e#status:home-away-from-home-teen-shelter",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-tx"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-333911331e#status:compassion-outreach-of-texas",
+   "title": "Lancaster, TX",
+   "content_text": "Find whether Compassion Outreach Of Texas (ZIP 75146) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-20T15:20:46Z",
+   "date_modified": "2026-11-20T15:20:46Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-333911331e",
+    "objective": "ic-jurisdiction-333911331e#status:compassion-outreach-of-texas",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-tx"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-333911331e#status:toj-ecovillage-homeless-project",
+   "title": "Lancaster, TX",
+   "content_text": "Find whether Toj Ecovillage Homeless Project (ZIP 75146) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-20T15:20:46Z",
+   "date_modified": "2026-11-20T15:20:46Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-333911331e",
+    "objective": "ic-jurisdiction-333911331e#status:toj-ecovillage-homeless-project",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-tx"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-333911331e#status:ledbetter-community-outreach",
+   "title": "Lancaster, TX",
+   "content_text": "Find whether Ledbetter Community Outreach (ZIP 75146) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-20T15:20:46Z",
+   "date_modified": "2026-11-20T15:20:46Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-333911331e",
+    "objective": "ic-jurisdiction-333911331e#status:ledbetter-community-outreach",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-tx"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-b8aa96cd35#status:roy-foundation-reaching-our-youth-inc",
+   "title": "Snellville, GA",
+   "content_text": "Find whether Roy Foundation Reaching Our Youth Inc (ZIP 30078) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-20T15:20:29Z",
+   "date_modified": "2026-11-20T15:20:29Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-b8aa96cd35",
+    "objective": "ic-jurisdiction-b8aa96cd35#status:roy-foundation-reaching-our-youth-inc",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-ga"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-b8aa96cd35#status:my-brothers-keeper-outreach",
+   "title": "Snellville, GA",
+   "content_text": "Find whether My Brothers Keeper Outreach (ZIP 30078) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-20T15:20:29Z",
+   "date_modified": "2026-11-20T15:20:29Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-b8aa96cd35",
+    "objective": "ic-jurisdiction-b8aa96cd35#status:my-brothers-keeper-outreach",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-ga"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-b8aa96cd35#status:lfg-recovery-inc",
+   "title": "Snellville, GA",
+   "content_text": "Find whether Lfg Recovery Inc (ZIP 30078) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-20T15:20:29Z",
+   "date_modified": "2026-11-20T15:20:29Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-b8aa96cd35",
+    "objective": "ic-jurisdiction-b8aa96cd35#status:lfg-recovery-inc",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-ga"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-b8aa96cd35#status:triple-h-homeless-helping-homeless-corpo",
+   "title": "Snellville, GA",
+   "content_text": "Find whether Triple H - Homeless Helping Homeless Corporation (ZIP 30039) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-20T15:20:29Z",
+   "date_modified": "2026-11-20T15:20:29Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-b8aa96cd35",
+    "objective": "ic-jurisdiction-b8aa96cd35#status:triple-h-homeless-helping-homeless-corpo",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-ga"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "field:cold_relief:NV:2026-11-18#find:centres",
+   "title": "Cold-night outreach: Nevada (2 forecast areas)",
+   "content_text": "Find the warming centres and emergency shelter beds open for Greater Lake Tahoe Area and Ruby Mountains and East Humboldt Range (a county 'code blue' page, 211), and write them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://www.weather.gov/alerts?area=NV",
+   "date_published": "2026-11-20T12:46:19Z",
+   "date_modified": "2026-11-20T12:46:19Z",
+   "tags": [
+    "outreach",
+    "outreach.cold"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-cold_relief-NV-2026-11-18",
+    "objective": "field:cold_relief:NV:2026-11-18#find:centres",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1795219200,
+    "jurisdiction": [
+     "us-nv"
+    ],
+    "presence": "desk",
+    "limits": [
+     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. If someone is unresponsive in the cold, call 911 first."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
    "id": "ic-jurisdiction-b21ff75949#status:table-youth-talk",
    "title": "Harrisburg, PA",
    "content_text": "Find whether Table Youth Talk (ZIP 17104) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
@@ -287,36 +741,6 @@
     ],
     "presence": "desk",
     "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "field:cold_relief:CA:2026-11-13#find:centres",
-   "title": "Cold-night outreach: California (27 forecast areas)",
-   "content_text": "Find the warming centres and emergency shelter beds open for East Bay Hills, East Bay Interior Valleys, Eastern Santa Clara Hills, Eastern Sierra Slopes of Inyo County and 23 more (a county 'code blue' page, 211), and write them…\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://www.weather.gov/alerts?area=CA",
-   "date_published": "2026-11-20T06:32:25Z",
-   "date_modified": "2026-11-20T06:32:25Z",
-   "tags": [
-    "outreach",
-    "outreach.cold"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-cold_relief-CA-2026-11-13",
-    "objective": "field:cold_relief:CA:2026-11-13#find:centres",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": 1795276800,
-    "jurisdiction": [
-     "us-ca"
-    ],
-    "presence": "desk",
-    "limits": [
-     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. If someone is unresponsive in the cold, call 911 first."
-    ],
     "record": "wss://record.cosmiccodex.app"
    }
   },
@@ -1429,36 +1853,6 @@
     "jurisdiction": [],
     "presence": "desk",
     "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "field:cold_relief:NV:2026-11-18#find:centres",
-   "title": "Cold-night outreach: Nevada (4 forecast areas)",
-   "content_text": "Find the warming centres and emergency shelter beds open for Esmeralda and Central Nye County, Greater Lake Tahoe Area, Ruby Mountains and East Humboldt Range and Spring Mountains-Red Rock Canyon (a county 'code blue' page…\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://www.weather.gov/alerts?area=NV",
-   "date_published": "2026-11-19T12:38:30Z",
-   "date_modified": "2026-11-19T12:38:30Z",
-   "tags": [
-    "outreach",
-    "outreach.cold"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-cold_relief-NV-2026-11-18",
-    "objective": "field:cold_relief:NV:2026-11-18#find:centres",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": 1795219200,
-    "jurisdiction": [
-     "us-nv"
-    ],
-    "presence": "desk",
-    "limits": [
-     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. If someone is unresponsive in the cold, call 911 first."
-    ],
     "record": "wss://record.cosmiccodex.app"
    }
   },

@@ -3,18 +3,18 @@
  "problems": [],
  "record": {
   "notes": {
-   "all": 4598,
+   "all": 4613,
    "thread_endings": 63,
    "mission_endings": 61,
-   "withdrawn": 56,
-   "standing": 4418
+   "withdrawn": 54,
+   "standing": 4435
   },
   "missions": {
-   "all": 158,
-   "open": 81,
-   "field": 68,
-   "closed": 77,
-   "research": 90
+   "all": 162,
+   "open": 85,
+   "field": 69,
+   "research": 93,
+   "closed": 77
   },
   "threads": {
    "all": 101,
@@ -23,8 +23,8 @@
    "unsupported": 1,
    "retracted": 1
   },
-  "listings": 1420,
-  "videos": 84,
+  "listings": 1467,
+  "videos": 85,
   "ours": {
    "no reason given": 1,
    "Mixmag's terms allow linking to its site only with its prior written consent": 1,
@@ -33,7 +33,7 @@
    "a case thread, retracted: we published it and withdrew it -- it should not have gone out": 1
   },
   "ended": {
-   "heat alerts, withdrawn when the forecast eased": 35
+   "heat alerts, withdrawn when the forecast eased": 33
   }
  },
  "handed_back": [
@@ -70,14 +70,14 @@
  ],
  "questions": {
   "asked": 180,
-  "open": 109,
+  "open": 107,
   "answered": 5,
   "withdrawn": 0,
   "unanswerable": 26,
-  "expired": 16,
+  "expired": 18,
   "narrowed": 16,
   "merged": 8,
-  "first_due": "2026-11-20"
+  "first_due": "2026-11-21"
  },
  "key_watch": {
   "since": "2026-10-07",
