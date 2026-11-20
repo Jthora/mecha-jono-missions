@@ -11,6 +11,96 @@
  "language": "en",
  "items": [
   {
+   "id": "field:smoke_relief:IN:2026-11-20#find:spaces",
+   "title": "Smoke and bad air: Indiana (2 forecast areas)",
+   "content_text": "Find the clean-air or cooling spaces open for Elkhart and Marion (libraries, county centres) and note them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://www.weather.gov/alerts?area=IN",
+   "date_published": "2026-11-20T19:04:50Z",
+   "date_modified": "2026-11-20T19:04:50Z",
+   "tags": [
+    "outreach",
+    "outreach.smoke"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-smoke_relief-IN-2026-11-20",
+    "objective": "field:smoke_relief:IN:2026-11-20#find:spaces",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1795360500,
+    "jurisdiction": [
+     "us-in"
+    ],
+    "presence": "desk",
+    "limits": [
+     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "field:cold_relief:NV:2026-11-18#find:centres",
+   "title": "Cold-night outreach: Nevada (1 forecast area)",
+   "content_text": "Find the warming centres and emergency shelter beds open for Ruby Mountains and East Humboldt Range (a county 'code blue' page, 211), and write them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://www.weather.gov/alerts?area=NV",
+   "date_published": "2026-11-20T19:04:44Z",
+   "date_modified": "2026-11-20T19:04:44Z",
+   "tags": [
+    "outreach",
+    "outreach.cold"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-cold_relief-NV-2026-11-18",
+    "objective": "field:cold_relief:NV:2026-11-18#find:centres",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1795219200,
+    "jurisdiction": [
+     "us-nv"
+    ],
+    "presence": "desk",
+    "limits": [
+     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. If someone is unresponsive in the cold, call 911 first."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "field:cold_relief:CA:2026-11-13#find:centres",
+   "title": "Cold-night outreach: California (8 forecast areas)",
+   "content_text": "Find the warming centres and emergency shelter beds open for East Bay Hills, East Bay Interior Valleys, Eastern Santa Clara Hills, Mountains Of San Benito County And Interior Monterey County Including Pinnacles National Park and…\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://www.weather.gov/alerts?area=CA",
+   "date_published": "2026-11-20T19:04:43Z",
+   "date_modified": "2026-11-20T19:04:43Z",
+   "tags": [
+    "outreach",
+    "outreach.cold"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-cold_relief-CA-2026-11-13",
+    "objective": "field:cold_relief:CA:2026-11-13#find:centres",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1795276800,
+    "jurisdiction": [
+     "us-ca"
+    ],
+    "presence": "desk",
+    "limits": [
+     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. If someone is unresponsive in the cold, call 911 first."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
    "id": "field:smoke_relief:PA:2026-11-20#find:spaces",
    "title": "Smoke and bad air: Pennsylvania (6 forecast areas)",
    "content_text": "Find the clean-air or cooling spaces open for Allegheny, Cumberland, Dauphin, Lancaster and 2 more (libraries, county centres) and note them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
@@ -36,36 +126,6 @@
     "presence": "desk",
     "limits": [
      "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first."
-    ],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "field:cold_relief:CA:2026-11-13#find:centres",
-   "title": "Cold-night outreach: California (18 forecast areas)",
-   "content_text": "Find the warming centres and emergency shelter beds open for East Bay Hills, East Bay Interior Valleys, Eastern Santa Clara Hills, Greater Lake Tahoe Area and 14 more (a county 'code blue' page, 211), and write them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://www.weather.gov/alerts?area=CA",
-   "date_published": "2026-11-20T15:39:41Z",
-   "date_modified": "2026-11-20T15:39:41Z",
-   "tags": [
-    "outreach",
-    "outreach.cold"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-cold_relief-CA-2026-11-13",
-    "objective": "field:cold_relief:CA:2026-11-13#find:centres",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": 1795276800,
-    "jurisdiction": [
-     "us-ca"
-    ],
-    "presence": "desk",
-    "limits": [
-     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. If someone is unresponsive in the cold, call 911 first."
     ],
     "record": "wss://record.cosmiccodex.app"
    }
@@ -431,36 +491,6 @@
     ],
     "presence": "desk",
     "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "field:cold_relief:NV:2026-11-18#find:centres",
-   "title": "Cold-night outreach: Nevada (2 forecast areas)",
-   "content_text": "Find the warming centres and emergency shelter beds open for Greater Lake Tahoe Area and Ruby Mountains and East Humboldt Range (a county 'code blue' page, 211), and write them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://www.weather.gov/alerts?area=NV",
-   "date_published": "2026-11-20T12:46:19Z",
-   "date_modified": "2026-11-20T12:46:19Z",
-   "tags": [
-    "outreach",
-    "outreach.cold"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-cold_relief-NV-2026-11-18",
-    "objective": "field:cold_relief:NV:2026-11-18#find:centres",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": 1795219200,
-    "jurisdiction": [
-     "us-nv"
-    ],
-    "presence": "desk",
-    "limits": [
-     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. If someone is unresponsive in the cold, call 911 first."
-    ],
     "record": "wss://record.cosmiccodex.app"
    }
   },
