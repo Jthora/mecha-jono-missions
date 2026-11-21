@@ -428,36 +428,6 @@
    }
   },
   {
-   "id": "field:cold_relief:UT:2026-11-19#find:centres",
-   "title": "Cold-night outreach: Utah (1 forecast area)",
-   "content_text": "Find the warming centres and emergency shelter beds open for Wasatch Mountains I-80 North (a county 'code blue' page, 211), and write them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://www.weather.gov/alerts?area=UT",
-   "date_published": "2026-11-21T14:11:16Z",
-   "date_modified": "2026-11-21T14:11:16Z",
-   "tags": [
-    "outreach",
-    "outreach.cold"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-cold_relief-UT-2026-11-19",
-    "objective": "field:cold_relief:UT:2026-11-19#find:centres",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": 1795284000,
-    "jurisdiction": [
-     "us-ut"
-    ],
-    "presence": "desk",
-    "limits": [
-     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. If someone is unresponsive in the cold, call 911 first."
-    ],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
    "id": "ic-icsa-6f42430dc4#check:fix",
    "title": "Siemens Industrial Software Products",
    "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2026-111497 in Siemens Industrial Software Products, published since 2026-11-10.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
