@@ -11,6 +11,453 @@
  "language": "en",
  "items": [
   {
+   "id": "ic-icsa-f44ff64f16#check:fix",
+   "title": "Grid Protection Alliance openPDC and openHistorian",
+   "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2026-100730 in Grid Protection Alliance openPDC and openHistorian, published since 2026-10-08.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-21T15:29:44Z",
+   "date_modified": "2026-11-21T15:29:44Z",
+   "tags": [
+    "cyber",
+    "cyber.ics"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-f44ff64f16",
+    "objective": "ic-icsa-f44ff64f16#check:fix",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-466b1b65f4#status:veterans-mind-health-foundation",
+   "title": "Gainesville, FL",
+   "content_text": "Find whether Veterans Mind Health Foundation (ZIP 32606) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-21T15:29:44Z",
+   "date_modified": "2026-11-21T15:29:44Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-466b1b65f4",
+    "objective": "ic-jurisdiction-466b1b65f4#status:veterans-mind-health-foundation",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-fl"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-466b1b65f4#status:project-youth-care-inc",
+   "title": "Gainesville, FL",
+   "content_text": "Find whether Project Youth Care Inc (ZIP 32601) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-21T15:29:44Z",
+   "date_modified": "2026-11-21T15:29:44Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-466b1b65f4",
+    "objective": "ic-jurisdiction-466b1b65f4#status:project-youth-care-inc",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-fl"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-466b1b65f4#status:youth-equity-project-inc",
+   "title": "Gainesville, FL",
+   "content_text": "Find whether Youth Equity Project Inc (ZIP 32608) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-21T15:29:44Z",
+   "date_modified": "2026-11-21T15:29:44Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-466b1b65f4",
+    "objective": "ic-jurisdiction-466b1b65f4#status:youth-equity-project-inc",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-fl"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-466b1b65f4#status:salvation-temple-outreach-ministry-inc",
+   "title": "Gainesville, FL",
+   "content_text": "Find whether Salvation Temple Outreach Ministry Inc (ZIP 32607) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-21T15:29:44Z",
+   "date_modified": "2026-11-21T15:29:44Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-466b1b65f4",
+    "objective": "ic-jurisdiction-466b1b65f4#status:salvation-temple-outreach-ministry-inc",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-fl"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-57e497ed3e#status:his-hands-extended-culinary-youth-servic",
+   "title": "Kissimmee, FL",
+   "content_text": "Find whether His Hands Extended Culinary Youth Services (ZIP 34759) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-21T15:29:30Z",
+   "date_modified": "2026-11-21T15:29:30Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-57e497ed3e",
+    "objective": "ic-jurisdiction-57e497ed3e#status:his-hands-extended-culinary-youth-servic",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-fl"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-57e497ed3e#status:youth-education-skills-and-wellness-glob",
+   "title": "Kissimmee, FL",
+   "content_text": "Find whether Youth Education Skills And Wellness Global Inc (ZIP 34743) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-21T15:29:30Z",
+   "date_modified": "2026-11-21T15:29:30Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-57e497ed3e",
+    "objective": "ic-jurisdiction-57e497ed3e#status:youth-education-skills-and-wellness-glob",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-fl"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-57e497ed3e#status:william-bell-youth-foundation",
+   "title": "Kissimmee, FL",
+   "content_text": "Find whether William Bell Youth Foundation (ZIP 34744) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-21T15:29:30Z",
+   "date_modified": "2026-11-21T15:29:30Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-57e497ed3e",
+    "objective": "ic-jurisdiction-57e497ed3e#status:william-bell-youth-foundation",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-fl"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-57e497ed3e#status:osceola-panthers-youth-sports-inc",
+   "title": "Kissimmee, FL",
+   "content_text": "Find whether Osceola Panthers Youth Sports Inc (ZIP 34745) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-21T15:29:30Z",
+   "date_modified": "2026-11-21T15:29:30Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-57e497ed3e",
+    "objective": "ic-jurisdiction-57e497ed3e#status:osceola-panthers-youth-sports-inc",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-fl"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-57e497ed3e#status:poinciana-league-of-athletics-for-the-yo",
+   "title": "Kissimmee, FL",
+   "content_text": "Find whether Poinciana League Of Athletics For The Youth Inc (ZIP 34759) still operates: its IRS status today, a current website or phone line, a filing since 15 July 2025.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-21T15:29:30Z",
+   "date_modified": "2026-11-21T15:29:30Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-57e497ed3e",
+    "objective": "ic-jurisdiction-57e497ed3e#status:poinciana-league-of-athletics-for-the-yo",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-fl"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-28e369e4bc#status:las-vegas-housing-for-the-homeless",
+   "title": "North Las Vegas, NV",
+   "content_text": "Find whether Las Vegas Housing For The Homeless (ZIP 89032) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-21T15:29:14Z",
+   "date_modified": "2026-11-21T15:29:14Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-28e369e4bc",
+    "objective": "ic-jurisdiction-28e369e4bc#status:las-vegas-housing-for-the-homeless",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-nv"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-28e369e4bc#status:fresh-start-track-field-for-youth",
+   "title": "North Las Vegas, NV",
+   "content_text": "Find whether Fresh Start Track & Field For Youth (ZIP 89030) still operates: its IRS status today, a current website or phone line, a filing since 15 January 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-21T15:29:14Z",
+   "date_modified": "2026-11-21T15:29:14Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-28e369e4bc",
+    "objective": "ic-jurisdiction-28e369e4bc#status:fresh-start-track-field-for-youth",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-nv"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-28e369e4bc#status:a7-youth-foundation",
+   "title": "North Las Vegas, NV",
+   "content_text": "Find whether A7 Youth Foundation (ZIP 89081) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-21T15:29:14Z",
+   "date_modified": "2026-11-21T15:29:14Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-28e369e4bc",
+    "objective": "ic-jurisdiction-28e369e4bc#status:a7-youth-foundation",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-nv"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-28e369e4bc#status:truthfull-transformations-for-homeless-y",
+   "title": "North Las Vegas, NV",
+   "content_text": "Find whether Truthfull Transformations For Homeless Youth (ZIP 89086) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-21T15:29:14Z",
+   "date_modified": "2026-11-21T15:29:14Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-28e369e4bc",
+    "objective": "ic-jurisdiction-28e369e4bc#status:truthfull-transformations-for-homeless-y",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-nv"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "ic-jurisdiction-28e369e4bc#status:respond-first-with-youth-foundation",
+   "title": "North Las Vegas, NV",
+   "content_text": "Find whether Respond First With Youth Foundation (ZIP 89031) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "date_published": "2026-11-21T15:29:14Z",
+   "date_modified": "2026-11-21T15:29:14Z",
+   "tags": [
+    "charity",
+    "charity.revocation"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-jurisdiction-28e369e4bc",
+    "objective": "ic-jurisdiction-28e369e4bc#status:respond-first-with-youth-foundation",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": null,
+    "jurisdiction": [
+     "us",
+     "us-nv"
+    ],
+    "presence": "desk",
+    "limits": [],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "field:cold_relief:UT:2026-11-19#find:centres",
+   "title": "Cold-night outreach: Utah (1 forecast area)",
+   "content_text": "Find the warming centres and emergency shelter beds open for Wasatch Mountains I-80 North (a county 'code blue' page, 211), and write them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://www.weather.gov/alerts?area=UT",
+   "date_published": "2026-11-21T14:11:16Z",
+   "date_modified": "2026-11-21T14:11:16Z",
+   "tags": [
+    "outreach",
+    "outreach.cold"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-cold_relief-UT-2026-11-19",
+    "objective": "field:cold_relief:UT:2026-11-19#find:centres",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1795284000,
+    "jurisdiction": [
+     "us-ut"
+    ],
+    "presence": "desk",
+    "limits": [
+     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. If someone is unresponsive in the cold, call 911 first."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
    "id": "ic-icsa-6f42430dc4#check:fix",
    "title": "Siemens Industrial Software Products",
    "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2026-111497 in Siemens Industrial Software Products, published since 2026-11-10.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
@@ -478,36 +925,6 @@
     "presence": "desk",
     "limits": [
      "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first."
-    ],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "field:cold_relief:CA:2026-11-13#find:centres",
-   "title": "Cold-night outreach: California (14 forecast areas)",
-   "content_text": "Find the warming centres and emergency shelter beds open for East Bay Hills, East Bay Interior Valleys, Eastern Santa Clara Hills, Kaiser to Rodgers Ridge and 10 more (a county 'code blue' page, 211), and write them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://www.weather.gov/alerts?area=CA",
-   "date_published": "2026-11-20T22:00:30Z",
-   "date_modified": "2026-11-20T22:00:30Z",
-   "tags": [
-    "outreach",
-    "outreach.cold"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-cold_relief-CA-2026-11-13",
-    "objective": "field:cold_relief:CA:2026-11-13#find:centres",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": 1795276800,
-    "jurisdiction": [
-     "us-ca"
-    ],
-    "presence": "desk",
-    "limits": [
-     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. If someone is unresponsive in the cold, call 911 first."
     ],
     "record": "wss://record.cosmiccodex.app"
    }
@@ -1738,36 +2155,6 @@
    }
   },
   {
-   "id": "field:cold_relief:UT:2026-11-19#find:centres",
-   "title": "Cold-night outreach: Utah (2 forecast areas)",
-   "content_text": "Find the warming centres and emergency shelter beds open for Wasatch Mountains I-80 North and Wasatch Mountains South of I-80 (a county 'code blue' page, 211), and write them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://www.weather.gov/alerts?area=UT",
-   "date_published": "2026-11-19T18:48:51Z",
-   "date_modified": "2026-11-19T18:48:51Z",
-   "tags": [
-    "outreach",
-    "outreach.cold"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-cold_relief-UT-2026-11-19",
-    "objective": "field:cold_relief:UT:2026-11-19#find:centres",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": 1795284000,
-    "jurisdiction": [
-     "us-ut"
-    ],
-    "presence": "desk",
-    "limits": [
-     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. If someone is unresponsive in the cold, call 911 first."
-    ],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
    "id": "ic-jurisdiction-ae839692bd#status:giving-to-the-homeless",
    "title": "Newark, DE",
    "content_text": "Find whether Giving To The Homeless (ZIP 19702) still operates: its IRS status today, a current website or phone line, a filing since 15 May 2026.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
@@ -2318,31 +2705,6 @@
     "limits": [
      "Never open a listed website, never contact the organisation or anyone in it, and never post the sites or names elsewhere. Report only through the provider's or registrar's abuse channel, with OFAC's own entry: the listing is OFAC's, and a site may have changed hands since, which the provider can check."
     ],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "ic-icsa-f44ff64f16#check:fix",
-   "title": "Grid Protection Alliance openPDC and openHistorian",
-   "content_text": "Check the vendor's own site and support channels for a fix or advisory for CVE-2026-100730 in Grid Protection Alliance openPDC and openHistorian, published since 2026-10-08.\nAbout 30 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "date_published": "2026-11-17T14:49:59Z",
-   "date_modified": "2026-11-17T14:49:59Z",
-   "tags": [
-    "cyber",
-    "cyber.ics"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_ic-icsa-f44ff64f16",
-    "objective": "ic-icsa-f44ff64f16#check:fix",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": null,
-    "jurisdiction": [],
-    "presence": "desk",
-    "limits": [],
     "record": "wss://record.cosmiccodex.app"
    }
   },
