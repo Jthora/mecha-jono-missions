@@ -3,11 +3,11 @@
  "problems": [],
  "record": {
   "notes": {
-   "all": 4706,
+   "all": 4715,
    "mission_endings": 69,
    "thread_endings": 76,
    "withdrawn": 53,
-   "standing": 4508
+   "standing": 4517
   },
   "missions": {
    "all": 171,
@@ -17,14 +17,14 @@
    "field": 66
   },
   "threads": {
-   "all": 113,
-   "open": 45,
+   "all": 116,
+   "open": 48,
    "superseded": 61,
    "not_worth_pursuing": 5,
    "unsupported": 1,
    "retracted": 1
   },
-  "listings": 1651,
+  "listings": 1649,
   "videos": 88,
   "ours": {
    "no reason given": 1,
