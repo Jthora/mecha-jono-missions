@@ -3,16 +3,16 @@
  "problems": [],
  "record": {
   "notes": {
-   "all": 4840,
+   "all": 4851,
    "mission_endings": 76,
    "thread_endings": 75,
    "withdrawn": 53,
-   "standing": 4636
+   "standing": 4647
   },
   "missions": {
-   "all": 174,
-   "closed": 96,
-   "field": 69,
+   "all": 173,
+   "closed": 95,
+   "field": 68,
    "open": 78,
    "research": 105
   },
@@ -24,8 +24,8 @@
    "unsupported": 1,
    "retracted": 1
   },
-  "listings": 1327,
-  "videos": 89,
+  "listings": 1317,
+  "videos": 90,
   "ours": {
    "no reason given": 1,
    "Mixmag's terms allow linking to its site only with its prior written consent": 1,
@@ -78,7 +78,7 @@
   "expired": 22,
   "narrowed": 17,
   "merged": 8,
-  "first_due": "2026-11-23"
+  "first_due": "2026-11-24"
  },
  "key_watch": {
   "since": "2026-10-07",
