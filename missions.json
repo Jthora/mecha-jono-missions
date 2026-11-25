@@ -12,11 +12,11 @@
  "items": [
   {
    "id": "field:cold_relief:MO:2026-11-25#find:centres",
-   "title": "Cold-night outreach: Missouri (25 forecast areas)",
-   "content_text": "Find the warming centres and emergency shelter beds open for Bollinger, Calhoun, Cape Girardeau, Crawford and 21 more (a county 'code blue' page, 211), and write them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "title": "Cold-night outreach: Missouri (28 forecast areas)",
+   "content_text": "Find the warming centres and emergency shelter beds open for Bollinger, Butler, Calhoun, Cape Girardeau and 24 more (a county 'code blue' page, 211), and write them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
    "external_url": "https://www.weather.gov/alerts?area=MO",
-   "date_published": "2026-11-25T07:37:06Z",
-   "date_modified": "2026-11-25T07:37:06Z",
+   "date_published": "2026-11-25T19:22:10Z",
+   "date_modified": "2026-11-25T19:22:10Z",
    "tags": [
     "outreach",
     "outreach.cold"
@@ -32,6 +32,36 @@
     "valid_until": 1795737600,
     "jurisdiction": [
      "us-mo"
+    ],
+    "presence": "desk",
+    "limits": [
+     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. If someone is unresponsive in the cold, call 911 first."
+    ],
+    "record": "wss://record.cosmiccodex.app"
+   }
+  },
+  {
+   "id": "field:cold_relief:IL:2026-11-25#find:centres",
+   "title": "Cold-night outreach: Illinois (15 forecast areas)",
+   "content_text": "Find the warming centres and emergency shelter beds open for Calhoun, Gasconade, Greene, Jefferson and 11 more (a county 'code blue' page, 211), and write them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
+   "external_url": "https://www.weather.gov/alerts?area=IL",
+   "date_published": "2026-11-25T19:22:09Z",
+   "date_modified": "2026-11-25T19:22:09Z",
+   "tags": [
+    "outreach",
+    "outreach.cold"
+   ],
+   "_mission": {
+    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-cold_relief-IL-2026-11-25",
+    "objective": "field:cold_relief:IL:2026-11-25#find:centres",
+    "takers": [
+     "human",
+     "agent"
+    ],
+    "claims": "many",
+    "valid_until": 1795737600,
+    "jurisdiction": [
+     "us-il"
     ],
     "presence": "desk",
     "limits": [
@@ -877,36 +907,6 @@
     ],
     "presence": "desk",
     "limits": [],
-    "record": "wss://record.cosmiccodex.app"
-   }
-  },
-  {
-   "id": "field:cold_relief:IL:2026-11-25#find:centres",
-   "title": "Cold-night outreach: Illinois (15 forecast areas)",
-   "content_text": "Find the warming centres and emergency shelter beds open for Calhoun, Greene, Jefferson, Jersey and 11 more (a county 'code blue' page, 211), and write them on a card.\nAbout 20 minutes.\nHand back: what you found, each fact with the URL it came from and the words the source uses. Read the guide's rules first.",
-   "external_url": "https://www.weather.gov/alerts?area=IL",
-   "date_published": "2026-11-25T04:29:07Z",
-   "date_modified": "2026-11-25T04:29:07Z",
-   "tags": [
-    "outreach",
-    "outreach.cold"
-   ],
-   "_mission": {
-    "address": "30079:6301c4d09a014909e5a48b7d0c9aa859eec18804c2fc87eab4e414aa5a319692:starcom_mission_package_field-cold_relief-IL-2026-11-25",
-    "objective": "field:cold_relief:IL:2026-11-25#find:centres",
-    "takers": [
-     "human",
-     "agent"
-    ],
-    "claims": "many",
-    "valid_until": 1795737600,
-    "jurisdiction": [
-     "us-il"
-    ],
-    "presence": "desk",
-    "limits": [
-     "Work in pairs. Never confront anyone, enter private property or take anyone's personal details. Ask before you photograph anyone, and never post faces or the places people sleep. Follow official responders. Look after yourself first. If someone is unresponsive in the cold, call 911 first."
-    ],
     "record": "wss://record.cosmiccodex.app"
    }
   },
