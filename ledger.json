@@ -3,17 +3,17 @@
  "problems": [],
  "record": {
   "notes": {
-   "all": 4993,
+   "all": 5002,
    "mission_endings": 79,
    "thread_endings": 76,
    "withdrawn": 53,
-   "standing": 4785
+   "standing": 4794
   },
   "missions": {
    "all": 171,
    "open": 82,
-   "research": 105,
    "field": 66,
+   "research": 105,
    "closed": 89
   },
   "threads": {
@@ -24,7 +24,7 @@
    "unsupported": 1,
    "retracted": 1
   },
-  "listings": 1282,
+  "listings": 1285,
   "videos": 93,
   "ours": {
    "no reason given": 1,
